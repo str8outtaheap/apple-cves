@@ -1,0 +1,1586 @@
+[
+  {
+    "id": "CVE-2004-1123",
+    "components": [
+      "QuickTime Streaming Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1122",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1121",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1089",
+    "components": [
+      "Cyrus IMAP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1088",
+    "components": [
+      "Postfix"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1087",
+    "components": [
+      "Terminal"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1086",
+    "components": [
+      "PSNormalizer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1085",
+    "components": [
+      "HIToolbox"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1084",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1083",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1082",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1081",
+    "components": [
+      "Appkit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1021",
+    "components": [
+      "Terminal"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0988",
+    "components": [
+      "QuickTime 6.5.2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-10-27",
+        "date": "2004-10-27",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0962",
+    "components": [
+      "Apple Remote Desktop"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-10-27",
+        "date": "2004-10-27",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0940",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0927",
+    "components": [
+      "ServerAdmin"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-30 (released 2004-10-04)",
+        "date": "2004-09-30",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0926",
+    "components": [
+      "QuickTime",
+      "QuickTime 6.5.2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-30 (released 2004-10-04)",
+        "date": "2004-09-30",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-10-27",
+        "date": "2004-10-27",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0925",
+    "components": [
+      "postfix"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-30 (released 2004-10-04)",
+        "date": "2004-09-30",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0924",
+    "components": [
+      "NetInfo Manager"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-30 (released 2004-10-04)",
+        "date": "2004-09-30",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0923",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-30 (released 2004-10-04)",
+        "date": "2004-09-30",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0922",
+    "components": [
+      "AFP Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-30 (released 2004-10-04)",
+        "date": "2004-09-30",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0921",
+    "components": [
+      "AFP Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-30 (released 2004-10-04)",
+        "date": "2004-09-30",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0886",
+    "components": [
+      "Appkit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0885",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0873",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-16",
+        "date": "2004-09-16",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0825",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0824",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0823",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0822",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0821",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0804",
+    "components": [
+      "Appkit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0803",
+    "components": [
+      "Appkit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0794",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0786",
+    "components": [
+      "Apache 2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0772",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0751",
+    "components": [
+      "Apache 2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0748",
+    "components": [
+      "Apache 2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0747",
+    "components": [
+      "Apache 2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0744",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0743",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0720",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0644",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0643",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0642",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0607",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0599",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-08-09 (Mac OS X 10.3.4 and 10.2.8)",
+        "date": "2004-08-09",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0598",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-08-09 (Mac OS X 10.3.4 and 10.2.8)",
+        "date": "2004-08-09",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0597",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-08-09 (Mac OS X 10.3.4 and 10.2.8)",
+        "date": "2004-08-09",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0558",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-30 (released 2004-10-04)",
+        "date": "2004-09-30",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0539",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-06-07 delivers a number of security enhancements and is recommended for all Macintosh users. The purpose of this update is to increase security by alerting you when opening an application for the first time via document mappings or a web address (URL). Please see this article for more details, including a description of the new alert dialog box. Security Update 2004-06-07 is available for the following system versions:",
+        "date": "2004-06-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0538",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-06-07 delivers a number of security enhancements and is recommended for all Macintosh users. The purpose of this update is to increase security by alerting you when opening an application for the first time via document mappings or a web address (URL). Please see this article for more details, including a description of the new alert dialog box. Security Update 2004-06-07 is available for the following system versions:",
+        "date": "2004-06-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0523",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0521",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0518",
+    "components": [
+      "AppleFileServer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-06-07 delivers a number of security enhancements and is recommended for all Macintosh users. The purpose of this update is to increase security by alerting you when opening an application for the first time via document mappings or a web address (URL). Please see this article for more details, including a description of the new alert dialog box. Security Update 2004-06-07 is available for the following system versions:",
+        "date": "2004-06-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0517",
+    "components": [
+      "Packaging"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-06-07 delivers a number of security enhancements and is recommended for all Macintosh users. The purpose of this update is to increase security by alerting you when opening an application for the first time via document mappings or a web address (URL). Please see this article for more details, including a description of the new alert dialog box. Security Update 2004-06-07 is available for the following system versions:",
+        "date": "2004-06-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0516",
+    "components": [
+      "Packaging"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-06-07 delivers a number of security enhancements and is recommended for all Macintosh users. The purpose of this update is to increase security by alerting you when opening an application for the first time via document mappings or a web address (URL). Please see this article for more details, including a description of the new alert dialog box. Security Update 2004-06-07 is available for the following system versions:",
+        "date": "2004-06-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0515",
+    "components": [
+      "LoginWindow"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-06-07 delivers a number of security enhancements and is recommended for all Macintosh users. The purpose of this update is to increase security by alerting you when opening an application for the first time via document mappings or a web address (URL). Please see this article for more details, including a description of the new alert dialog box. Security Update 2004-06-07 is available for the following system versions:",
+        "date": "2004-06-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0514",
+    "components": [
+      "LoginWindow"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-06-07 delivers a number of security enhancements and is recommended for all Macintosh users. The purpose of this update is to increase security by alerting you when opening an application for the first time via document mappings or a web address (URL). Please see this article for more details, including a description of the new alert dialog box. Security Update 2004-06-07 is available for the following system versions:",
+        "date": "2004-06-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0513",
+    "components": [
+      "NFS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-06-07 delivers a number of security enhancements and is recommended for all Macintosh users. The purpose of this update is to increase security by alerting you when opening an application for the first time via document mappings or a web address (URL). Please see this article for more details, including a description of the new alert dialog box. Security Update 2004-06-07 is available for the following system versions:",
+        "date": "2004-06-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0493",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0492",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0488",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0486",
+    "components": [
+      "HelpViewer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-05-24 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-05-24",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-05-24 for Mac OS X 10.3.3 \"Panther\" and Mac OS X 10.3.3 Server",
+        "date": "2004-05-24",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0485",
+    "components": [
+      "Terminal"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-05-24 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-05-24",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-06-07 delivers a number of security enhancements and is recommended for all Macintosh users. The purpose of this update is to increase security by alerting you when opening an application for the first time via document mappings or a web address (URL). Please see this article for more details, including a description of the new alert dialog box. Security Update 2004-06-07 is available for the following system versions:",
+        "date": "2004-06-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0431",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-04-05 has been incorporated into this security update.",
+        "date": "2004-04-05",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0430",
+    "components": [
+      "AppleFileServer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-05-03 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-05-03",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-05-03 for Mac OS X 10.3.3 \"Panther\" and Mac OS X 10.3.3 Server",
+        "date": "2004-05-03",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0429",
+    "components": [
+      "Server Settings daemon"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-05-03 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-05-03",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0428",
+    "components": [
+      "CoreFoundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-05-03 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-05-03",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-05-03 for Mac OS X 10.3.3 \"Panther\" and Mac OS X 10.3.3 Server",
+        "date": "2004-05-03",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0426",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0421",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-08-09 (Mac OS X 10.3.4 and 10.2.8)",
+        "date": "2004-08-09",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0403",
+    "components": [
+      "IPSec"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-05-03 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-05-03",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-05-03 for Mac OS X 10.3.3 \"Panther\" and Mac OS X 10.3.3 Server",
+        "date": "2004-05-03",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0383",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-04-05 for Mac OS X 10.3.3 \"Panther\" and Mac OS X 10.3.3 Server",
+        "date": "2004-04-05",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0382",
+    "components": [
+      "CUPS Printing"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-04-05 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-04-05",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-04-05 for Mac OS X 10.3.3 \"Panther\" and Mac OS X 10.3.3 Server",
+        "date": "2004-04-05",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0361",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0184",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0183",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0175",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0174",
+    "components": [
+      "Apache",
+      "Apache 2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-05-03 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-05-03",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-05-03 for Mac OS X 10.3.3 \"Panther\" and Mac OS X 10.3.3 Server",
+        "date": "2004-05-03",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0171",
+    "components": [
+      "TCP/IP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-06-07 delivers a number of security enhancements and is recommended for all Macintosh users. The purpose of this update is to increase security by alerting you when opening an application for the first time via document mappings or a web address (URL). Please see this article for more details, including a description of the new alert dialog box. Security Update 2004-06-07 is available for the following system versions:",
+        "date": "2004-06-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0169",
+    "components": [
+      "QuickTime Streaming Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-02-23 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-02-23",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-02-23 for Mac OS X 10.3.2 \"Panther\" and Mac OS X 10.3.2 Server",
+        "date": "2004-02-23",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0168",
+    "components": [
+      "CoreFoundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-02-23 for Mac OS X 10.3.2 \"Panther\" and Mac OS X 10.3.2 Server",
+        "date": "2004-02-23",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0167",
+    "components": [
+      "DiskArbitration"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-02-23 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-02-23",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-02-23 for Mac OS X 10.3.2 \"Panther\" and Mac OS X 10.3.2 Server",
+        "date": "2004-02-23",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0166",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-02-23 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-02-23",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0165",
+    "components": [
+      "Point-to-Point-Protocol"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-02-23 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-02-23",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-02-23 for Mac OS X 10.3.2 \"Panther\" and Mac OS X 10.3.2 Server",
+        "date": "2004-02-23",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0164",
+    "components": [
+      "IPSec"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-02-23 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-02-23",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-02-23 for Mac OS X 10.3.2 \"Panther\" and Mac OS X 10.3.2 Server",
+        "date": "2004-02-23",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0155",
+    "components": [
+      "IPSec"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-05-03 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-05-03",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-05-03 for Mac OS X 10.3.3 \"Panther\" and Mac OS X 10.3.3 Server",
+        "date": "2004-05-03",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0113",
+    "components": [
+      "Apache 2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-05-03 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-05-03",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-05-03 for Mac OS X 10.3.3 \"Panther\" and Mac OS X 10.3.3 Server",
+        "date": "2004-05-03",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0112",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-04-05 for Mac OS X 10.3.3 \"Panther\" and Mac OS X 10.3.3 Server",
+        "date": "2004-04-05",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0110",
+    "components": [
+      "libxml2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-04-05 for Mac OS X 10.3.3 \"Panther\" and Mac OS X 10.3.3 Server",
+        "date": "2004-04-05",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0092",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-01-26 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-01-26",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-01-26 for Mac OS X 10.3.2 \"Panther\" and Mac OS X Server 10.3.2",
+        "date": "2004-01-26",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0090",
+    "components": [
+      "Windows File Sharing"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-01-26 for Mac OS X 10.3.2 \"Panther\" and Mac OS X Server 10.3.2",
+        "date": "2004-01-26",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0089",
+    "components": [
+      "Classic"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-01-26 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-01-26",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-01-26 for Mac OS X 10.3.2 \"Panther\" and Mac OS X Server 10.3.2",
+        "date": "2004-01-26",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0088",
+    "components": [
+      "System Configuration"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-01-26 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-01-26",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0087",
+    "components": [
+      "System Configuration"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-01-26 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-01-26",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-01-26 for Mac OS X 10.3.2 \"Panther\" and Mac OS X Server 10.3.2",
+        "date": "2004-01-26",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0086",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-01-26 for Mac OS X 10.3.2 \"Panther\" and Mac OS X Server 10.3.2",
+        "date": "2004-01-26",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0085",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-01-26 for Mac OS X 10.1.5 \"Puma\" and Mac OS X 10.1.5 Server",
+        "date": "2004-01-26",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-01-26 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-01-26",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0079",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-04-05 for Mac OS X 10.3.3 \"Panther\" and Mac OS X 10.3.3 Server",
+        "date": "2004-04-05",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0057",
+    "components": [
+      "tcpdump"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-02-23 for Mac OS X 10.3.2 \"Panther\" and Mac OS X 10.3.2 Server",
+        "date": "2004-02-23",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0055",
+    "components": [
+      "tcpdump"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-02-23 for Mac OS X 10.3.2 \"Panther\" and Mac OS X 10.3.2 Server",
+        "date": "2004-02-23",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0989",
+    "components": [
+      "tcpdump"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-02-23 for Mac OS X 10.3.2 \"Panther\" and Mac OS X 10.3.2 Server",
+        "date": "2004-02-23",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0987",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0789",
+    "components": [
+      "Apache 2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-01-26 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-01-26",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-01-26 for Mac OS X 10.3.2 \"Panther\" and Mac OS X Server 10.3.2",
+        "date": "2004-01-26",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0542",
+    "components": [
+      "Apache 1.3",
+      "Apache 2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-01-26 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-01-26",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-01-26 for Mac OS X 10.3.2 \"Panther\" and Mac OS X Server 10.3.2",
+        "date": "2004-01-26",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0020",
+    "components": [
+      "Apache",
+      "Apache 2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-05-03 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2004-05-03",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-05-03 for Mac OS X 10.3.3 \"Panther\" and Mac OS X 10.3.3 Server",
+        "date": "2004-05-03",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-12-02",
+        "date": "2004-12-02",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2002-1363",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2004-08-09 (Mac OS X 10.3.4 and 10.2.8)",
+        "date": "2004-08-09",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2004-09-07",
+        "date": "2004-09-07",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  }
+]

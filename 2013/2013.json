@@ -1,0 +1,6718 @@
+[
+  {
+    "id": "CVE-2013-6114",
+    "components": [
+      "Motion"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Motion 5.1",
+        "date": "2013-12-19",
+        "advisory": "https://support.apple.com/en-us/103375"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5850",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5849",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5848",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5843",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5842",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5840",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5832",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5831",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5830",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5829",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5825",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5824",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5823",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5820",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5819",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5818",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5817",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5814",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5812",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5809",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5804",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5803",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5802",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5801",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5797",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5790",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5789",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5787",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5784",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5783",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5782",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5780",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5778",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5776",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5774",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5772",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5228",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.1 and Safari 7.0.1",
+        "date": "2013-12-16",
+        "advisory": "https://support.apple.com/en-us/100910"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5227",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.1 and Safari 7.0.1",
+        "date": "2013-12-16",
+        "advisory": "https://support.apple.com/en-us/100910"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5225",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.1 and Safari 7.0.1",
+        "date": "2013-12-16",
+        "advisory": "https://support.apple.com/en-us/100910"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5199",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.1 and Safari 7.0.1",
+        "date": "2013-12-16",
+        "advisory": "https://support.apple.com/en-us/100910"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5198",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.1 and Safari 7.0.1",
+        "date": "2013-12-16",
+        "advisory": "https://support.apple.com/en-us/100910"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5197",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.1 and Safari 7.0.1",
+        "date": "2013-12-16",
+        "advisory": "https://support.apple.com/en-us/100910"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5196",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.1 and Safari 7.0.1",
+        "date": "2013-12-16",
+        "advisory": "https://support.apple.com/en-us/100910"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5195",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.1 and Safari 7.0.1",
+        "date": "2013-12-16",
+        "advisory": "https://support.apple.com/en-us/100910"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5193",
+    "components": [
+      "App Store"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.0.4",
+        "date": "2013-11-14",
+        "advisory": "https://support.apple.com/en-us/103606"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5192",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5191",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5190",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5189",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5188",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5187",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5186",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5185",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5184",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5183",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5182",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5181",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5180",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5179",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5178",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5177",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5176",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5175",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5174",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5173",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5172",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5171",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5170",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5169",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5168",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5167",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5166",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5165",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5164",
+    "components": [
+      "Phone"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.0.3",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103605"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5163",
+    "components": [
+      "Directory Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X v10.8.5 Supplemental Update",
+        "date": "2013-10-03",
+        "advisory": "https://support.apple.com/en-us/103367"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5162",
+    "components": [
+      "Passcode Lock"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.0.3",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103605"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5161",
+    "components": [
+      "Passcode Lock"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.0.2",
+        "date": "2013-09-26",
+        "advisory": "https://support.apple.com/en-us/103604"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5160",
+    "components": [
+      "Passcode Lock"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.0.2",
+        "date": "2013-09-26",
+        "advisory": "https://support.apple.com/en-us/103604"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5159",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5158",
+    "components": [
+      "Social"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5157",
+    "components": [
+      "Twitter"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5156",
+    "components": [
+      "Telephony"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5155",
+    "components": [
+      "Sandbox"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5154",
+    "components": [
+      "Sandbox"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5153",
+    "components": [
+      "Springboard"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5152",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5151",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5150",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5149",
+    "components": [
+      "Push Notifications"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5148",
+    "components": [
+      "Keynote"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Keynote 6.0",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103371"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5147",
+    "components": [
+      "Passcode Lock"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5145",
+    "components": [
+      "Apple TV",
+      "Kext Management"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5144",
+    "components": [
+      "Passcode Lock"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.0.3",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103605"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5143",
+    "components": [
+      "Server App"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server 3.0",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103368"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5142",
+    "components": [
+      "Apple TV",
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5141",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5140",
+    "components": [
+      "Apple TV",
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5139",
+    "components": [
+      "Apple TV",
+      "IOSerialFamily"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5138",
+    "components": [
+      "Apple TV",
+      "IOKitUser"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5137",
+    "components": [
+      "IOKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5136",
+    "components": [
+      "Apple Remote Desktop"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple Remote Desktop 3.7",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103369"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5135",
+    "components": [
+      "Apple Remote Desktop",
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple Remote Desktop 3.5.4",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103370"
+      },
+      {
+        "name": "Apple Remote Desktop 3.7",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103369"
+      },
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5134",
+    "components": [
+      "Apple TV",
+      "Data Security"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5132",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "AirPort Base Station Firmware Update 7.6.4",
+        "date": "2013-08-13",
+        "advisory": "https://support.apple.com/en-us/102749"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5131",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5130",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5129",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5128",
+    "components": [
+      "Apple TV",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5127",
+    "components": [
+      "Apple TV",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5126",
+    "components": [
+      "Apple TV",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5125",
+    "components": [
+      "Apple TV",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-4616",
+    "components": [
+      "Personal Hotspot"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-4073",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-4002",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-3955",
+    "components": [
+      "File Systems"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-3954",
+    "components": [
+      "Apple TV",
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-3953",
+    "components": [
+      "Apple TV",
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-3950",
+    "components": [
+      "Apple TV",
+      "dyld"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-3829",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-005 and Java for Mac OS X v10.6 Update 17",
+        "date": "2013-10-15",
+        "advisory": "https://support.apple.com/en-us/100911"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-3743",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2909",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.1 and Safari 7.0.1",
+        "date": "2013-12-16",
+        "advisory": "https://support.apple.com/en-us/100910"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2848",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2842",
+    "components": [
+      "Apple TV",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2473",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2472",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2471",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2470",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2469",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2468",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2466",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2465",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2464",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2463",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2461",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2459",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2457",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2456",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2455",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2454",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2453",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2452",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2451",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2450",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2448",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2447",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2446",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2445",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2444",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2443",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2442",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2440",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2437",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2435",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2432",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2430",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2429",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2424",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2422",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2420",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2419",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2417",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2412",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2407",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2394",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2384",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2383",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2266",
+    "components": [
+      "Bind"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2110",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2021",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      },
+      {
+        "name": "OS X Server v2.2.2",
+        "date": "2013-09-17",
+        "advisory": "https://support.apple.com/en-us/103363"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2020",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      },
+      {
+        "name": "OS X Server v2.2.2",
+        "date": "2013-09-17",
+        "advisory": "https://support.apple.com/en-us/103363"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1944",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1901",
+    "components": [
+      "PostgreSQL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      },
+      {
+        "name": "OS X Server v2.2.2",
+        "date": "2013-09-17",
+        "advisory": "https://support.apple.com/en-us/103363"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1900",
+    "components": [
+      "PostgreSQL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      },
+      {
+        "name": "OS X Server v2.2.2",
+        "date": "2013-09-17",
+        "advisory": "https://support.apple.com/en-us/103363"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1899",
+    "components": [
+      "PostgreSQL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      },
+      {
+        "name": "OS X Server v2.2.2",
+        "date": "2013-09-17",
+        "advisory": "https://support.apple.com/en-us/103363"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1857",
+    "components": [
+      "Profile Manager",
+      "Ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      },
+      {
+        "name": "OS X Server 3.0",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103368"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1856",
+    "components": [
+      "Profile Manager",
+      "Ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      },
+      {
+        "name": "OS X Server 3.0",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103368"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1855",
+    "components": [
+      "Profile Manager",
+      "Ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      },
+      {
+        "name": "OS X Server 3.0",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103368"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1854",
+    "components": [
+      "Profile Manager",
+      "Ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      },
+      {
+        "name": "OS X Server 3.0",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103368"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1824",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1775",
+    "components": [
+      "sudo"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1667",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1643",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1635",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1571",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1569",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1563",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1558",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1557",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1540",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1537",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1500",
+    "components": [
+      "8011782"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-004 and Mac OS X v10.6 Update 16",
+        "date": "2013-06-18",
+        "advisory": "https://support.apple.com/en-us/100912"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1493",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-002 and Java for Mac OS X v10.6 Update 14",
+        "date": "2013-03-04",
+        "advisory": "https://support.apple.com/en-us/100913"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1491",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-003 and Java for Mac OS X v10.6 Update 15",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/100927"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1487",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1486",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1481",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1480",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1478",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1476",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1475",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1473",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1047",
+    "components": [
+      "Apple TV",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1046",
+    "components": [
+      "Apple TV",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1045",
+    "components": [
+      "Apple TV",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1044",
+    "components": [
+      "Apple TV",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1043",
+    "components": [
+      "Apple TV",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1042",
+    "components": [
+      "Apple TV",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1041",
+    "components": [
+      "Apple TV",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1040",
+    "components": [
+      "Apple TV",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1039",
+    "components": [
+      "Apple TV",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1038",
+    "components": [
+      "Apple TV",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1037",
+    "components": [
+      "Apple TV",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1036",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Safari 6.1",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103296"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1035",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103365"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1034",
+    "components": [
+      "Wiki Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server v2.2.2",
+        "date": "2013-09-17",
+        "advisory": "https://support.apple.com/en-us/103363"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1033",
+    "components": [
+      "Screen Lock"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1032",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1031",
+    "components": [
+      "Power Management"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1030",
+    "components": [
+      "Mobile Device Management"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1029",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1028",
+    "components": [
+      "IPSec"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1027",
+    "components": [
+      "Installer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1026",
+    "components": [
+      "Apple TV",
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1025",
+    "components": [
+      "Apple TV",
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1024",
+    "components": [
+      "CoreMedia Playback"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1023",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1022",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.4",
+        "date": "2013-05-22",
+        "advisory": "https://support.apple.com/en-us/103514"
+      },
+      {
+        "name": "Security Update 2013-003",
+        "date": "2013-07-02",
+        "advisory": "https://support.apple.com/en-us/103399"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1021",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.4",
+        "date": "2013-05-22",
+        "advisory": "https://support.apple.com/en-us/103514"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1020",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.4",
+        "date": "2013-05-22",
+        "advisory": "https://support.apple.com/en-us/103514"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1019",
+    "components": [
+      "Apple TV",
+      "CoreMedia",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.4",
+        "date": "2013-05-22",
+        "advisory": "https://support.apple.com/en-us/103514"
+      },
+      {
+        "name": "Security Update 2013-003",
+        "date": "2013-07-02",
+        "advisory": "https://support.apple.com/en-us/103399"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1018",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.4",
+        "date": "2013-05-22",
+        "advisory": "https://support.apple.com/en-us/103514"
+      },
+      {
+        "name": "Security Update 2013-003",
+        "date": "2013-07-02",
+        "advisory": "https://support.apple.com/en-us/103399"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1017",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.4",
+        "date": "2013-05-22",
+        "advisory": "https://support.apple.com/en-us/103514"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1016",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.4",
+        "date": "2013-05-22",
+        "advisory": "https://support.apple.com/en-us/103514"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1015",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.4",
+        "date": "2013-05-22",
+        "advisory": "https://support.apple.com/en-us/103514"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1014",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1013",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1012",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1011",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1010",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1009",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1008",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1007",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1006",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1005",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1004",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1003",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1002",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1001",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1000",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0999",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0998",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0997",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "JavaScriptCore",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "Safari 5.1.10",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103364"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0996",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0995",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0994",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0993",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0992",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0991",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0990",
+    "components": [
+      "SMB"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0989",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.4",
+        "date": "2013-05-22",
+        "advisory": "https://support.apple.com/en-us/103514"
+      },
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0988",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.4",
+        "date": "2013-05-22",
+        "advisory": "https://support.apple.com/en-us/103514"
+      },
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0987",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.4",
+        "date": "2013-05-22",
+        "advisory": "https://support.apple.com/en-us/103514"
+      },
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0986",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.4",
+        "date": "2013-05-22",
+        "advisory": "https://support.apple.com/en-us/103514"
+      },
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0985",
+    "components": [
+      "Disk Management"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0984",
+    "components": [
+      "Directory Service"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0983",
+    "components": [
+      "CoreAnimation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0982",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0981",
+    "components": [
+      "Apple TV",
+      "USB"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 5.2.1",
+        "date": "2013-03-19",
+        "advisory": "https://support.apple.com/en-us/103303"
+      },
+      {
+        "name": "iOS 6.1.3",
+        "date": "2013-03-19",
+        "advisory": "https://support.apple.com/en-us/103600"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0980",
+    "components": [
+      "Passcode Lock"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1.3",
+        "date": "2013-03-19",
+        "advisory": "https://support.apple.com/en-us/103600"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0979",
+    "components": [
+      "Lockdown"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1.3",
+        "date": "2013-03-19",
+        "advisory": "https://support.apple.com/en-us/103600"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0978",
+    "components": [
+      "Apple TV",
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 5.2.1",
+        "date": "2013-03-19",
+        "advisory": "https://support.apple.com/en-us/103303"
+      },
+      {
+        "name": "iOS 6.1.3",
+        "date": "2013-03-19",
+        "advisory": "https://support.apple.com/en-us/103600"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0977",
+    "components": [
+      "Apple TV",
+      "dyld"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 5.2.1",
+        "date": "2013-03-19",
+        "advisory": "https://support.apple.com/en-us/103303"
+      },
+      {
+        "name": "iOS 6.1.3",
+        "date": "2013-03-19",
+        "advisory": "https://support.apple.com/en-us/103600"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0976",
+    "components": [
+      "IOAcceleratorFamily"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.3 and Security Update 2013-001",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103513"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0975",
+    "components": [
+      "QuickDraw Manager"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0974",
+    "components": [
+      "StoreKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0973",
+    "components": [
+      "Software Update"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.3 and Security Update 2013-001",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103513"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0971",
+    "components": [
+      "PDFKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.3 and Security Update 2013-001",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103513"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0970",
+    "components": [
+      "Messages"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.3 and Security Update 2013-001",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103513"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0969",
+    "components": [
+      "Login Window"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.3 and Security Update 2013-001",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103513"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0968",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0967",
+    "components": [
+      "CoreTypes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.3 and Security Update 2013-001",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103513"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0966",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.3 and Security Update 2013-001",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103513"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0964",
+    "components": [
+      "Apple TV",
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 5.2",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103816"
+      },
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0963",
+    "components": [
+      "Identity Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      },
+      {
+        "name": "OS X Mountain Lion v10.8.3 and Security Update 2013-001",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103513"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0962",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      },
+      {
+        "name": "Safari 6.0.3",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103361"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0961",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.0.3",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103361"
+      },
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0960",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.0.3",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103361"
+      },
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0959",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      },
+      {
+        "name": "Safari 6.0.3",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103361"
+      },
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0958",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      },
+      {
+        "name": "Safari 6.0.3",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103361"
+      },
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0957",
+    "components": [
+      "Data Protection"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0956",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      },
+      {
+        "name": "Safari 6.0.3",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103361"
+      },
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0955",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      },
+      {
+        "name": "Safari 6.0.3",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103361"
+      },
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0954",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      },
+      {
+        "name": "Safari 6.0.3",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103361"
+      },
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0953",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      },
+      {
+        "name": "Safari 6.0.3",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103361"
+      },
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0952",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      },
+      {
+        "name": "Safari 6.0.3",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103361"
+      },
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0951",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      },
+      {
+        "name": "Safari 6.0.3",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103361"
+      },
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0950",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      },
+      {
+        "name": "Safari 6.0.3",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103361"
+      },
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0949",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      },
+      {
+        "name": "Safari 6.0.3",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103361"
+      },
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0948",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      },
+      {
+        "name": "Safari 6.0.3",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103361"
+      },
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0926",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0912",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1.3",
+        "date": "2013-03-19",
+        "advisory": "https://support.apple.com/en-us/103600"
+      },
+      {
+        "name": "Safari 6.0.4",
+        "date": "2013-04-16",
+        "advisory": "https://support.apple.com/en-us/103315"
+      },
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0879",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 6.0.5",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103516"
+      },
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0809",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-002 and Java for Mac OS X v10.6 Update 14",
+        "date": "2013-03-04",
+        "advisory": "https://support.apple.com/en-us/100913"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0450",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0446",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0445",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0443",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0442",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0441",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0440",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0438",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0435",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0434",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0433",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0432",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0429",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0428",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0427",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0426",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0425",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0424",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0423",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0419",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0409",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0351",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0333",
+    "components": [
+      "Podcast Producer Server",
+      "Ruby",
+      "Wiki Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server v2.2.1",
+        "date": "2013-02-04",
+        "advisory": "https://support.apple.com/en-us/103279"
+      },
+      {
+        "name": "OS X Mountain Lion v10.8.3 and Security Update 2013-001",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103513"
+      },
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0308",
+    "components": [
+      "Git"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Xcode 5.0",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103602"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0277",
+    "components": [
+      "Ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0276",
+    "components": [
+      "Ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0269",
+    "components": [
+      "Profile Manager"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server 3.0",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103368"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0249",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0169",
+    "components": [
+      "Java",
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      },
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0166",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0156",
+    "components": [
+      "Podcast Producer Server",
+      "Profile Manager",
+      "Ruby",
+      "Wiki Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server v2.2.1",
+        "date": "2013-02-04",
+        "advisory": "https://support.apple.com/en-us/103279"
+      },
+      {
+        "name": "OS X Mountain Lion v10.8.3 and Security Update 2013-001",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103513"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-0155",
+    "components": [
+      "Ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5688",
+    "components": [
+      "Bind"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5519",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5166",
+    "components": [
+      "Bind"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5134",
+    "components": [
+      "Apple TV",
+      "libxml"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5112",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-4929",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-4558",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-4244",
+    "components": [
+      "Bind"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-3817",
+    "components": [
+      "Bind"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-3756",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.3 and Security Update 2013-001",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103513"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-3749",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.3 and Security Update 2013-001",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103513"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-3748",
+    "components": [
+      "iTunes",
+      "JavaScriptCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      },
+      {
+        "name": "Safari 5.1.10",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103364"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-3701",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-3687",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-3632",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-3621",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-3607",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-3606",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-3547",
+    "components": [
+      "FreeRADIUS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server 3.0",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103368"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-3525",
+    "components": [
+      "Messages Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.3 and Security Update 2013-001",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103513"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-3499",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-3489",
+    "components": [
+      "PostgreSQL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.3 and Security Update 2013-001",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103513"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-3488",
+    "components": [
+      "PostgreSQL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.3 and Security Update 2013-001",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103513"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-3342",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-3213",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X v10.6 Update 12",
+        "date": "2013-02-01",
+        "advisory": "https://support.apple.com/en-us/100928"
+      },
+      {
+        "name": "Java for OS X 2013-001 and Java for Mac OS X v10.6 Update 13",
+        "date": "2013-02-19",
+        "advisory": "https://support.apple.com/en-us/100914"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2889",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      },
+      {
+        "name": "Safari 6.0.3",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103361"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2871",
+    "components": [
+      "Apple TV",
+      "libxslt"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2870",
+    "components": [
+      "Apple TV",
+      "libxslt"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2857",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      },
+      {
+        "name": "Safari 6.0.3",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103361"
+      },
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2825",
+    "components": [
+      "Apple TV",
+      "libxslt"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2824",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      },
+      {
+        "name": "Safari 6.0.3",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103361"
+      },
+      {
+        "name": "iTunes 11.0.3",
+        "date": "2013-05-16",
+        "advisory": "https://support.apple.com/en-us/103515"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2807",
+    "components": [
+      "Apple TV",
+      "libxml"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2687",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2686",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2619",
+    "components": [
+      "Apple TV",
+      "Wi-Fi"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 5.2",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103816"
+      },
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2333",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2131",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2110",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2088",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.3 and Security Update 2013-001",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103513"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-1150",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-0883",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.5 and Security Update 2013-004",
+        "date": "2013-09-12",
+        "advisory": "https://support.apple.com/en-us/103517"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-0876",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-0845",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-0841",
+    "components": [
+      "Apple TV",
+      "libxml"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-0050",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-4944",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-4619",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-4577",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-4576",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-4109",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-4108",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3427",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3389",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3210",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3207",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3102",
+    "components": [
+      "Apple TV",
+      "libxml"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3058",
+    "components": [
+      "International Components for Unicode"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 6.1",
+        "date": "2013-01-28",
+        "advisory": "https://support.apple.com/en-us/103817"
+      },
+      {
+        "name": "OS X Mountain Lion v10.8.3 and Security Update 2013-001",
+        "date": "2013-03-14",
+        "advisory": "https://support.apple.com/en-us/103513"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2391",
+    "components": [
+      "Apple TV",
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7",
+        "date": "2013-09-18",
+        "advisory": "https://support.apple.com/en-us/103603"
+      },
+      {
+        "name": "Apple TV 6.0",
+        "date": "2013-09-19",
+        "advisory": "https://support.apple.com/en-us/103316"
+      },
+      {
+        "name": "OS X Mavericks v10.9",
+        "date": "2013-10-22",
+        "advisory": "https://support.apple.com/en-us/103373"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1945",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mountain Lion v10.8.4 and Security Update 2013-002",
+        "date": "2013-06-04",
+        "advisory": "https://support.apple.com/en-us/103362"
+      }
+    ]
+  }
+]

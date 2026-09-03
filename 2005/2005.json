@@ -1,0 +1,2635 @@
+[
+  {
+    "id": "CVE-2005-3705",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-009",
+        "date": "2005-11-29",
+        "advisory": "https://support.apple.com/kb/TA23742",
+        "archive": "https://web.archive.org/web/20110521210044id_/http://support.apple.com/kb/TA23742"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3704",
+    "components": [
+      "syslog"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-009",
+        "date": "2005-11-29",
+        "advisory": "https://support.apple.com/kb/TA23742",
+        "archive": "https://web.archive.org/web/20110521210044id_/http://support.apple.com/kb/TA23742"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3703",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-009",
+        "date": "2005-11-29",
+        "advisory": "https://support.apple.com/kb/TA23742",
+        "archive": "https://web.archive.org/web/20110521210044id_/http://support.apple.com/kb/TA23742"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3702",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-009",
+        "date": "2005-11-29",
+        "advisory": "https://support.apple.com/kb/TA23742",
+        "archive": "https://web.archive.org/web/20110521210044id_/http://support.apple.com/kb/TA23742"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3701",
+    "components": [
+      "passwordserver"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-009",
+        "date": "2005-11-29",
+        "advisory": "https://support.apple.com/kb/TA23742",
+        "archive": "https://web.archive.org/web/20110521210044id_/http://support.apple.com/kb/TA23742"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3700",
+    "components": [
+      "iodbcadmintool"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-009",
+        "date": "2005-11-29",
+        "advisory": "https://support.apple.com/kb/TA23742",
+        "archive": "https://web.archive.org/web/20110521210044id_/http://support.apple.com/kb/TA23742"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3185",
+    "components": [
+      "curl"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-009",
+        "date": "2005-11-29",
+        "advisory": "https://support.apple.com/kb/TA23742",
+        "archive": "https://web.archive.org/web/20110521210044id_/http://support.apple.com/kb/TA23742"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2969",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-009",
+        "date": "2005-11-29",
+        "advisory": "https://support.apple.com/kb/TA23742",
+        "archive": "https://web.archive.org/web/20110521210044id_/http://support.apple.com/kb/TA23742"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2938",
+    "components": [
+      "iTunes 6 for Windows"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 6 for Windows",
+        "date": "2005-11-15",
+        "advisory": "https://support.apple.com/kb/TA23743",
+        "archive": "https://web.archive.org/web/20110521210103id_/http://support.apple.com/kb/TA23743"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2757",
+    "components": [
+      "CoreFoundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-009",
+        "date": "2005-11-29",
+        "advisory": "https://support.apple.com/kb/TA23742",
+        "archive": "https://web.archive.org/web/20110521210044id_/http://support.apple.com/kb/TA23742"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2756",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.0.3",
+        "date": "2005-10-12",
+        "advisory": "https://support.apple.com/kb/TA23702",
+        "archive": "https://web.archive.org/web/20110521212408id_/http://support.apple.com/kb/TA23702"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2755",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.0.3",
+        "date": "2005-10-12",
+        "advisory": "https://support.apple.com/kb/TA23702",
+        "archive": "https://web.archive.org/web/20110521212408id_/http://support.apple.com/kb/TA23702"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2754",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.0.3",
+        "date": "2005-10-12",
+        "advisory": "https://support.apple.com/kb/TA23702",
+        "archive": "https://web.archive.org/web/20110521212408id_/http://support.apple.com/kb/TA23702"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2753",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.0.3",
+        "date": "2005-10-12",
+        "advisory": "https://support.apple.com/kb/TA23702",
+        "archive": "https://web.archive.org/web/20110521212408id_/http://support.apple.com/kb/TA23702"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2752",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.3 Update",
+        "date": "2005-10-31",
+        "advisory": "https://support.apple.com/kb/TA23698",
+        "archive": "https://web.archive.org/web/20110521212437id_/http://support.apple.com/kb/TA23698"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2751",
+    "components": [
+      "memberd"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.3 Update",
+        "date": "2005-10-31",
+        "advisory": "https://support.apple.com/kb/TA23698",
+        "archive": "https://web.archive.org/web/20110521212437id_/http://support.apple.com/kb/TA23698"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2750",
+    "components": [
+      "Software Update"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.3 Update",
+        "date": "2005-10-31",
+        "advisory": "https://support.apple.com/kb/TA23698",
+        "archive": "https://web.archive.org/web/20110521212437id_/http://support.apple.com/kb/TA23698"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2749",
+    "components": [
+      "Finder"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.3 Update",
+        "date": "2005-10-31",
+        "advisory": "https://support.apple.com/kb/TA23698",
+        "archive": "https://web.archive.org/web/20110521212437id_/http://support.apple.com/kb/TA23698"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2748",
+    "components": [
+      "malloc"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-008",
+        "date": "2005-09-22",
+        "advisory": "https://support.apple.com/kb/TA23535",
+        "archive": "https://web.archive.org/web/20090927083508id_/http://support.apple.com:80/kb/TA23535?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2747",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-008",
+        "date": "2005-09-22",
+        "advisory": "https://support.apple.com/kb/TA23535",
+        "archive": "https://web.archive.org/web/20090927083508id_/http://support.apple.com:80/kb/TA23535?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2746",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-008",
+        "date": "2005-09-22",
+        "advisory": "https://support.apple.com/kb/TA23535",
+        "archive": "https://web.archive.org/web/20090927083508id_/http://support.apple.com:80/kb/TA23535?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2745",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      },
+      {
+        "name": "Security Update 2005-008",
+        "date": "2005-09-22",
+        "advisory": "https://support.apple.com/kb/TA23535",
+        "archive": "https://web.archive.org/web/20090927083508id_/http://support.apple.com:80/kb/TA23535?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2744",
+    "components": [
+      "QuickDraw Manager"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-008",
+        "date": "2005-09-22",
+        "advisory": "https://support.apple.com/kb/TA23535",
+        "archive": "https://web.archive.org/web/20090927083508id_/http://support.apple.com:80/kb/TA23535?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2743",
+    "components": [
+      "QuickTime for Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-008",
+        "date": "2005-09-22",
+        "advisory": "https://support.apple.com/kb/TA23535",
+        "archive": "https://web.archive.org/web/20090927083508id_/http://support.apple.com:80/kb/TA23535?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2742",
+    "components": [
+      "SecurityAgent"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-008",
+        "date": "2005-09-22",
+        "advisory": "https://support.apple.com/kb/TA23535",
+        "archive": "https://web.archive.org/web/20090927083508id_/http://support.apple.com:80/kb/TA23535?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2741",
+    "components": [
+      "securityd"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-008",
+        "date": "2005-09-22",
+        "advisory": "https://support.apple.com/kb/TA23535",
+        "archive": "https://web.archive.org/web/20090927083508id_/http://support.apple.com:80/kb/TA23535?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2739",
+    "components": [
+      "Keychain"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.3 Update",
+        "date": "2005-10-31",
+        "advisory": "https://support.apple.com/kb/TA23698",
+        "archive": "https://web.archive.org/web/20110521212437id_/http://support.apple.com/kb/TA23698"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2738",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Security Update",
+        "date": "2005-09-13",
+        "advisory": "https://support.apple.com/kb/TA23501",
+        "archive": "https://web.archive.org/web/20081228062145id_/http://support.apple.com:80/kb/TA23501"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2700",
+    "components": [
+      "apache_mod_ssl"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-009",
+        "date": "2005-11-29",
+        "advisory": "https://support.apple.com/kb/TA23742",
+        "archive": "https://web.archive.org/web/20110521210044id_/http://support.apple.com/kb/TA23742"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2530",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Security Update",
+        "date": "2005-09-13",
+        "advisory": "https://support.apple.com/kb/TA23501",
+        "archive": "https://web.archive.org/web/20081228062145id_/http://support.apple.com:80/kb/TA23501"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2529",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java 1.3.1 and 1.4.2 Release 2",
+        "date": "2005-09-13",
+        "advisory": "https://support.apple.com/kb/TA23502",
+        "archive": "https://web.archive.org/web/20090420091842id_/http://support.apple.com:80/kb/TA23502?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2528",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java 1.3.1 and 1.4.2 Release 2",
+        "date": "2005-09-13",
+        "advisory": "https://support.apple.com/kb/TA23502",
+        "archive": "https://web.archive.org/web/20090420091842id_/http://support.apple.com:80/kb/TA23502?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2527",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java 1.3.1 and 1.4.2 Release 2",
+        "date": "2005-09-13",
+        "advisory": "https://support.apple.com/kb/TA23502",
+        "archive": "https://web.archive.org/web/20090420091842id_/http://support.apple.com:80/kb/TA23502?"
+      },
+      {
+        "name": "Java Security Update",
+        "date": "2005-09-13",
+        "advisory": "https://support.apple.com/kb/TA23501",
+        "archive": "https://web.archive.org/web/20081228062145id_/http://support.apple.com:80/kb/TA23501"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2526",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2525",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2524",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      },
+      {
+        "name": "Security Update 2005-008",
+        "date": "2005-09-22",
+        "advisory": "https://support.apple.com/kb/TA23535",
+        "archive": "https://web.archive.org/web/20090927083508id_/http://support.apple.com:80/kb/TA23535?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2523",
+    "components": [
+      "Weblog Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2522",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2521",
+    "components": [
+      "traceroute"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2520",
+    "components": [
+      "SecurityInterface"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2519",
+    "components": [
+      "Directory Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2518",
+    "components": [
+      "servermgrd"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2517",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2516",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2515",
+    "components": [
+      "QuartzComposerScreenSaver"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2514",
+    "components": [
+      "ping"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2513",
+    "components": [
+      "HItoolbox"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2512",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2511",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2510",
+    "components": [
+      "servermgr_ipfilter"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2509",
+    "components": [
+      "loginwindow"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2508",
+    "components": [
+      "Directory Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2507",
+    "components": [
+      "Directory Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2506",
+    "components": [
+      "CoreFoundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2505",
+    "components": [
+      "CoreFoundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2504",
+    "components": [
+      "Bluetooth"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2503",
+    "components": [
+      "AppKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2502",
+    "components": [
+      "AppKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2501",
+    "components": [
+      "AppKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2491",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-009",
+        "date": "2005-11-29",
+        "advisory": "https://support.apple.com/kb/TA23742",
+        "archive": "https://web.archive.org/web/20110521210044id_/http://support.apple.com/kb/TA23742"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2196",
+    "components": [
+      "AirPort 4.2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "AirPort 4.2 update",
+        "date": "2005-07-14",
+        "advisory": "https://support.apple.com/kb/TA23400",
+        "archive": "https://web.archive.org/web/20091113223500id_/http://support.apple.com:80/kb/TA23400"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2194",
+    "components": [
+      "TCP/IP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.2 Update",
+        "date": "2005-07-12",
+        "advisory": "https://support.apple.com/kb/TA23385",
+        "archive": "https://web.archive.org/web/20110521212704id_/http://support.apple.com/kb/TA23385"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2096",
+    "components": [
+      "zlib"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2095",
+    "components": [
+      "SquirrelMail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2088",
+    "components": [
+      "Apache2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-009",
+        "date": "2005-11-29",
+        "advisory": "https://support.apple.com/kb/TA23742",
+        "archive": "https://web.archive.org/web/20110521210044id_/http://support.apple.com/kb/TA23742"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1993",
+    "components": [
+      "sudo"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-009",
+        "date": "2005-11-29",
+        "advisory": "https://support.apple.com/kb/TA23742",
+        "archive": "https://web.archive.org/web/20110521210044id_/http://support.apple.com/kb/TA23742"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1992",
+    "components": [
+      "Ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-008",
+        "date": "2005-09-22",
+        "advisory": "https://support.apple.com/kb/TA23535",
+        "archive": "https://web.archive.org/web/20090927083508id_/http://support.apple.com:80/kb/TA23535?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1849",
+    "components": [
+      "zlib"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1769",
+    "components": [
+      "SquirrelMail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1728",
+    "components": [
+      "MCX Client"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-006",
+        "date": "2005-06-08",
+        "advisory": "https://support.apple.com/kb/TA23304",
+        "archive": "https://web.archive.org/web/20110521210544id_/http://support.apple.com/kb/TA23304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1727",
+    "components": [
+      "Folder Permissions"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-006",
+        "date": "2005-06-08",
+        "advisory": "https://support.apple.com/kb/TA23304",
+        "archive": "https://web.archive.org/web/20110521210544id_/http://support.apple.com/kb/TA23304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1726",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-006",
+        "date": "2005-06-08",
+        "advisory": "https://support.apple.com/kb/TA23304",
+        "archive": "https://web.archive.org/web/20110521210544id_/http://support.apple.com/kb/TA23304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1725",
+    "components": [
+      "launchd"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-006",
+        "date": "2005-06-08",
+        "advisory": "https://support.apple.com/kb/TA23304",
+        "archive": "https://web.archive.org/web/20110521210544id_/http://support.apple.com/kb/TA23304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1724",
+    "components": [
+      "NFS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-006",
+        "date": "2005-06-08",
+        "advisory": "https://support.apple.com/kb/TA23304",
+        "archive": "https://web.archive.org/web/20110521210544id_/http://support.apple.com/kb/TA23304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1723",
+    "components": [
+      "LaunchServices"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-006",
+        "date": "2005-06-08",
+        "advisory": "https://support.apple.com/kb/TA23304",
+        "archive": "https://web.archive.org/web/20110521210544id_/http://support.apple.com/kb/TA23304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1722",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-006",
+        "date": "2005-06-08",
+        "advisory": "https://support.apple.com/kb/TA23304",
+        "archive": "https://web.archive.org/web/20110521210544id_/http://support.apple.com/kb/TA23304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1721",
+    "components": [
+      "AFP Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-006",
+        "date": "2005-06-08",
+        "advisory": "https://support.apple.com/kb/TA23304",
+        "archive": "https://web.archive.org/web/20110521210544id_/http://support.apple.com/kb/TA23304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1720",
+    "components": [
+      "AFP Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-006",
+        "date": "2005-06-08",
+        "advisory": "https://support.apple.com/kb/TA23304",
+        "archive": "https://web.archive.org/web/20110521210544id_/http://support.apple.com/kb/TA23304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1689",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1474",
+    "components": [
+      "Dashboard"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.2 Update",
+        "date": "2005-07-12",
+        "advisory": "https://support.apple.com/kb/TA23385",
+        "archive": "https://web.archive.org/web/20110521212704id_/http://support.apple.com/kb/TA23385"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1408",
+    "components": [
+      "Keynote 2.0.2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Keynote 2.0.2 update",
+        "date": "2005-05-25",
+        "advisory": "https://support.apple.com/en-us/104067"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1406",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.3 Update",
+        "date": "2005-10-31",
+        "advisory": "https://support.apple.com/kb/TA23698",
+        "archive": "https://web.archive.org/web/20110521212437id_/http://support.apple.com/kb/TA23698"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1344",
+    "components": [
+      "Apache",
+      "Apache 2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      },
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1343",
+    "components": [
+      "VPN"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      },
+      {
+        "name": "Security Update 2005-006",
+        "date": "2005-06-08",
+        "advisory": "https://support.apple.com/kb/TA23304",
+        "archive": "https://web.archive.org/web/20110521210544id_/http://support.apple.com/kb/TA23304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1342",
+    "components": [
+      "Terminal"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1341",
+    "components": [
+      "Terminal"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1340",
+    "components": [
+      "Server Admin"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1339",
+    "components": [
+      "lukemftpd"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1338",
+    "components": [
+      "LDAP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1337",
+    "components": [
+      "Help Viewer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1336",
+    "components": [
+      "Foundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1335",
+    "components": [
+      "Directory Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1334",
+    "components": [
+      "QuickTime Quartz Composer Plugin"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.0.1",
+        "date": "2005-05-31",
+        "advisory": "https://support.apple.com/kb/TA23292",
+        "archive": "https://web.archive.org/web/20081222084631id_/http://support.apple.com:80/kb/TA23292?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1333",
+    "components": [
+      "Bluetooth"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      },
+      {
+        "name": "Security Update 2005-006",
+        "date": "2005-06-08",
+        "advisory": "https://support.apple.com/kb/TA23304",
+        "archive": "https://web.archive.org/web/20110521210544id_/http://support.apple.com/kb/TA23304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1332",
+    "components": [
+      "Bluetooth"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1331",
+    "components": [
+      "AppleScript"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1330",
+    "components": [
+      "AppKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1248",
+    "components": [
+      "iTunes 4.8"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 4.8",
+        "date": "2005-05-09",
+        "advisory": "https://support.apple.com/kb/TA23223",
+        "archive": "https://web.archive.org/web/20091026114120id_/http://support.apple.com:80/kb/TA23223?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1175",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1174",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1126",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.3 Update",
+        "date": "2005-10-31",
+        "advisory": "https://support.apple.com/kb/TA23698",
+        "archive": "https://web.archive.org/web/20110521212437id_/http://support.apple.com/kb/TA23698"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1043",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-006",
+        "date": "2005-06-08",
+        "advisory": "https://support.apple.com/kb/TA23304",
+        "archive": "https://web.archive.org/web/20110521210544id_/http://support.apple.com/kb/TA23304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1042",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-006",
+        "date": "2005-06-08",
+        "advisory": "https://support.apple.com/kb/TA23304",
+        "archive": "https://web.archive.org/web/20110521210544id_/http://support.apple.com/kb/TA23304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0985",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.3.8 Update",
+        "date": "2005-02-09",
+        "advisory": "https://support.apple.com/kb/TA23081",
+        "archive": "https://web.archive.org/web/20101223035654id_/http://support.apple.com:80/kb/TA23081?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0976",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.3.9 Update",
+        "date": "2005-04-15",
+        "advisory": "https://support.apple.com/kb/TA23084",
+        "archive": "https://web.archive.org/web/20090516231102id_/http://support.apple.com:80/kb/TA23084?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0975",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.3.9 Update",
+        "date": "2005-04-15",
+        "advisory": "https://support.apple.com/kb/TA23084",
+        "archive": "https://web.archive.org/web/20090516231102id_/http://support.apple.com:80/kb/TA23084?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0974",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.3.9 Update",
+        "date": "2005-04-15",
+        "advisory": "https://support.apple.com/kb/TA23084",
+        "archive": "https://web.archive.org/web/20090516231102id_/http://support.apple.com:80/kb/TA23084?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0973",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.3.9 Update",
+        "date": "2005-04-15",
+        "advisory": "https://support.apple.com/kb/TA23084",
+        "archive": "https://web.archive.org/web/20090516231102id_/http://support.apple.com:80/kb/TA23084?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0972",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.3.9 Update",
+        "date": "2005-04-15",
+        "advisory": "https://support.apple.com/kb/TA23084",
+        "archive": "https://web.archive.org/web/20090516231102id_/http://support.apple.com:80/kb/TA23084?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0971",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.3.9 Update",
+        "date": "2005-04-15",
+        "advisory": "https://support.apple.com/kb/TA23084",
+        "archive": "https://web.archive.org/web/20090516231102id_/http://support.apple.com:80/kb/TA23084?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0970",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.3.9 Update",
+        "date": "2005-04-15",
+        "advisory": "https://support.apple.com/kb/TA23084",
+        "archive": "https://web.archive.org/web/20090516231102id_/http://support.apple.com:80/kb/TA23084?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0969",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.3.9 Update",
+        "date": "2005-04-15",
+        "advisory": "https://support.apple.com/kb/TA23084",
+        "archive": "https://web.archive.org/web/20090516231102id_/http://support.apple.com:80/kb/TA23084?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0716",
+    "components": [
+      "Core Foundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0715",
+    "components": [
+      "AFP Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0713",
+    "components": [
+      "Bluetooth Setup Assistant"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0712",
+    "components": [
+      "Folder permissions"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0711",
+    "components": [
+      "MySQL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0710",
+    "components": [
+      "MySQL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0709",
+    "components": [
+      "MySQL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0605",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0594",
+    "components": [
+      "NetInfo"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0525",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-006",
+        "date": "2005-06-08",
+        "advisory": "https://support.apple.com/kb/TA23304",
+        "archive": "https://web.archive.org/web/20110521210544id_/http://support.apple.com/kb/TA23304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0524",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-006",
+        "date": "2005-06-08",
+        "advisory": "https://support.apple.com/kb/TA23304",
+        "archive": "https://web.archive.org/web/20110521210544id_/http://support.apple.com/kb/TA23304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0469",
+    "components": [
+      "Telnet"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0468",
+    "components": [
+      "Telnet"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0418",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-002",
+        "date": "2005-02-22",
+        "advisory": "https://support.apple.com/kb/TA22931",
+        "archive": "https://web.archive.org/web/20110521204926id_/http://support.apple.com/kb/TA22931"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0342",
+    "components": [
+      "Finder"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0340",
+    "components": [
+      "AFP Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0234",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0202",
+    "components": [
+      "Mailman"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0193",
+    "components": [
+      "iSync"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-004",
+        "date": "2005-04-19",
+        "advisory": "https://support.apple.com/kb/TA23083",
+        "archive": "https://web.archive.org/web/20110521210555id_/http://support.apple.com/kb/TA23083"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0127",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-001",
+        "date": "2005-01-25",
+        "advisory": "https://support.apple.com/kb/TA22859",
+        "archive": "https://web.archive.org/web/20101113085408id_/http://support.apple.com:80/kb/TA22859?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0126",
+    "components": [
+      "ColorSync"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-001",
+        "date": "2005-01-25",
+        "advisory": "https://support.apple.com/kb/TA22859",
+        "archive": "https://web.archive.org/web/20101113085408id_/http://support.apple.com:80/kb/TA22859?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0125",
+    "components": [
+      "at commands"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-001",
+        "date": "2005-01-25",
+        "advisory": "https://support.apple.com/kb/TA22859",
+        "archive": "https://web.archive.org/web/20101113085408id_/http://support.apple.com:80/kb/TA22859?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0104",
+    "components": [
+      "SquirrelMail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0103",
+    "components": [
+      "SquirrelMail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0075",
+    "components": [
+      "SquirrelMail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1314",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-001",
+        "date": "2005-01-25",
+        "advisory": "https://support.apple.com/kb/TA22859",
+        "archive": "https://web.archive.org/web/20101113085408id_/http://support.apple.com:80/kb/TA22859?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1308",
+    "components": [
+      "AppKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1307",
+    "components": [
+      "AppKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1189",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1154",
+    "components": [
+      "Samba"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1084",
+    "components": [
+      "Apache 2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1083",
+    "components": [
+      "Apache 2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1067",
+    "components": [
+      "Cyrus IMAP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1065",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-001",
+        "date": "2005-01-25",
+        "advisory": "https://support.apple.com/kb/TA22859",
+        "archive": "https://web.archive.org/web/20101113085408id_/http://support.apple.com:80/kb/TA22859?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1064",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-001",
+        "date": "2005-01-25",
+        "advisory": "https://support.apple.com/kb/TA22859",
+        "archive": "https://web.archive.org/web/20101113085408id_/http://support.apple.com:80/kb/TA22859?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1063",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-001",
+        "date": "2005-01-25",
+        "advisory": "https://support.apple.com/kb/TA22859",
+        "archive": "https://web.archive.org/web/20101113085408id_/http://support.apple.com:80/kb/TA22859?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1051",
+    "components": [
+      "sudo"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1036",
+    "components": [
+      "SquirrelMail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-001",
+        "date": "2005-01-25",
+        "advisory": "https://support.apple.com/kb/TA22859",
+        "archive": "https://web.archive.org/web/20101113085408id_/http://support.apple.com:80/kb/TA22859?"
+      },
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1029",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-002",
+        "date": "2005-02-22",
+        "advisory": "https://support.apple.com/kb/TA22931",
+        "archive": "https://web.archive.org/web/20110521204926id_/http://support.apple.com/kb/TA22931"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1020",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-001",
+        "date": "2005-01-25",
+        "advisory": "https://support.apple.com/kb/TA22859",
+        "archive": "https://web.archive.org/web/20101113085408id_/http://support.apple.com:80/kb/TA22859?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1019",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-001",
+        "date": "2005-01-25",
+        "advisory": "https://support.apple.com/kb/TA22859",
+        "archive": "https://web.archive.org/web/20101113085408id_/http://support.apple.com:80/kb/TA22859?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1018",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-001",
+        "date": "2005-01-25",
+        "advisory": "https://support.apple.com/kb/TA22859",
+        "archive": "https://web.archive.org/web/20101113085408id_/http://support.apple.com:80/kb/TA22859?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1015",
+    "components": [
+      "Cyrus IMAP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1013",
+    "components": [
+      "Cyrus IMAP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1012",
+    "components": [
+      "Cyrus IMAP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1011",
+    "components": [
+      "Cyrus IMAP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0989",
+    "components": [
+      "libxml2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-001",
+        "date": "2005-01-25",
+        "advisory": "https://support.apple.com/kb/TA22859",
+        "archive": "https://web.archive.org/web/20101113085408id_/http://support.apple.com:80/kb/TA22859?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0942",
+    "components": [
+      "Apache 2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0930",
+    "components": [
+      "Samba"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0885",
+    "components": [
+      "Apache 2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0884",
+    "components": [
+      "Cyrus SASL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0882",
+    "components": [
+      "Samba"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0688",
+    "components": [
+      "libXpm"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0687",
+    "components": [
+      "libXpm"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-005",
+        "date": "2005-05-03",
+        "advisory": "https://support.apple.com/kb/TA23185",
+        "archive": "https://web.archive.org/web/20110521210531id_/http://support.apple.com/kb/TA23185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0595",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-001",
+        "date": "2005-01-25",
+        "advisory": "https://support.apple.com/kb/TA22859",
+        "archive": "https://web.archive.org/web/20101113085408id_/http://support.apple.com:80/kb/TA22859?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0594",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-001",
+        "date": "2005-01-25",
+        "advisory": "https://support.apple.com/kb/TA22859",
+        "archive": "https://web.archive.org/web/20101113085408id_/http://support.apple.com:80/kb/TA22859?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0112",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0079",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-007",
+        "date": "2005-08-15",
+        "advisory": "https://support.apple.com/kb/TA23465",
+        "archive": "https://web.archive.org/web/20110521205621id_/http://support.apple.com/kb/TA23465"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0863",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-001",
+        "date": "2005-01-25",
+        "advisory": "https://support.apple.com/kb/TA22859",
+        "archive": "https://web.archive.org/web/20101113085408id_/http://support.apple.com:80/kb/TA22859?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0860",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-001",
+        "date": "2005-01-25",
+        "advisory": "https://support.apple.com/kb/TA22859",
+        "archive": "https://web.archive.org/web/20101113085408id_/http://support.apple.com:80/kb/TA22859?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2002-1347",
+    "components": [
+      "Cyrus SASL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2005-003",
+        "date": "2005-03-21",
+        "advisory": "https://support.apple.com/kb/TA22971",
+        "archive": "https://web.archive.org/web/20090313111430id_/http://support.apple.com:80/kb/TA22971?"
+      }
+    ]
+  }
+]

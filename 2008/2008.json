@@ -1,0 +1,5804 @@
+[
+  {
+    "id": "CVE-2008-7259",
+    "components": [
+      "CarbonCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-005",
+        "date": "2008-07-31",
+        "advisory": "https://support.apple.com/en-us/104050"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5363",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5362",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5361",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4824",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4823",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4822",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4821",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4820",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4819",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4818",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4503",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4401",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4237",
+    "components": [
+      "Managed Client"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4236",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4234",
+    "components": [
+      "CoreTypes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4233",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 2.2 and iOS for iPod touch 2.2",
+        "date": "2008-11-20",
+        "advisory": "https://support.apple.com/en-us/104121"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4232",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 2.2 and iOS for iPod touch 2.2",
+        "date": "2008-11-20",
+        "advisory": "https://support.apple.com/en-us/104121"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4231",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 2.2 and iOS for iPod touch 2.2",
+        "date": "2008-11-20",
+        "advisory": "https://support.apple.com/en-us/104121"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4230",
+    "components": [
+      "Passcode Lock"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 2.2 and iOS for iPod touch 2.2",
+        "date": "2008-11-20",
+        "advisory": "https://support.apple.com/en-us/104121"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4229",
+    "components": [
+      "Passcode Lock"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 2.2 and iOS for iPod touch 2.2",
+        "date": "2008-11-20",
+        "advisory": "https://support.apple.com/en-us/104121"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4228",
+    "components": [
+      "Passcode Lock"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 2.2 and iOS for iPod touch 2.2",
+        "date": "2008-11-20",
+        "advisory": "https://support.apple.com/en-us/104121"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4227",
+    "components": [
+      "Networking"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 2.2 and iOS for iPod touch 2.2",
+        "date": "2008-11-20",
+        "advisory": "https://support.apple.com/en-us/104121"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4224",
+    "components": [
+      "UDF"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4223",
+    "components": [
+      "Podcast Producer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4222",
+    "components": [
+      "network_cmds"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4221",
+    "components": [
+      "LibSystem"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4220",
+    "components": [
+      "LibSystem"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4219",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4218",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4217",
+    "components": [
+      "BOM"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4216",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.2",
+        "date": "2008-11-13",
+        "advisory": "https://support.apple.com/en-us/104120"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4215",
+    "components": [
+      "Weblog"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4214",
+    "components": [
+      "Script Editor"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4212",
+    "components": [
+      "rlogin"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4211",
+    "components": [
+      "Office Viewer",
+      "QuickLook"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      },
+      {
+        "name": "iOS 2.2 and iOS for iPod touch 2.2",
+        "date": "2008-11-20",
+        "advisory": "https://support.apple.com/en-us/104121"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4101",
+    "components": [
+      "vim"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3914",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3913",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3912",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3873",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3647",
+    "components": [
+      "PSNormalizer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3646",
+    "components": [
+      "Postfix"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3645",
+    "components": [
+      "Networking"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3644",
+    "components": [
+      "Safari",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.2",
+        "date": "2008-11-13",
+        "advisory": "https://support.apple.com/en-us/104120"
+      },
+      {
+        "name": "iOS 2.2 and iOS for iPod touch 2.2",
+        "date": "2008-11-20",
+        "advisory": "https://support.apple.com/en-us/104121"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3643",
+    "components": [
+      "Finder"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3642",
+    "components": [
+      "ColorSync",
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      },
+      {
+        "name": "Safari 3.2",
+        "date": "2008-11-13",
+        "advisory": "https://support.apple.com/en-us/104120"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3641",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3638",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3637",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3636",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "i",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/en-us/104068"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3635",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.5.5",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/en-us/104111"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3634",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "i",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/en-us/104068"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3632",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPod touch 2.1",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/en-us/104069"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3631",
+    "components": [
+      "Application Sandbox"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPod touch 2.1",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/en-us/104069"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3630",
+    "components": [
+      "mDNSResponder"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Bonjour for Windows 1.0.5",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/kb/HT2990",
+        "archive": "https://web.archive.org/web/20080913225426id_/http://support.apple.com:80/kb/HT2990"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3629",
+    "components": [
+      "Apple TV",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.5.5",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/en-us/104111"
+      },
+      {
+        "name": "Apple TV 2.2",
+        "date": "2008-10-02",
+        "advisory": "https://support.apple.com/en-us/104117"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3628",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.5.5",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/en-us/104111"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3627",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.5.5",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/en-us/104111"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3626",
+    "components": [
+      "Apple TV",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.5.5",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/en-us/104111"
+      },
+      {
+        "name": "Apple TV 2.2",
+        "date": "2008-10-02",
+        "advisory": "https://support.apple.com/en-us/104117"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3625",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.5.5",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/en-us/104111"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3624",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.5.5",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/en-us/104111"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3623",
+    "components": [
+      "CoreGraphics",
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.2",
+        "date": "2008-11-13",
+        "advisory": "https://support.apple.com/en-us/104120"
+      },
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3622",
+    "components": [
+      "Wiki Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3621",
+    "components": [
+      "VideoConference"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3619",
+    "components": [
+      "Time Machine"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3618",
+    "components": [
+      "System Preferences"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3617",
+    "components": [
+      "System Preferences"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3616",
+    "components": [
+      "SearchKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3615",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.5.5",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/en-us/104111"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3614",
+    "components": [
+      "QuickDraw Manager",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.5.5",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/en-us/104111"
+      },
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3613",
+    "components": [
+      "Finder"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3612",
+    "components": [
+      "Networking"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPod touch 2.1",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/en-us/104069"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3611",
+    "components": [
+      "Login Window"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3610",
+    "components": [
+      "Login Window"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3609",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3608",
+    "components": [
+      "ImageIO",
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      },
+      {
+        "name": "iLife Support 8.3.1",
+        "date": "2008-11-10",
+        "advisory": "https://support.apple.com/en-us/104119"
+      },
+      {
+        "name": "Safari 3.2",
+        "date": "2008-11-13",
+        "advisory": "https://support.apple.com/en-us/104120"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3432",
+    "components": [
+      "vim"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3294",
+    "components": [
+      "vim"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3215",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3170",
+    "components": [
+      "CoreServices"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3115",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3114",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3113",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3112",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3111",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3110",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3109",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3108",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3107",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3106",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3105",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3104",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3103",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2952",
+    "components": [
+      "OpenLDAP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-005",
+        "date": "2008-07-31",
+        "advisory": "https://support.apple.com/en-us/104050"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2938",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2830",
+    "components": [
+      "Apple Remote Desktop",
+      "Open Scripting Architecture"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-005",
+        "date": "2008-07-31",
+        "advisory": "https://support.apple.com/en-us/104050"
+      },
+      {
+        "name": "Apple Remote Desktop 3.2.2",
+        "date": "2008-09-12",
+        "advisory": "https://support.apple.com/en-us/104113"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2726",
+    "components": [
+      "Ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2725",
+    "components": [
+      "Ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2713",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2712",
+    "components": [
+      "vim"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2664",
+    "components": [
+      "Ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2663",
+    "components": [
+      "Ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2662",
+    "components": [
+      "Ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2540",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1.2 for Windows",
+        "date": "2008-06-19",
+        "advisory": "https://support.apple.com/en-us/102581"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2376",
+    "components": [
+      "Ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2371",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2370",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2364",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2332",
+    "components": [
+      "ImageIO",
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      },
+      {
+        "name": "iLife Support 8.3.1",
+        "date": "2008-11-10",
+        "advisory": "https://support.apple.com/en-us/104119"
+      },
+      {
+        "name": "Safari 3.2",
+        "date": "2008-11-13",
+        "advisory": "https://support.apple.com/en-us/104120"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2331",
+    "components": [
+      "Finder"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2330",
+    "components": [
+      "Directory Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2329",
+    "components": [
+      "Directory Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2327",
+    "components": [
+      "ImageIO",
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      },
+      {
+        "name": "iLife Support 8.3.1",
+        "date": "2008-11-10",
+        "advisory": "https://support.apple.com/en-us/104119"
+      },
+      {
+        "name": "Safari 3.2",
+        "date": "2008-11-13",
+        "advisory": "https://support.apple.com/en-us/104120"
+      },
+      {
+        "name": "iOS 2.2 and iOS for iPod touch 2.2",
+        "date": "2008-11-20",
+        "advisory": "https://support.apple.com/en-us/104121"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2326",
+    "components": [
+      "mDNSResponder"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Bonjour for Windows 1.0.5",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/kb/HT2990",
+        "archive": "https://web.archive.org/web/20080913225426id_/http://support.apple.com:80/kb/HT2990"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2325",
+    "components": [
+      "QuickLook"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-005",
+        "date": "2008-07-31",
+        "advisory": "https://support.apple.com/en-us/104050"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2324",
+    "components": [
+      "Disk Utility"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-005",
+        "date": "2008-07-31",
+        "advisory": "https://support.apple.com/en-us/104050"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2323",
+    "components": [
+      "Data Detectors Engine"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-005",
+        "date": "2008-07-31",
+        "advisory": "https://support.apple.com/en-us/104050"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2322",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-005",
+        "date": "2008-07-31",
+        "advisory": "https://support.apple.com/en-us/104050"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2321",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-005",
+        "date": "2008-07-31",
+        "advisory": "https://support.apple.com/en-us/104050"
+      },
+      {
+        "name": "iOS 2.2 and iOS for iPod touch 2.2",
+        "date": "2008-11-20",
+        "advisory": "https://support.apple.com/en-us/104121"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2319",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.5",
+        "date": "2008-06-09",
+        "advisory": "https://support.apple.com/en-us/102495"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2318",
+    "components": [
+      "WebObjects"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Xcode tools 3.1",
+        "date": "2008-07-11",
+        "advisory": "https://support.apple.com/en-us/104026"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2317",
+    "components": [
+      "Safari",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 2.0 and iPod touch 2.0",
+        "date": "2008-07-11",
+        "advisory": "https://support.apple.com/en-us/104025"
+      },
+      {
+        "name": "Safari 3.2",
+        "date": "2008-11-13",
+        "advisory": "https://support.apple.com/en-us/104120"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2314",
+    "components": [
+      "Dock"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2313",
+    "components": [
+      "System Configuration"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2312",
+    "components": [
+      "System Configuration"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2311",
+    "components": [
+      "Launch Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2310",
+    "components": [
+      "c++filt"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2309",
+    "components": [
+      "CoreTypes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2308",
+    "components": [
+      "Alias Manager"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2307",
+    "components": [
+      "Safari",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1.2 for Windows",
+        "date": "2008-06-19",
+        "advisory": "https://support.apple.com/en-us/102581"
+      },
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      },
+      {
+        "name": "Safari 3.1.2 for Mac OS X v10.4.11",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102583"
+      },
+      {
+        "name": "iPhone 2.0 and iPod touch 2.0",
+        "date": "2008-07-11",
+        "advisory": "https://support.apple.com/en-us/104025"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2306",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1.2 for Windows",
+        "date": "2008-06-19",
+        "advisory": "https://support.apple.com/en-us/102581"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2305",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2304",
+    "components": [
+      "CoreImage Examples"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Xcode tools 3.1",
+        "date": "2008-07-11",
+        "advisory": "https://support.apple.com/en-us/104026"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2303",
+    "components": [
+      "Safari",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 2.0 and iPod touch 2.0",
+        "date": "2008-07-11",
+        "advisory": "https://support.apple.com/en-us/104025"
+      },
+      {
+        "name": "Safari 3.2",
+        "date": "2008-11-13",
+        "advisory": "https://support.apple.com/en-us/104120"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2079",
+    "components": [
+      "MySQL Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2051",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-005",
+        "date": "2008-07-31",
+        "advisory": "https://support.apple.com/en-us/104050"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2050",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-005",
+        "date": "2008-07-31",
+        "advisory": "https://support.apple.com/en-us/104050"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1947",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1837",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1836",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1835",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1833",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1808",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPod touch 2.1",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/en-us/104069"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1807",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPod touch 2.1",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/en-us/104069"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1806",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPod touch 2.1",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/en-us/104069"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1767",
+    "components": [
+      "libxslt",
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 2.0 and iPod touch 2.0",
+        "date": "2008-07-11",
+        "advisory": "https://support.apple.com/en-us/104025"
+      },
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      },
+      {
+        "name": "Safari 3.2",
+        "date": "2008-11-13",
+        "advisory": "https://support.apple.com/en-us/104120"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1678",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1657",
+    "components": [
+      "OpenSSH"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1655",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1654",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1590",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 2.0 and iPod touch 2.0",
+        "date": "2008-07-11",
+        "advisory": "https://support.apple.com/en-us/104025"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1589",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 2.0 and iPod touch 2.0",
+        "date": "2008-07-11",
+        "advisory": "https://support.apple.com/en-us/104025"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1588",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 2.0 and iPod touch 2.0",
+        "date": "2008-07-11",
+        "advisory": "https://support.apple.com/en-us/104025"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1586",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 2.2 and iOS for iPod touch 2.2",
+        "date": "2008-11-20",
+        "advisory": "https://support.apple.com/en-us/104121"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1585",
+    "components": [
+      "Apple TV",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.5",
+        "date": "2008-06-09",
+        "advisory": "https://support.apple.com/en-us/102495"
+      },
+      {
+        "name": "Apple TV 2.1",
+        "date": "2008-07-10",
+        "advisory": "https://support.apple.com/en-us/102698"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1584",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.5",
+        "date": "2008-06-09",
+        "advisory": "https://support.apple.com/en-us/102495"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1583",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.5",
+        "date": "2008-06-09",
+        "advisory": "https://support.apple.com/en-us/102495"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1582",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.5",
+        "date": "2008-06-09",
+        "advisory": "https://support.apple.com/en-us/102495"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1581",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.5",
+        "date": "2008-06-09",
+        "advisory": "https://support.apple.com/en-us/102495"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1580",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1579",
+    "components": [
+      "Wiki Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1578",
+    "components": [
+      "Single Sign-On"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1577",
+    "components": [
+      "Apple Pixlet Video"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1576",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1575",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1574",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1573",
+    "components": [
+      "ImageIO",
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      },
+      {
+        "name": "Safari 3.1.2 for Windows",
+        "date": "2008-06-19",
+        "advisory": "https://support.apple.com/en-us/102581"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1572",
+    "components": [
+      "Image Capture"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1571",
+    "components": [
+      "Image Capture"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1483",
+    "components": [
+      "OpenSSH"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1447",
+    "components": [
+      "BIND",
+      "libresolv",
+      "mDNSResponder"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-005",
+        "date": "2008-07-31",
+        "advisory": "https://support.apple.com/en-us/104050"
+      },
+      {
+        "name": "iPod touch 2.1",
+        "date": "2008-09-09",
+        "advisory": "https://support.apple.com/en-us/104069"
+      },
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1391",
+    "components": [
+      "LibSystem"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1389",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1387",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1382",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1232",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1196",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1195",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1194",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1193",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1192",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1191",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1190",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1189",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1188",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1187",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1186",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1185",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 7",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104114"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 2",
+        "date": "2008-09-24",
+        "advisory": "https://support.apple.com/en-us/104116"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1145",
+    "components": [
+      "Ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1105",
+    "components": [
+      "SMB File Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1100",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1036",
+    "components": [
+      "International Components for Unicode"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1035",
+    "components": [
+      "iCal"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1034",
+    "components": [
+      "Help Viewer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1033",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1032",
+    "components": [
+      "CoreTypes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1031",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1030",
+    "components": [
+      "CoreFoundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1028",
+    "components": [
+      "AppKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1027",
+    "components": [
+      "AFP Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1026",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1.1",
+        "date": "2008-04-16",
+        "advisory": "https://support.apple.com/en-us/101672"
+      },
+      {
+        "name": "iPhone 2.0 and iPod touch 2.0",
+        "date": "2008-07-11",
+        "advisory": "https://support.apple.com/en-us/104025"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1025",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1.1",
+        "date": "2008-04-16",
+        "advisory": "https://support.apple.com/en-us/101672"
+      },
+      {
+        "name": "iPhone 2.0 and iPod touch 2.0",
+        "date": "2008-07-11",
+        "advisory": "https://support.apple.com/en-us/104025"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1024",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1.1",
+        "date": "2008-04-16",
+        "advisory": "https://support.apple.com/en-us/101672"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1023",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.4.5",
+        "date": "2008-04-02",
+        "advisory": "https://support.apple.com/kb/HT1241",
+        "archive": "https://web.archive.org/web/20080407102543id_/http://support.apple.com:80/kb/HT1241"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1022",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.4.5",
+        "date": "2008-04-02",
+        "advisory": "https://support.apple.com/kb/HT1241",
+        "archive": "https://web.archive.org/web/20080407102543id_/http://support.apple.com:80/kb/HT1241"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1021",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.4.5",
+        "date": "2008-04-02",
+        "advisory": "https://support.apple.com/kb/HT1241",
+        "archive": "https://web.archive.org/web/20080407102543id_/http://support.apple.com:80/kb/HT1241"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1020",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.4.5",
+        "date": "2008-04-02",
+        "advisory": "https://support.apple.com/kb/HT1241",
+        "archive": "https://web.archive.org/web/20080407102543id_/http://support.apple.com:80/kb/HT1241"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1019",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.4.5",
+        "date": "2008-04-02",
+        "advisory": "https://support.apple.com/kb/HT1241",
+        "archive": "https://web.archive.org/web/20080407102543id_/http://support.apple.com:80/kb/HT1241"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1018",
+    "components": [
+      "Apple TV",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.4.5",
+        "date": "2008-04-02",
+        "advisory": "https://support.apple.com/kb/HT1241",
+        "archive": "https://web.archive.org/web/20080407102543id_/http://support.apple.com:80/kb/HT1241"
+      },
+      {
+        "name": "Apple TV 2.1",
+        "date": "2008-07-10",
+        "advisory": "https://support.apple.com/en-us/102698"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1017",
+    "components": [
+      "Apple TV",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.4.5",
+        "date": "2008-04-02",
+        "advisory": "https://support.apple.com/kb/HT1241",
+        "archive": "https://web.archive.org/web/20080407102543id_/http://support.apple.com:80/kb/HT1241"
+      },
+      {
+        "name": "Apple TV 2.1",
+        "date": "2008-07-10",
+        "advisory": "https://support.apple.com/en-us/102698"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1016",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.4.5",
+        "date": "2008-04-02",
+        "advisory": "https://support.apple.com/kb/HT1241",
+        "archive": "https://web.archive.org/web/20080407102543id_/http://support.apple.com:80/kb/HT1241"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1015",
+    "components": [
+      "Apple TV",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.4.5",
+        "date": "2008-04-02",
+        "advisory": "https://support.apple.com/kb/HT1241",
+        "archive": "https://web.archive.org/web/20080407102543id_/http://support.apple.com:80/kb/HT1241"
+      },
+      {
+        "name": "Apple TV 2.1",
+        "date": "2008-07-10",
+        "advisory": "https://support.apple.com/en-us/102698"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1014",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.4.5",
+        "date": "2008-04-02",
+        "advisory": "https://support.apple.com/kb/HT1241",
+        "archive": "https://web.archive.org/web/20080407102543id_/http://support.apple.com:80/kb/HT1241"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1013",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.4.5",
+        "date": "2008-04-02",
+        "advisory": "https://support.apple.com/kb/HT1241",
+        "archive": "https://web.archive.org/web/20080407102543id_/http://support.apple.com:80/kb/HT1241"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1012",
+    "components": [
+      "AirPort Extreme Base Station with 802.11n* Firmware Update 7.3.1"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "AirPort Extreme Base Station Firmware 7.3.1",
+        "date": "2008-03-19",
+        "advisory": "https://support.apple.com/kb/HT1226",
+        "archive": "https://web.archive.org/web/20080321012533id_/http://support.apple.com:80/kb/HT1226"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1011",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307563",
+        "archive": "https://web.archive.org/web/20080320043610id_/http://docs.info.apple.com:80/article.html?artnum=307563"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1010",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307563",
+        "archive": "https://web.archive.org/web/20080320043610id_/http://docs.info.apple.com:80/article.html?artnum=307563"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1009",
+    "components": [
+      "WebCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307563",
+        "archive": "https://web.archive.org/web/20080320043610id_/http://docs.info.apple.com:80/article.html?artnum=307563"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1008",
+    "components": [
+      "WebCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307563",
+        "archive": "https://web.archive.org/web/20080320043610id_/http://docs.info.apple.com:80/article.html?artnum=307563"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1007",
+    "components": [
+      "WebCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307563",
+        "archive": "https://web.archive.org/web/20080320043610id_/http://docs.info.apple.com:80/article.html?artnum=307563"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1006",
+    "components": [
+      "WebCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307563",
+        "archive": "https://web.archive.org/web/20080320043610id_/http://docs.info.apple.com:80/article.html?artnum=307563"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1005",
+    "components": [
+      "WebCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307563",
+        "archive": "https://web.archive.org/web/20080320043610id_/http://docs.info.apple.com:80/article.html?artnum=307563"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1004",
+    "components": [
+      "WebCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307563",
+        "archive": "https://web.archive.org/web/20080320043610id_/http://docs.info.apple.com:80/article.html?artnum=307563"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1003",
+    "components": [
+      "WebCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307563",
+        "archive": "https://web.archive.org/web/20080320043610id_/http://docs.info.apple.com:80/article.html?artnum=307563"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1002",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307563",
+        "archive": "https://web.archive.org/web/20080320043610id_/http://docs.info.apple.com:80/article.html?artnum=307563"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1001",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307563",
+        "archive": "https://web.archive.org/web/20080320043610id_/http://docs.info.apple.com:80/article.html?artnum=307563"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1000",
+    "components": [
+      "Wiki Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0999",
+    "components": [
+      "UDF"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0998",
+    "components": [
+      "System Configuration"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0997",
+    "components": [
+      "AppKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0996",
+    "components": [
+      "Printing"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0995",
+    "components": [
+      "Printing"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0994",
+    "components": [
+      "Preview"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0993",
+    "components": [
+      "Podcast Producer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0992",
+    "components": [
+      "pax archive utility"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0990",
+    "components": [
+      "notifyd"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0989",
+    "components": [
+      "mDNSResponder"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0988",
+    "components": [
+      "libc"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0987",
+    "components": [
+      "Camera Support",
+      "Image Raw"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      },
+      {
+        "name": "Digital Camera RAW Compatibility Update 2.0",
+        "date": "2008-03-20",
+        "advisory": "https://support.apple.com/kb/HT1232",
+        "archive": "https://web.archive.org/web/20080323040738id_/http://support.apple.com:80/kb/HT1232"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0960",
+    "components": [
+      "Net-SNMP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0882",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0728",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0674",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-005",
+        "date": "2008-07-31",
+        "advisory": "https://support.apple.com/en-us/104050"
+      },
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0599",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-005",
+        "date": "2008-07-31",
+        "advisory": "https://support.apple.com/en-us/104050"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0596",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0318",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0314",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.5 / Security Update 2008-006",
+        "date": "2008-09-15",
+        "advisory": "https://support.apple.com/kb/HT3137",
+        "archive": "https://web.archive.org/web/20080917060407id_/http://support.apple.com:80/kb/HT3137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0234",
+    "components": [
+      "Apple TV",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.4.1",
+        "date": "2008-02-06",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307407",
+        "archive": "https://web.archive.org/web/20080208094803id_/http://docs.info.apple.com:80/article.html?artnum=307407"
+      },
+      {
+        "name": "Apple TV 2.1",
+        "date": "2008-07-10",
+        "advisory": "https://support.apple.com/en-us/102698"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0227",
+    "components": [
+      "MySQL Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0226",
+    "components": [
+      "MySQL Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0177",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      },
+      {
+        "name": "iPhone 2.0 and iPod touch 2.0",
+        "date": "2008-07-11",
+        "advisory": "https://support.apple.com/en-us/104025"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0063",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0062",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0060",
+    "components": [
+      "Help Viewer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0059",
+    "components": [
+      "Foundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0058",
+    "components": [
+      "Foundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0057",
+    "components": [
+      "AppKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0056",
+    "components": [
+      "Foundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0055",
+    "components": [
+      "Foundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0054",
+    "components": [
+      "Foundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0053",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0052",
+    "components": [
+      "CoreServices"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0051",
+    "components": [
+      "CoreFoundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0050",
+    "components": [
+      "CFNetwork",
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307563",
+        "archive": "https://web.archive.org/web/20080320043610id_/http://docs.info.apple.com:80/article.html?artnum=307563"
+      },
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      },
+      {
+        "name": "iPhone 2.0 and iPod touch 2.0",
+        "date": "2008-07-11",
+        "advisory": "https://support.apple.com/en-us/104025"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0049",
+    "components": [
+      "AppKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0048",
+    "components": [
+      "AppKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0047",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0046",
+    "components": [
+      "Application Firewall"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0045",
+    "components": [
+      "AFP Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0044",
+    "components": [
+      "AFP Client"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0043",
+    "components": [
+      "iPhoto"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhoto 7.1.2",
+        "date": "2008-02-05",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307398",
+        "archive": "https://web.archive.org/web/20080207035228id_/http://docs.info.apple.com:80/article.html?artnum=307398"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0042",
+    "components": [
+      "Terminal"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.2 / Security Update 2008-001",
+        "date": "2008-02-11",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307430",
+        "archive": "https://web.archive.org/web/20080212185225id_/http://docs.info.apple.com:80/article.html?artnum=307430"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0041",
+    "components": [
+      "Parental Controls"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.2 / Security Update 2008-001",
+        "date": "2008-02-11",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307430",
+        "archive": "https://web.archive.org/web/20080212185225id_/http://docs.info.apple.com:80/article.html?artnum=307430"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0040",
+    "components": [
+      "NFS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.2 / Security Update 2008-001",
+        "date": "2008-02-11",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307430",
+        "archive": "https://web.archive.org/web/20080212185225id_/http://docs.info.apple.com:80/article.html?artnum=307430"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0039",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.2 / Security Update 2008-001",
+        "date": "2008-02-11",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307430",
+        "archive": "https://web.archive.org/web/20080212185225id_/http://docs.info.apple.com:80/article.html?artnum=307430"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0038",
+    "components": [
+      "Launch Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.2 / Security Update 2008-001",
+        "date": "2008-02-11",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307430",
+        "archive": "https://web.archive.org/web/20080212185225id_/http://docs.info.apple.com:80/article.html?artnum=307430"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0037",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.2 / Security Update 2008-001",
+        "date": "2008-02-11",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307430",
+        "archive": "https://web.archive.org/web/20080212185225id_/http://docs.info.apple.com:80/article.html?artnum=307430"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0036",
+    "components": [
+      "Apple TV",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.4",
+        "date": "2008-01-15",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307301",
+        "archive": "https://web.archive.org/web/20080119125359id_/http://docs.info.apple.com:80/article.html?artnum=307301"
+      },
+      {
+        "name": "Apple TV 2.1",
+        "date": "2008-07-10",
+        "advisory": "https://support.apple.com/en-us/102698"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0035",
+    "components": [
+      "Foundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone v1.1.3 and iPod touch v1.1.3",
+        "date": "2008-01-15",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307302",
+        "archive": "https://web.archive.org/web/20080117062508id_/http://docs.info.apple.com:80/article.html?artnum=307302"
+      },
+      {
+        "name": "Mac OS X v10.5.2 / Security Update 2008-001",
+        "date": "2008-02-11",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307430",
+        "archive": "https://web.archive.org/web/20080212185225id_/http://docs.info.apple.com:80/article.html?artnum=307430"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0034",
+    "components": [
+      "Passcode Lock"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone v1.1.3 and iPod touch v1.1.3",
+        "date": "2008-01-15",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307302",
+        "archive": "https://web.archive.org/web/20080117062508id_/http://docs.info.apple.com:80/article.html?artnum=307302"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0033",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.4",
+        "date": "2008-01-15",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307301",
+        "archive": "https://web.archive.org/web/20080119125359id_/http://docs.info.apple.com:80/article.html?artnum=307301"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0032",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.4",
+        "date": "2008-01-15",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307301",
+        "archive": "https://web.archive.org/web/20080119125359id_/http://docs.info.apple.com:80/article.html?artnum=307301"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0031",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.4",
+        "date": "2008-01-15",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307301",
+        "archive": "https://web.archive.org/web/20080119125359id_/http://docs.info.apple.com:80/article.html?artnum=307301"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0006",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0005",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0002",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6612",
+    "components": [
+      "ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6429",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6428",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6427",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6421",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6420",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6388",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      },
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6359",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6337",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6336",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6335",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6286",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6284",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 2.0 and iPod touch 2.0",
+        "date": "2008-07-11",
+        "advisory": "https://support.apple.com/en-us/104025"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6276",
+    "components": [
+      "VPN"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6243",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6203",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6200",
+    "components": [
+      "rsync"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-005",
+        "date": "2008-07-31",
+        "advisory": "https://support.apple.com/en-us/104050"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6199",
+    "components": [
+      "rsync"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-005",
+        "date": "2008-07-31",
+        "advisory": "https://support.apple.com/en-us/104050"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6109",
+    "components": [
+      "Emacs"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6019",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6015",
+    "components": [
+      "Samba"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.2 / Security Update 2008-001",
+        "date": "2008-02-11",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307430",
+        "archive": "https://web.archive.org/web/20080212185225id_/http://docs.info.apple.com:80/article.html?artnum=307430"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5971",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5969",
+    "components": [
+      "MySQL Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5958",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5901",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5858",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone v1.1.3 and iPod touch v1.1.3",
+        "date": "2008-01-15",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307302",
+        "archive": "https://web.archive.org/web/20080117062508id_/http://docs.info.apple.com:80/article.html?artnum=307302"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5795",
+    "components": [
+      "Emacs"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5759",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5461",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      },
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5342",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5333",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      },
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5275",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5269",
+    "components": [
+      "ImageIO",
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      },
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5268",
+    "components": [
+      "ImageIO",
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      },
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5267",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5266",
+    "components": [
+      "ImageIO",
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      },
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5135",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-005",
+        "date": "2008-07-31",
+        "advisory": "https://support.apple.com/en-us/104050"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5000",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      },
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4990",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4887",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4850",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-005",
+        "date": "2008-07-31",
+        "advisory": "https://support.apple.com/en-us/104050"
+      },
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4768",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4767",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4766",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4752",
+    "components": [
+      "OpenSSH"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4680",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307563",
+        "archive": "https://web.archive.org/web/20080320043610id_/http://docs.info.apple.com:80/article.html?artnum=307563"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4674",
+    "components": [
+      "Apple TV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 2.2",
+        "date": "2008-10-02",
+        "advisory": "https://support.apple.com/en-us/104117"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4568",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.2 / Security Update 2008-001",
+        "date": "2008-02-11",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307430",
+        "archive": "https://web.archive.org/web/20080212185225id_/http://docs.info.apple.com:80/article.html?artnum=307430"
+      },
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4560",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4510",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4465",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4324",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.6 / Security Update 2008-008",
+        "date": "2008-12-15",
+        "advisory": "https://support.apple.com/en-us/104122"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3847",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      },
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3799",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3725",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3385",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3383",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3382",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3378",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2799",
+    "components": [
+      "file"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2691",
+    "components": [
+      "MySQL Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-007",
+        "date": "2008-10-09",
+        "advisory": "https://support.apple.com/en-us/104118"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2450",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2449",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2445",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2398",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.1.1",
+        "date": "2008-04-16",
+        "advisory": "https://support.apple.com/en-us/101672"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1997",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1863",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1745",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1662",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1661",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1660",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1659",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1355",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0898",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0897",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0355",
+    "components": [
+      "Directory Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.2 / Security Update 2008-001",
+        "date": "2008-02-11",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307430",
+        "archive": "https://web.archive.org/web/20080212185225id_/http://docs.info.apple.com:80/article.html?artnum=307430"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0071",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-6481",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-5793",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3747",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      },
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3334",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-2783",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 2.0 and iPod touch 2.0",
+        "date": "2008-07-11",
+        "advisory": "https://support.apple.com/en-us/104025"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-4077",
+    "components": [
+      "curl"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3357",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3352",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2008-002",
+        "date": "2008-03-18",
+        "advisory": "https://docs.info.apple.com/article.html?artnum=307562",
+        "archive": "https://web.archive.org/web/20080320172638id_/http://docs.info.apple.com:80/article.html?artnum=307562"
+      },
+      {
+        "name": "Mac OS X v10.5.3 /",
+        "date": "2008-05-28",
+        "advisory": "https://support.apple.com/en-us/102486"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3164",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.4 /",
+        "date": "2008-06-30",
+        "advisory": "https://support.apple.com/en-us/102582"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2096",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.2",
+        "date": "2008-11-13",
+        "advisory": "https://support.apple.com/en-us/104120"
+      }
+    ]
+  }
+]

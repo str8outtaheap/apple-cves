@@ -1,0 +1,1176 @@
+[
+  {
+    "id": "CVE-2003-1011",
+    "components": [
+      "System initialization"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-12-19 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2003-12-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2003-12-19 for Mac OS X 10.3.2 \"Panther\" and Mac OS X 10.3.2 Server",
+        "date": "2003-12-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-1010",
+    "components": [
+      "fs_usage"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-12-19 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2003-12-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2003-12-19 for Mac OS X 10.3.2 \"Panther\" and Mac OS X 10.3.2 Server",
+        "date": "2003-12-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-1009",
+    "components": [
+      "Directory Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-12-19 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2003-12-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2003-12-19 for Mac OS X 10.3.2 \"Panther\" and Mac OS X 10.3.2 Server",
+        "date": "2003-12-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-1008",
+    "components": [
+      "Screen Saver"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-12-19 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2003-12-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2003-12-19 for Mac OS X 10.3.2 \"Panther\" and Mac OS X 10.3.2 Server",
+        "date": "2003-12-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-1007",
+    "components": [
+      "AppleFileServer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-12-19 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2003-12-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2003-12-19 for Mac OS X 10.3.2 \"Panther\" and Mac OS X 10.3.2 Server",
+        "date": "2003-12-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-1006",
+    "components": [
+      "cd9660.util"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-12-19 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2003-12-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2003-12-19 for Mac OS X 10.3.2 \"Panther\" and Mac OS X 10.3.2 Server",
+        "date": "2003-12-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-1005",
+    "components": [
+      "ASN.1 Decoding for PKI"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-12-19 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2003-12-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2003-12-19 for Mac OS X 10.3.2 \"Panther\" and Mac OS X 10.3.2 Server",
+        "date": "2003-12-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0975",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-12-05",
+        "date": "2003-12-05",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0962",
+    "components": [
+      "rsync"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-12-19 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2003-12-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2003-12-19 for Mac OS X 10.3.2 \"Panther\" and Mac OS X 10.3.2 Server",
+        "date": "2003-12-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0913",
+    "components": [
+      "Terminal"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-11-04",
+        "date": "2003-11-04",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0895",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0883",
+    "components": [
+      "System Preferences"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0882",
+    "components": [
+      "TCP timestamp"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0881",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security update 2003-11-19 for 10.2.8",
+        "date": "2003-11-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0880",
+    "components": [
+      "Dock"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0878",
+    "components": [
+      "Personal File Sharing",
+      "slpd"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security update 2003-11-19 for 10.2.8",
+        "date": "2003-11-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0877",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0876",
+    "components": [
+      "Finder"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0871",
+    "components": [
+      "QuickTime for Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security update 2003-11-19 for 10.2.8",
+        "date": "2003-11-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0851",
+    "components": [
+      "ASN.1 Decoding for PKI",
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security update 2003-11-19 for 10.2.8",
+        "date": "2003-11-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2003-11-19 for Panther 10.3.1",
+        "date": "2003-11-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2003-12-19 for Mac OS X 10.3.2 \"Panther\" and Mac OS X 10.3.2 Server",
+        "date": "2003-12-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0804",
+    "components": [
+      "arplooku p()"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0792",
+    "components": [
+      "Fetchmail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-12-19 for Mac OS X 10.2.8 \"Jaguar\" and Mac OS X 10.2.8 Server",
+        "date": "2003-12-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2003-12-19 for Mac OS X 10.3.2 \"Panther\" and Mac OS X 10.3.2 Server",
+        "date": "2003-12-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0695",
+    "components": [
+      "OpenSSH"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0694",
+    "components": [
+      "sendmail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0693",
+    "components": [
+      "OpenSSH"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0682",
+    "components": [
+      "OpenSSH"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0681",
+    "components": [
+      "sendmail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0601",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-07-23",
+        "date": "2003-07-23",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0545",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0544",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0543",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0518",
+    "components": [
+      "Screen Effects Password"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-07-14",
+        "date": "2003-07-14",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0466",
+    "components": [
+      "fb_realpath()"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-08-14",
+        "date": "2003-08-14",
+        "advisory": "https://support.apple.com/en-us/104191"
+      },
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0420",
+    "components": [
+      "dsimportexport"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-06-12 ( Mac OS X Server only)",
+        "date": "2003-06-12",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0386",
+    "components": [
+      "OpenSSH"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0379",
+    "components": [
+      "AFP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-06-09 (version 2.0)",
+        "date": "2003-06-09",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0378",
+    "components": [
+      "Directory Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-06-09 (version 2.0)",
+        "date": "2003-06-09",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0355",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-06-09 (version 2.0)",
+        "date": "2003-06-09",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0245",
+    "components": [
+      "Apache 2.0"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-06-12 ( Mac OS X Server only)",
+        "date": "2003-06-12",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0242",
+    "components": [
+      "IPSec"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-06-09 (version 2.0)",
+        "date": "2003-06-09",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0201",
+    "components": [
+      "Samba"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-06-09 (version 2.0)",
+        "date": "2003-06-09",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0198",
+    "components": [
+      "File Sharing/Service"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-06-09 (version 2.0)",
+        "date": "2003-06-09",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0171",
+    "components": [
+      "Directory Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-06-09 (version 2.0)",
+        "date": "2003-06-09",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0168",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-06-09 (version 2.0)",
+        "date": "2003-06-09",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0161",
+    "components": [
+      "sendmail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-06-09 (version 2.0)",
+        "date": "2003-06-09",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0147",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-24",
+        "date": "2003-03-24",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0132",
+    "components": [
+      "Apache 2.0"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-06-09 (version 2.0)",
+        "date": "2003-06-09",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0131",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-06-09 (version 2.0)",
+        "date": "2003-06-09",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0107",
+    "components": [
+      "zlib"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security update 2003-11-19 for 10.2.8",
+        "date": "2003-11-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security Update 2003-11-19 for Panther 10.3.1",
+        "date": "2003-11-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0088",
+    "components": [
+      "Classic"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0086",
+    "components": [
+      "Samba"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-24",
+        "date": "2003-03-24",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0085",
+    "components": [
+      "Samba"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-24",
+        "date": "2003-03-24",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0078",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0055",
+    "components": [
+      "QuickTime Streaming Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0054",
+    "components": [
+      "QuickTime Streaming Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0053",
+    "components": [
+      "QuickTime Streaming Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0052",
+    "components": [
+      "QuickTime Streaming Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0051",
+    "components": [
+      "QuickTime Streaming Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0050",
+    "components": [
+      "QuickTime Streaming Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2003-0049",
+    "components": [
+      "AFP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2002-1384",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2002-1383",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2002-1372",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2002-1371",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2002-1370",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2002-1369",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2002-1368",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2002-1367",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2002-1366",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2002-1337",
+    "components": [
+      "Sendmail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2002-1175",
+    "components": [
+      "fetchmail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2002-1174",
+    "components": [
+      "fetchmail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2002-1165",
+    "components": [
+      "Sendmail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2002-0906",
+    "components": [
+      "Sendmail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-03-03",
+        "date": "2003-03-03",
+        "advisory": "https://support.apple.com/en-us/104191"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2002-0830",
+    "components": [
+      "nfs"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2002-0701",
+    "components": [
+      "ktrace"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2001-1412",
+    "components": [
+      "nidump"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2001-1411",
+    "components": [
+      "gm4"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2003-10-28",
+        "date": "2003-10-28",
+        "advisory": "https://support.apple.com/en-us/101682"
+      },
+      {
+        "name": "Security update 2003-11-19 for 10.2.8",
+        "date": "2003-11-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2001-1022",
+    "components": [
+      "groff"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security update 2003-11-19 for 10.2.8",
+        "date": "2003-11-19",
+        "advisory": "https://support.apple.com/en-us/101682"
+      }
+    ]
+  }
+]

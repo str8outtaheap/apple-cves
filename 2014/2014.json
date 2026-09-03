@@ -1,0 +1,7041 @@
+[
+  {
+    "id": "CVE-2014-9390",
+    "components": [
+      "Git"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Xcode 6.2 beta 3",
+        "date": "2014-12-18",
+        "advisory": "https://support.apple.com/en-us/103321"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-9295",
+    "components": [
+      "ntpd"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X NTP Security Update",
+        "date": "2014-12-22",
+        "advisory": "https://support.apple.com/en-us/103329"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-8842",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.2",
+        "date": "2014-05-15",
+        "advisory": "https://support.apple.com/en-us/103518"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-8841",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-7169",
+    "components": [
+      "Bash"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X bash Update 1.0",
+        "date": "2014-09-29",
+        "advisory": "https://support.apple.com/en-us/103400"
+      },
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-6271",
+    "components": [
+      "Bash"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X bash Update 1.0",
+        "date": "2014-09-29",
+        "advisory": "https://support.apple.com/en-us/103400"
+      },
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4979",
+    "components": [
+      "QT Media Foundation",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      },
+      {
+        "name": "QuickTime 7.7.6",
+        "date": "2014-10-22",
+        "advisory": "https://support.apple.com/en-us/103392"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4475",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 8.0.1, Safari 7.1.1, and Safari 6.2.1",
+        "date": "2014-12-03",
+        "advisory": "https://support.apple.com/en-us/103327"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4474",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 8.0.1, Safari 7.1.1, and Safari 6.2.1",
+        "date": "2014-12-03",
+        "advisory": "https://support.apple.com/en-us/103327"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4473",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 8.0.1, Safari 7.1.1, and Safari 6.2.1",
+        "date": "2014-12-03",
+        "advisory": "https://support.apple.com/en-us/103327"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4472",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 8.0.1, Safari 7.1.1, and Safari 6.2.1",
+        "date": "2014-12-03",
+        "advisory": "https://support.apple.com/en-us/103327"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4471",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 8.0.1, Safari 7.1.1, and Safari 6.2.1",
+        "date": "2014-12-03",
+        "advisory": "https://support.apple.com/en-us/103327"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4470",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 8.0.1, Safari 7.1.1, and Safari 6.2.1",
+        "date": "2014-12-03",
+        "advisory": "https://support.apple.com/en-us/103327"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4469",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 8.0.1, Safari 7.1.1, and Safari 6.2.1",
+        "date": "2014-12-03",
+        "advisory": "https://support.apple.com/en-us/103327"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4468",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 8.0.1, Safari 7.1.1, and Safari 6.2.1",
+        "date": "2014-12-03",
+        "advisory": "https://support.apple.com/en-us/103327"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4466",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 8.0.1, Safari 7.1.1, and Safari 6.2.1",
+        "date": "2014-12-03",
+        "advisory": "https://support.apple.com/en-us/103327"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4465",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 8.0.1, Safari 7.1.1, and Safari 6.2.1",
+        "date": "2014-12-03",
+        "advisory": "https://support.apple.com/en-us/103327"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4463",
+    "components": [
+      "Lock Screen"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8.1.1",
+        "date": "2014-11-17",
+        "advisory": "https://support.apple.com/en-us/103651"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4462",
+    "components": [
+      "Apple TV",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7.0.2",
+        "date": "2014-11-17",
+        "advisory": "https://support.apple.com/en-us/103309"
+      },
+      {
+        "name": "iOS 8.1.1",
+        "date": "2014-11-17",
+        "advisory": "https://support.apple.com/en-us/103651"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4461",
+    "components": [
+      "Apple TV",
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7.0.2",
+        "date": "2014-11-17",
+        "advisory": "https://support.apple.com/en-us/103309"
+      },
+      {
+        "name": "iOS 8.1.1",
+        "date": "2014-11-17",
+        "advisory": "https://support.apple.com/en-us/103651"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4460",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8.1.1",
+        "date": "2014-11-17",
+        "advisory": "https://support.apple.com/en-us/103651"
+      },
+      {
+        "name": "OS X Yosemite v10.10.1",
+        "date": "2014-11-17",
+        "advisory": "https://support.apple.com/en-us/103326"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4459",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10.1",
+        "date": "2014-11-17",
+        "advisory": "https://support.apple.com/en-us/103326"
+      },
+      {
+        "name": "Safari 8.0.1, Safari 7.1.1, and Safari 6.2.1",
+        "date": "2014-12-03",
+        "advisory": "https://support.apple.com/en-us/103327"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4458",
+    "components": [
+      "System Profiler About This Mac"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10.1",
+        "date": "2014-11-17",
+        "advisory": "https://support.apple.com/en-us/103326"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4457",
+    "components": [
+      "Sandbox Profiles"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8.1.1",
+        "date": "2014-11-17",
+        "advisory": "https://support.apple.com/en-us/103651"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4455",
+    "components": [
+      "Apple TV",
+      "dyld"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7.0.2",
+        "date": "2014-11-17",
+        "advisory": "https://support.apple.com/en-us/103309"
+      },
+      {
+        "name": "iOS 8.1.1",
+        "date": "2014-11-17",
+        "advisory": "https://support.apple.com/en-us/103651"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4453",
+    "components": [
+      "Spotlight"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8.1.1",
+        "date": "2014-11-17",
+        "advisory": "https://support.apple.com/en-us/103651"
+      },
+      {
+        "name": "OS X Yosemite v10.10.1",
+        "date": "2014-11-17",
+        "advisory": "https://support.apple.com/en-us/103326"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4452",
+    "components": [
+      "Apple TV",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7.0.2",
+        "date": "2014-11-17",
+        "advisory": "https://support.apple.com/en-us/103309"
+      },
+      {
+        "name": "iOS 8.1.1",
+        "date": "2014-11-17",
+        "advisory": "https://support.apple.com/en-us/103651"
+      },
+      {
+        "name": "Safari 8.0.1, Safari 7.1.1, and Safari 6.2.1",
+        "date": "2014-12-03",
+        "advisory": "https://support.apple.com/en-us/103327"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4451",
+    "components": [
+      "Lock Screen"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8.1.1",
+        "date": "2014-11-17",
+        "advisory": "https://support.apple.com/en-us/103651"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4450",
+    "components": [
+      "Keyboards"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8.1",
+        "date": "2014-10-20",
+        "advisory": "https://support.apple.com/en-us/103611"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4449",
+    "components": [
+      "iCloud Data Access"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8.1",
+        "date": "2014-10-20",
+        "advisory": "https://support.apple.com/en-us/103611"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4448",
+    "components": [
+      "House Arrest"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8.1",
+        "date": "2014-10-20",
+        "advisory": "https://support.apple.com/en-us/103611"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4447",
+    "components": [
+      "Profile Manager"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server v4.0",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103299"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4446",
+    "components": [
+      "Mail Service"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server v4.0",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103299"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4444",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4443",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4442",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4441",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4440",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4439",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4438",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4437",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4436",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4435",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4434",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4433",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4432",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4431",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4430",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4428",
+    "components": [
+      "Apple TV",
+      "Bluetooth"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      },
+      {
+        "name": "Apple TV 7.0.1",
+        "date": "2014-10-20",
+        "advisory": "https://support.apple.com/en-us/103320"
+      },
+      {
+        "name": "iOS 8.1",
+        "date": "2014-10-20",
+        "advisory": "https://support.apple.com/en-us/103611"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4427",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4426",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4425",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4424",
+    "components": [
+      "CoreCollaboration"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server 2.2.3 and 2.2.4",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103520"
+      },
+      {
+        "name": "OS X Server 3.2.1",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103391"
+      },
+      {
+        "name": "OS X Server v4.0",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103299"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4423",
+    "components": [
+      "Accounts"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4422",
+    "components": [
+      "Apple TV",
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4421",
+    "components": [
+      "Apple TV",
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4420",
+    "components": [
+      "Apple TV",
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4419",
+    "components": [
+      "Apple TV",
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4418",
+    "components": [
+      "Apple TV",
+      "IOKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4417",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4416",
+    "components": [
+      "Intel Graphics Driver"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4415",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "Safari 6.2 and Safari 7.1",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103390"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4414",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "Safari 6.2 and Safari 7.1",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103390"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4413",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "Safari 6.2 and Safari 7.1",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103390"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4412",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "Safari 6.2 and Safari 7.1",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103390"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4411",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "Safari 6.2 and Safari 7.1",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103390"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4410",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "Safari 6.2 and Safari 7.1",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103390"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4409",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "Safari 6.2 and Safari 7.1",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103390"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4408",
+    "components": [
+      "Apple TV",
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4407",
+    "components": [
+      "Apple TV",
+      "IOKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4406",
+    "components": [
+      "CoreCollaboration"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server 3.2.1",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103391"
+      },
+      {
+        "name": "OS X Server v4.0",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103299"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4405",
+    "components": [
+      "Apple TV",
+      "IOHIDFamily"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4404",
+    "components": [
+      "Apple TV",
+      "IOHIDFamily"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4403",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4402",
+    "components": [
+      "IOAcceleratorFamily"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4401",
+    "components": [
+      "Intel Graphics Driver"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4400",
+    "components": [
+      "Intel Graphics Driver"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4399",
+    "components": [
+      "Intel Graphics Driver"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4398",
+    "components": [
+      "Intel Graphics Driver"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4397",
+    "components": [
+      "Intel Graphics Driver"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4396",
+    "components": [
+      "Intel Graphics Driver"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4395",
+    "components": [
+      "Intel Graphics Driver"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4394",
+    "components": [
+      "Intel Graphics Driver"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4393",
+    "components": [
+      "Intel Graphics Driver"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4391",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4390",
+    "components": [
+      "Bluetooth"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4389",
+    "components": [
+      "Apple TV",
+      "IOKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4388",
+    "components": [
+      "Apple TV",
+      "IOKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      },
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4386",
+    "components": [
+      "App Installation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4384",
+    "components": [
+      "App Installation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4383",
+    "components": [
+      "Apple TV",
+      "Assets"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4381",
+    "components": [
+      "Apple TV",
+      "Libnotify"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4380",
+    "components": [
+      "Apple TV",
+      "IOHIDFamily"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4379",
+    "components": [
+      "Apple TV",
+      "IOHIDFamily"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4378",
+    "components": [
+      "Apple TV",
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4377",
+    "components": [
+      "Apple TV",
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4376",
+    "components": [
+      "IOAcceleratorFamily"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4375",
+    "components": [
+      "Apple TV",
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4374",
+    "components": [
+      "Foundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4373",
+    "components": [
+      "Apple TV",
+      "IOAcceleratorFamily"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4372",
+    "components": [
+      "Apple TV",
+      "syslog"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4371",
+    "components": [
+      "Apple TV",
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4369",
+    "components": [
+      "Apple TV",
+      "IOAcceleratorFamily"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4368",
+    "components": [
+      "Accessibility"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4367",
+    "components": [
+      "Profiles"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4366",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4364",
+    "components": [
+      "802.1X",
+      "Apple TV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4363",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "Safari 6.2 and Safari 7.1",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103390"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4362",
+    "components": [
+      "Sandbox Profiles"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4361",
+    "components": [
+      "Home & Lock Screen"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4357",
+    "components": [
+      "Accounts Framework",
+      "Apple TV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4356",
+    "components": [
+      "Settings"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4354",
+    "components": [
+      "Bluetooth"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4353",
+    "components": [
+      "iMessage"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4352",
+    "components": [
+      "Address Book"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4351",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      },
+      {
+        "name": "QuickTime 7.7.6",
+        "date": "2014-10-22",
+        "advisory": "https://support.apple.com/en-us/103392"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4350",
+    "components": [
+      "QT Media Foundation",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      },
+      {
+        "name": "QuickTime 7.7.6",
+        "date": "2014-10-22",
+        "advisory": "https://support.apple.com/en-us/103392"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4049",
+    "components": [
+      "apache_mod_php"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-3981",
+    "components": [
+      "apache_mod_php"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-3566",
+    "components": [
+      "Apple TV",
+      "Secure Transport",
+      "Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server v2.2.5",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103297"
+      },
+      {
+        "name": "OS X Server v3.2.2",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103298"
+      },
+      {
+        "name": "OS X Server v4.0",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103299"
+      },
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      },
+      {
+        "name": "Security Update 2014-005",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103393"
+      },
+      {
+        "name": "Apple TV 7.0.1",
+        "date": "2014-10-20",
+        "advisory": "https://support.apple.com/en-us/103320"
+      },
+      {
+        "name": "iOS 8.1",
+        "date": "2014-10-20",
+        "advisory": "https://support.apple.com/en-us/103611"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-3537",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-3515",
+    "components": [
+      "apache_mod_php"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-3487",
+    "components": [
+      "apache_mod_php"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-3480",
+    "components": [
+      "apache_mod_php"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-3479",
+    "components": [
+      "apache_mod_php"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-3478",
+    "components": [
+      "apache_mod_php"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-3470",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-2525",
+    "components": [
+      "ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-2270",
+    "components": [
+      "apache_mod_php"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-2019",
+    "components": [
+      "Settings - Accounts"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1943",
+    "components": [
+      "apache_mod_php"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1748",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 8.0.1, Safari 7.1.1, and Safari 6.2.1",
+        "date": "2014-12-03",
+        "advisory": "https://support.apple.com/en-us/103327"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1731",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1713",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "Apple TV 6.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103319"
+      },
+      {
+        "name": "iOS 7.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103609"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1391",
+    "components": [
+      "QT Media Foundation",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      },
+      {
+        "name": "QuickTime 7.7.6",
+        "date": "2014-10-22",
+        "advisory": "https://support.apple.com/en-us/103392"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1390",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.6 and Safari 7.0.6",
+        "date": "2014-08-13",
+        "advisory": "https://support.apple.com/en-us/103388"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1389",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.6 and Safari 7.0.6",
+        "date": "2014-08-13",
+        "advisory": "https://support.apple.com/en-us/103388"
+      },
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1388",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.6 and Safari 7.0.6",
+        "date": "2014-08-13",
+        "advisory": "https://support.apple.com/en-us/103388"
+      },
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1387",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.6 and Safari 7.0.6",
+        "date": "2014-08-13",
+        "advisory": "https://support.apple.com/en-us/103388"
+      },
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1386",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.6 and Safari 7.0.6",
+        "date": "2014-08-13",
+        "advisory": "https://support.apple.com/en-us/103388"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1385",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.6 and Safari 7.0.6",
+        "date": "2014-08-13",
+        "advisory": "https://support.apple.com/en-us/103388"
+      },
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1384",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.6 and Safari 7.0.6",
+        "date": "2014-08-13",
+        "advisory": "https://support.apple.com/en-us/103388"
+      },
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1383",
+    "components": [
+      "Apple TV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1382",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "Safari 6.1.5 and Safari 7.0.5",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103519"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1381",
+    "components": [
+      "Thunderbolt"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.4 and Security Update 2014-003",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103759"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1380",
+    "components": [
+      "Security - Keychain"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.4 and Security Update 2014-003",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103759"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1379",
+    "components": [
+      "Graphics Drivers"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.4 and Security Update 2014-003",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103759"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1378",
+    "components": [
+      "IOGraphicsFamily"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.4 and Security Update 2014-003",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103759"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1377",
+    "components": [
+      "IOAcceleratorFamily"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.4 and Security Update 2014-003",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103759"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1376",
+    "components": [
+      "Intel Compute"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.4 and Security Update 2014-003",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103759"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1375",
+    "components": [
+      "Intel Graphics Driver"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.4 and Security Update 2014-003",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103759"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1373",
+    "components": [
+      "Intel Graphics Driver"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.4 and Security Update 2014-003",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103759"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1372",
+    "components": [
+      "Graphics Driver"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.4 and Security Update 2014-003",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103759"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1371",
+    "components": [
+      "Dock"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.4 and Security Update 2014-003",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103759"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1370",
+    "components": [
+      "copyfile"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.4 and Security Update 2014-003",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103759"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1369",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.5 and Safari 7.0.5",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103519"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1368",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "Safari 6.1.5 and Safari 7.0.5",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103519"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1367",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "Safari 6.1.5 and Safari 7.0.5",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103519"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1366",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "Safari 6.1.5 and Safari 7.0.5",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103519"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1365",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "Safari 6.1.5 and Safari 7.0.5",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103519"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1364",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "Safari 6.1.5 and Safari 7.0.5",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103519"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1363",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "Safari 6.1.5 and Safari 7.0.5",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103519"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1362",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "Safari 6.1.5 and Safari 7.0.5",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103519"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1361",
+    "components": [
+      "Apple TV",
+      "Secure Transport",
+      "Security - Secure Transport"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "OS X Mavericks 10.9.4 and Security Update 2014-003",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103759"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1360",
+    "components": [
+      "Lockdown"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1359",
+    "components": [
+      "Apple TV",
+      "launchd"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "OS X Mavericks 10.9.4 and Security Update 2014-003",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103759"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1358",
+    "components": [
+      "Apple TV",
+      "launchd"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "OS X Mavericks 10.9.4 and Security Update 2014-003",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103759"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1357",
+    "components": [
+      "Apple TV",
+      "launchd"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "OS X Mavericks 10.9.4 and Security Update 2014-003",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103759"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1356",
+    "components": [
+      "Apple TV",
+      "launchd"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "OS X Mavericks 10.9.4 and Security Update 2014-003",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103759"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1355",
+    "components": [
+      "Apple TV",
+      "IOReporting",
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "OS X Mavericks 10.9.4 and Security Update 2014-003",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103759"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1354",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1353",
+    "components": [
+      "Lock Screen"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1352",
+    "components": [
+      "Lock Screen"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1351",
+    "components": [
+      "Siri"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1350",
+    "components": [
+      "Settings"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1349",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1348",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1347",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.2.1",
+        "date": "2014-05-16",
+        "advisory": "https://support.apple.com/en-us/103384"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1346",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1345",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "Safari 6.1.5 and Safari 7.0.5",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103519"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1344",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1343",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1342",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1341",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1340",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.5 and Safari 7.0.5",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103519"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1339",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1338",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1337",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1336",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1335",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1334",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1333",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1331",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1330",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1329",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1327",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1326",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1325",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "Safari 6.1.5 and Safari 7.0.5",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103519"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1324",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1323",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1322",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2014-002",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103382"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1321",
+    "components": [
+      "Power Management"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2014-002",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103382"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1320",
+    "components": [
+      "Apple TV",
+      "IOKit Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103319"
+      },
+      {
+        "name": "iOS 7.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103609"
+      },
+      {
+        "name": "Security Update 2014-002",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103382"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1319",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2014-002",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103382"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1318",
+    "components": [
+      "Intel Graphics Driver"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2014-002",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103382"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1317",
+    "components": [
+      "iBooks Commerce"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.4 and Security Update 2014-003",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103759"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1316",
+    "components": [
+      "Heimdal Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2014-002",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103382"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1315",
+    "components": [
+      "CoreServicesUIAgent"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2014-002",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103382"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1314",
+    "components": [
+      "WindowServer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2014-002",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103382"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1313",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "Apple TV 6.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103319"
+      },
+      {
+        "name": "iOS 7.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103609"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1312",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "Apple TV 6.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103319"
+      },
+      {
+        "name": "iOS 7.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103609"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1311",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "Apple TV 6.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103319"
+      },
+      {
+        "name": "iOS 7.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103609"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1310",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "Apple TV 6.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103319"
+      },
+      {
+        "name": "iOS 7.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103609"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1309",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "Apple TV 6.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103319"
+      },
+      {
+        "name": "iOS 7.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103609"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1308",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "Apple TV 6.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103319"
+      },
+      {
+        "name": "iOS 7.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103609"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1307",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "Apple TV 6.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103319"
+      },
+      {
+        "name": "iOS 7.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103609"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1305",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "Apple TV 6.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103319"
+      },
+      {
+        "name": "iOS 7.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103609"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1304",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "Apple TV 6.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103319"
+      },
+      {
+        "name": "iOS 7.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103609"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1303",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "Apple TV 6.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103319"
+      },
+      {
+        "name": "iOS 7.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103609"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1302",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "Apple TV 6.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103319"
+      },
+      {
+        "name": "iOS 7.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103609"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1301",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1300",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "Apple TV 6.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103319"
+      },
+      {
+        "name": "iOS 7.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103609"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1299",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "Apple TV 6.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103319"
+      },
+      {
+        "name": "iOS 7.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103609"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1298",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "Apple TV 6.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103319"
+      },
+      {
+        "name": "iOS 7.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103609"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1297",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1296",
+    "components": [
+      "Apple TV",
+      "CFNetwork HTTPProtocol",
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103319"
+      },
+      {
+        "name": "iOS 7.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103609"
+      },
+      {
+        "name": "Security Update 2014-002",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103382"
+      },
+      {
+        "name": "iTunes 11.2",
+        "date": "2014-05-15",
+        "advisory": "https://support.apple.com/en-us/103518"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1295",
+    "components": [
+      "Apple TV",
+      "Security - Secure Transport"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103319"
+      },
+      {
+        "name": "iOS 7.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103609"
+      },
+      {
+        "name": "Security Update 2014-002",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103382"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1294",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1293",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1292",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1291",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1290",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1289",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1287",
+    "components": [
+      "Apple TV",
+      "USB Host"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1286",
+    "components": [
+      "SpringBoard Lock Screen"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1285",
+    "components": [
+      "Springboard"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1282",
+    "components": [
+      "Apple TV",
+      "Profiles"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1281",
+    "components": [
+      "Photos Backend"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1280",
+    "components": [
+      "Apple TV",
+      "Video Driver"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1279",
+    "components": [
+      "Apple TV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1278",
+    "components": [
+      "Apple TV",
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1276",
+    "components": [
+      "IOKit HID Event"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1275",
+    "components": [
+      "Apple TV",
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1274",
+    "components": [
+      "FaceTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1273",
+    "components": [
+      "Apple TV",
+      "dyld"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1272",
+    "components": [
+      "Apple TV",
+      "Crash Reporting"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1271",
+    "components": [
+      "Apple TV",
+      "CoreCapture"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1270",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.2 and Safari 7.0.2",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103379"
+      },
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1269",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.2 and Safari 7.0.2",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103379"
+      },
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1268",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.2 and Safari 7.0.2",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103379"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1267",
+    "components": [
+      "Apple TV",
+      "Configuration Profiles"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1266",
+    "components": [
+      "Apple TV",
+      "Data Security"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.0.2",
+        "date": "2014-02-21",
+        "advisory": "https://support.apple.com/en-us/103317"
+      },
+      {
+        "name": "iOS 6.1.6",
+        "date": "2014-02-21",
+        "advisory": "https://support.apple.com/en-us/103607"
+      },
+      {
+        "name": "iOS 7.0.6",
+        "date": "2014-02-21",
+        "advisory": "https://support.apple.com/en-us/103608"
+      },
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1265",
+    "components": [
+      "systemsetup"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1264",
+    "components": [
+      "Finder"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1263",
+    "components": [
+      "curl"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1262",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1261",
+    "components": [
+      "CoreText"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1260",
+    "components": [
+      "QuickLook"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1259",
+    "components": [
+      "File Bookmark"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1258",
+    "components": [
+      "CoreAnimation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1257",
+    "components": [
+      "CFNetwork Cookies"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1256",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1255",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1254",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1253",
+    "components": [
+      "Boot Camp"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Boot Camp 5.1",
+        "date": "2014-02-11",
+        "advisory": "https://support.apple.com/en-us/103480"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1252",
+    "components": [
+      "Office Viewer",
+      "Pages",
+      "QuickLook"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Pages 5.1 and Pages 2.1",
+        "date": "2014-01-23",
+        "advisory": "https://support.apple.com/en-us/103378"
+      },
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1251",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.5",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103481"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1250",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      },
+      {
+        "name": "QuickTime 7.7.5",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103481"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1249",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      },
+      {
+        "name": "QuickTime 7.7.5",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103481"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1248",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      },
+      {
+        "name": "QuickTime 7.7.5",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103481"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1247",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      },
+      {
+        "name": "QuickTime 7.7.5",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103481"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1246",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      },
+      {
+        "name": "QuickTime 7.7.5",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103481"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1245",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      },
+      {
+        "name": "QuickTime 7.7.5",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103481"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1244",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.5",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103481"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1243",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.5",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103481"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1242",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0591",
+    "components": [
+      "BIND"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server v4.0",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103299"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0238",
+    "components": [
+      "apache_mod_php"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0237",
+    "components": [
+      "apache_mod_php"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0224",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0221",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0207",
+    "components": [
+      "apache_mod_php"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0195",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0185",
+    "components": [
+      "apache_mod_php"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0160",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "AirPort Base Station Firmware Update 7.7.3",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/100735"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0098",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0076",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0066",
+    "components": [
+      "CoreCollaboration"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server 3.2.1",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103391"
+      },
+      {
+        "name": "OS X Server v4.0",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103299"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0065",
+    "components": [
+      "CoreCollaboration"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server 3.2.1",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103391"
+      },
+      {
+        "name": "OS X Server v4.0",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103299"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0064",
+    "components": [
+      "CoreCollaboration"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server 3.2.1",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103391"
+      },
+      {
+        "name": "OS X Server v4.0",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103299"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0063",
+    "components": [
+      "CoreCollaboration"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server 3.2.1",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103391"
+      },
+      {
+        "name": "OS X Server v4.0",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103299"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0062",
+    "components": [
+      "CoreCollaboration"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server 3.2.1",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103391"
+      },
+      {
+        "name": "OS X Server v4.0",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103299"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0061",
+    "components": [
+      "CoreCollaboration"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server 3.2.1",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103391"
+      },
+      {
+        "name": "OS X Server v4.0",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103299"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0060",
+    "components": [
+      "CoreCollaboration"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server 3.2.1",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103391"
+      },
+      {
+        "name": "OS X Server v4.0",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103299"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0032",
+    "components": [
+      "subversion"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Xcode 6.0.1",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103389"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-0015",
+    "components": [
+      "curl"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.4 and Security Update 2014-003",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103759"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-7345",
+    "components": [
+      "apache_mod_php"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.5 and Security Update 2014-004",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103331"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-6835",
+    "components": [
+      "Data Detectors",
+      "TelephonyUI Framework"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-6663",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "Safari 6.2 and Safari 7.1",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103390"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-6635",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.2 and Safari 7.0.2",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103379"
+      },
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-6629",
+    "components": [
+      "Apple TV",
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      },
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-6625",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-6438",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-6420",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-6393",
+    "components": [
+      "Profile Manager",
+      "Ruby",
+      "ServerRuby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2014-002",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103382"
+      },
+      {
+        "name": "OS X Server v4.0",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103299"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5987",
+    "components": [
+      "NVIDIA Drivers"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5986",
+    "components": [
+      "NVIDIA Drivers"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5228",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5227",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5225",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5199",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5198",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5197",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5196",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5195",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5179",
+    "components": [
+      "App Sandbox"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5178",
+    "components": [
+      "LaunchServices"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5170",
+    "components": [
+      "FontParser"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2014-002",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103382"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5150",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5139",
+    "components": [
+      "IOSerialFamily"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5133",
+    "components": [
+      "Backup"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5128",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5127",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5126",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-5125",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-4854",
+    "components": [
+      "BIND"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server v4.0",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103299"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-4248",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-4164",
+    "components": [
+      "Profile Manager",
+      "Ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2014-002",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103382"
+      },
+      {
+        "name": "OS X Server 3.1.2",
+        "date": "2014-05-20",
+        "advisory": "https://support.apple.com/en-us/103385"
+      },
+      {
+        "name": "OS X Server v4.0",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103299"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-4113",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-4073",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-3948",
+    "components": [
+      "iTunes Store"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-3919",
+    "components": [
+      "BIND"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Server v4.0",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103299"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2928",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2927",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2926",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2909",
+    "components": [
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2875",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.4 and Safari 7.0.4",
+        "date": "2014-05-21",
+        "advisory": "https://support.apple.com/en-us/103383"
+      },
+      {
+        "name": "Apple TV 6.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103387"
+      },
+      {
+        "name": "iOS 7.1.2",
+        "date": "2014-06-30",
+        "advisory": "https://support.apple.com/en-us/103610"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2871",
+    "components": [
+      "Apple TV",
+      "iTunes",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 6.1.3 and Safari 7.0.3",
+        "date": "2014-04-01",
+        "advisory": "https://support.apple.com/en-us/103381"
+      },
+      {
+        "name": "Apple TV 6.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103319"
+      },
+      {
+        "name": "iOS 7.1.1",
+        "date": "2014-04-22",
+        "advisory": "https://support.apple.com/en-us/103609"
+      },
+      {
+        "name": "iTunes 12.0.1",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103395"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-2842",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1896",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1862",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1047",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1046",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1045",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1044",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1043",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1042",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1041",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1040",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1039",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1038",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1037",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1032",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.5",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103481"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2013-1024",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5134",
+    "components": [
+      "libxml"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2871",
+    "components": [
+      "libxslt"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2870",
+    "components": [
+      "libxslt"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2825",
+    "components": [
+      "libxslt"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2807",
+    "components": [
+      "libxml"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2088",
+    "components": [
+      "Apple TV",
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 6.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103318"
+      },
+      {
+        "name": "iOS 7.1",
+        "date": "2014-03-10",
+        "advisory": "https://support.apple.com/en-us/103662"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-0841",
+    "components": [
+      "libxml"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3389",
+    "components": [
+      "Secure Transport"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Mavericks 10.9.2 and Security Update 2014-001",
+        "date": "2014-02-25",
+        "advisory": "https://support.apple.com/en-us/103380"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3102",
+    "components": [
+      "libxml"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 11.1.4",
+        "date": "2014-01-22",
+        "advisory": "https://support.apple.com/en-us/103372"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2391",
+    "components": [
+      "Apple TV",
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 7",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103818"
+      },
+      {
+        "name": "iOS 8",
+        "date": "2014-09-17",
+        "advisory": "https://support.apple.com/en-us/103819"
+      },
+      {
+        "name": "OS X Yosemite v10.10",
+        "date": "2014-10-16",
+        "advisory": "https://support.apple.com/en-us/103394"
+      }
+    ]
+  }
+]

@@ -1,0 +1,7197 @@
+[
+  {
+    "id": "CVE-2011-3561",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.7 Update 1 and Java for Mac OS X 10.6 Update 6",
+        "date": "2011-11-08",
+        "advisory": "https://support.apple.com/en-us/100922"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3560",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.7 Update 1 and Java for Mac OS X 10.6 Update 6",
+        "date": "2011-11-08",
+        "advisory": "https://support.apple.com/en-us/100922"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3558",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.7 Update 1 and Java for Mac OS X 10.6 Update 6",
+        "date": "2011-11-08",
+        "advisory": "https://support.apple.com/en-us/100922"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3557",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.7 Update 1 and Java for Mac OS X 10.6 Update 6",
+        "date": "2011-11-08",
+        "advisory": "https://support.apple.com/en-us/100922"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3556",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.7 Update 1 and Java for Mac OS X 10.6 Update 6",
+        "date": "2011-11-08",
+        "advisory": "https://support.apple.com/en-us/100922"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3554",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.7 Update 1 and Java for Mac OS X 10.6 Update 6",
+        "date": "2011-11-08",
+        "advisory": "https://support.apple.com/en-us/100922"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3553",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.7 Update 1 and Java for Mac OS X 10.6 Update 6",
+        "date": "2011-11-08",
+        "advisory": "https://support.apple.com/en-us/100922"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3552",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.7 Update 1 and Java for Mac OS X 10.6 Update 6",
+        "date": "2011-11-08",
+        "advisory": "https://support.apple.com/en-us/100922"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3551",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.7 Update 1 and Java for Mac OS X 10.6 Update 6",
+        "date": "2011-11-08",
+        "advisory": "https://support.apple.com/en-us/100922"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3549",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.7 Update 1 and Java for Mac OS X 10.6 Update 6",
+        "date": "2011-11-08",
+        "advisory": "https://support.apple.com/en-us/100922"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3548",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.7 Update 1 and Java for Mac OS X 10.6 Update 6",
+        "date": "2011-11-08",
+        "advisory": "https://support.apple.com/en-us/100922"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3547",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.7 Update 1 and Java for Mac OS X 10.6 Update 6",
+        "date": "2011-11-08",
+        "advisory": "https://support.apple.com/en-us/100922"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3546",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.7 Update 1 and Java for Mac OS X 10.6 Update 6",
+        "date": "2011-11-08",
+        "advisory": "https://support.apple.com/en-us/100922"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3545",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.7 Update 1 and Java for Mac OS X 10.6 Update 6",
+        "date": "2011-11-08",
+        "advisory": "https://support.apple.com/en-us/100922"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3544",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.7 Update 1 and Java for Mac OS X 10.6 Update 6",
+        "date": "2011-11-08",
+        "advisory": "https://support.apple.com/en-us/100922"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3521",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.7 Update 1 and Java for Mac OS X 10.6 Update 6",
+        "date": "2011-11-08",
+        "advisory": "https://support.apple.com/en-us/100922"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3443",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3442",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5.0.1 Software Update",
+        "date": "2011-11-10",
+        "advisory": "https://support.apple.com/en-us/103595"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3441",
+    "components": [
+      "libinfo"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5.0.1 Software Update",
+        "date": "2011-11-10",
+        "advisory": "https://support.apple.com/en-us/103595"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3440",
+    "components": [
+      "Passcode Lock"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5.0.1 Software Update",
+        "date": "2011-11-10",
+        "advisory": "https://support.apple.com/en-us/103595"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3439",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5.0.1 Software Update",
+        "date": "2011-11-10",
+        "advisory": "https://support.apple.com/en-us/103595"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3438",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3437",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3436",
+    "components": [
+      "Open Directory"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3435",
+    "components": [
+      "Open Directory"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3434",
+    "components": [
+      "Wi-Fi"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3432",
+    "components": [
+      "UIKit Alerts"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3431",
+    "components": [
+      "Home screen"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3430",
+    "components": [
+      "Settings"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3429",
+    "components": [
+      "Settings"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3428",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.1",
+        "date": "2011-10-26",
+        "advisory": "https://support.apple.com/en-us/104186"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3427",
+    "components": [
+      "Apple TV",
+      "Data Security"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 4.4",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/104183"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3426",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3389",
+    "components": [
+      "Apple TV",
+      "Data Security",
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 4.4",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/104183"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      },
+      {
+        "name": "Java for Mac OS X 10.7 Update 1 and Java for Mac OS X 10.6 Update 6",
+        "date": "2011-11-08",
+        "advisory": "https://support.apple.com/en-us/100922"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3261",
+    "components": [
+      "OfficeImport"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3260",
+    "components": [
+      "OfficeImport"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3259",
+    "components": [
+      "Apple TV",
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 4.4",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/104183"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3257",
+    "components": [
+      "Data Access"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3256",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3255",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3254",
+    "components": [
+      "Calendar"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3253",
+    "components": [
+      "CalDAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3252",
+    "components": [
+      "CoreAudio"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3251",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.1",
+        "date": "2011-10-26",
+        "advisory": "https://support.apple.com/en-us/104186"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3250",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.1",
+        "date": "2011-10-26",
+        "advisory": "https://support.apple.com/en-us/104186"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3249",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.1",
+        "date": "2011-10-26",
+        "advisory": "https://support.apple.com/en-us/104186"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3248",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.1",
+        "date": "2011-10-26",
+        "advisory": "https://support.apple.com/en-us/104186"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3247",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7.1",
+        "date": "2011-10-26",
+        "advisory": "https://support.apple.com/en-us/104186"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3246",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      },
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      },
+      {
+        "name": "iOS 5.0.1 Software Update",
+        "date": "2011-11-10",
+        "advisory": "https://support.apple.com/en-us/103595"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3245",
+    "components": [
+      "Keyboards"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3244",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3243",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3241",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3239",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3238",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3237",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3236",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3235",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3234",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3233",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3232",
+    "components": [
+      "Apple TV",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "Apple TV 4.4",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/104183"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3228",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      },
+      {
+        "name": "QuickTime 7.7.1",
+        "date": "2011-10-26",
+        "advisory": "https://support.apple.com/en-us/104186"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3227",
+    "components": [
+      "libsecurity"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3226",
+    "components": [
+      "Open Directory"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3225",
+    "components": [
+      "SMB File Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3224",
+    "components": [
+      "User Documentation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3223",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      },
+      {
+        "name": "QuickTime 7.7.1",
+        "date": "2011-10-26",
+        "advisory": "https://support.apple.com/en-us/104186"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3222",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      },
+      {
+        "name": "QuickTime 7.7.1",
+        "date": "2011-10-26",
+        "advisory": "https://support.apple.com/en-us/104186"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3221",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      },
+      {
+        "name": "QuickTime 7.7.1",
+        "date": "2011-10-26",
+        "advisory": "https://support.apple.com/en-us/104186"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3220",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      },
+      {
+        "name": "QuickTime 7.7.1",
+        "date": "2011-10-26",
+        "advisory": "https://support.apple.com/en-us/104186"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3219",
+    "components": [
+      "CoreMedia",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      },
+      {
+        "name": "QuickTime 7.7.1",
+        "date": "2011-10-26",
+        "advisory": "https://support.apple.com/en-us/104186"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3218",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      },
+      {
+        "name": "QuickTime 7.7.1",
+        "date": "2011-10-26",
+        "advisory": "https://support.apple.com/en-us/104186"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3217",
+    "components": [
+      "MediaKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3216",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3215",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3214",
+    "components": [
+      "IOGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3213",
+    "components": [
+      "File Systems"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3212",
+    "components": [
+      "CoreStorage"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-3192",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2831",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2827",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2823",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2820",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2819",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2818",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2817",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2816",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2815",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2814",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2813",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2811",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2809",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2805",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2800",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2799",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2797",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2792",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2790",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2788",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2692",
+    "components": [
+      "PHP",
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2691",
+    "components": [
+      "PHP",
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2690",
+    "components": [
+      "PHP",
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2464",
+    "components": [
+      "BIND"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2359",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2356",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2354",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2352",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2351",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2341",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2339",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-2338",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1910",
+    "components": [
+      "BIND"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1797",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1774",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1755",
+    "components": [
+      "iChat Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1720",
+    "components": [
+      "postfix"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1521",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1471",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1470",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1469",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1468",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1467",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1466",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1462",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1457",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1453",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1451",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1449",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1440",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1417",
+    "components": [
+      "Pages",
+      "QuickLook"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      },
+      {
+        "name": "iOS 4.2.7 Software Update for iPhone",
+        "date": "2011-04-14",
+        "advisory": "https://support.apple.com/en-us/103589"
+      },
+      {
+        "name": "iOS 4.3.2 Software Update",
+        "date": "2011-04-14",
+        "advisory": "https://support.apple.com/en-us/103590"
+      },
+      {
+        "name": "iWork 9.1 Update",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/100923"
+      },
+      {
+        "name": "Pages for iOS v1.5",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/104184"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1344",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 4.2.7 Software Update for iPhone",
+        "date": "2011-04-14",
+        "advisory": "https://support.apple.com/en-us/103589"
+      },
+      {
+        "name": "iOS 4.3.2 Software Update",
+        "date": "2011-04-14",
+        "advisory": "https://support.apple.com/en-us/103590"
+      },
+      {
+        "name": "iTunes 10.2.2",
+        "date": "2011-04-18",
+        "advisory": "https://support.apple.com/en-us/103342"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1296",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1295",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1293",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1290",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 4.2.7 Software Update for iPhone",
+        "date": "2011-04-14",
+        "advisory": "https://support.apple.com/en-us/103589"
+      },
+      {
+        "name": "iOS 4.3.2 Software Update",
+        "date": "2011-04-14",
+        "advisory": "https://support.apple.com/en-us/103590"
+      },
+      {
+        "name": "iTunes 10.2.2",
+        "date": "2011-04-18",
+        "advisory": "https://support.apple.com/en-us/103342"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1288",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1204",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1203",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1190",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1188",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1153",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1132",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1121",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1117",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1115",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1114",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1109",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1107",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-1092",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0997",
+    "components": [],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Time Capsule and AirPort Base Station (802.11n) Firmware 7.6",
+        "date": "2011-11-10",
+        "advisory": "https://support.apple.com/en-us/102752"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0983",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0981",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0873",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 10",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/104178"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 5",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/100924"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0871",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 10",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/104178"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 5",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/100924"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0869",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 10",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/104178"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 5",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/100924"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0868",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 10",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/104178"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 5",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/100924"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0867",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 10",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/104178"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 5",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/100924"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0865",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 10",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/104178"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 5",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/100924"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0864",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 10",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/104178"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 5",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/100924"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0863",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 10",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/104178"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 5",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/100924"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0862",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 10",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/104178"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 5",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/100924"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0814",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 10",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/104178"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 5",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/100924"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0802",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 10",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/104178"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 5",
+        "date": "2011-06-28",
+        "advisory": "https://support.apple.com/en-us/100924"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0719",
+    "components": [
+      "Samba"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0715",
+    "components": [
+      "subversion"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0708",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0707",
+    "components": [
+      "Mailman"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0534",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0421",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0420",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0419",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0411",
+    "components": [
+      "postfix"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0260",
+    "components": [
+      "CoreProcesses"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0259",
+    "components": [
+      "CoreFoundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      },
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0258",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7",
+        "date": "2011-08-03",
+        "advisory": "https://support.apple.com/en-us/104180"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0257",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7",
+        "date": "2011-08-03",
+        "advisory": "https://support.apple.com/en-us/104180"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0256",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7",
+        "date": "2011-08-03",
+        "advisory": "https://support.apple.com/en-us/104180"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0255",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0254",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0253",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0252",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7",
+        "date": "2011-08-03",
+        "advisory": "https://support.apple.com/en-us/104180"
+      },
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0251",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7",
+        "date": "2011-08-03",
+        "advisory": "https://support.apple.com/en-us/104180"
+      },
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0250",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7",
+        "date": "2011-08-03",
+        "advisory": "https://support.apple.com/en-us/104180"
+      },
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0249",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7",
+        "date": "2011-08-03",
+        "advisory": "https://support.apple.com/en-us/104180"
+      },
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0248",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7",
+        "date": "2011-08-03",
+        "advisory": "https://support.apple.com/en-us/104180"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0247",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7",
+        "date": "2011-08-03",
+        "advisory": "https://support.apple.com/en-us/104180"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0246",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7",
+        "date": "2011-08-03",
+        "advisory": "https://support.apple.com/en-us/104180"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0245",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.7",
+        "date": "2011-08-03",
+        "advisory": "https://support.apple.com/en-us/104180"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0244",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0242",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0241",
+    "components": [
+      "Apple TV",
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Apple TV 4.4",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/104183"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0240",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0238",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0237",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0235",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0234",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0233",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0232",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0231",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0230",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0229",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0228",
+    "components": [
+      "Data Security"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 4.2.10 Software Update for iPhone",
+        "date": "2011-07-25",
+        "advisory": "https://support.apple.com/en-us/103593"
+      },
+      {
+        "name": "iOS 4.3.5 Software Update for iPhone",
+        "date": "2011-07-25",
+        "advisory": "https://support.apple.com/en-us/103594"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0227",
+    "components": [
+      "IOMobileFrameBuffer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 4.2.9 Software Update for iPhone",
+        "date": "2011-07-15",
+        "advisory": "https://support.apple.com/en-us/103592"
+      },
+      {
+        "name": "iOS 4.3.4 Software Update",
+        "date": "2011-07-15",
+        "advisory": "https://support.apple.com/en-us/103591"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0226",
+    "components": [
+      "CoreGraphics",
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 4.2.9 Software Update for iPhone",
+        "date": "2011-07-15",
+        "advisory": "https://support.apple.com/en-us/103592"
+      },
+      {
+        "name": "iOS 4.3.4 Software Update",
+        "date": "2011-07-15",
+        "advisory": "https://support.apple.com/en-us/103591"
+      },
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0225",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0224",
+    "components": [
+      "CoreMedia"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0223",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0222",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0221",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0219",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0218",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0217",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0216",
+    "components": [
+      "Apple TV",
+      "libxml"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Apple TV 4.4",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/104183"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0215",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0214",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0213",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      },
+      {
+        "name": "QuickTime 7.7",
+        "date": "2011-08-03",
+        "advisory": "https://support.apple.com/en-us/104180"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0212",
+    "components": [
+      "servermgrd"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0211",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      },
+      {
+        "name": "QuickTime 7.7",
+        "date": "2011-08-03",
+        "advisory": "https://support.apple.com/en-us/104180"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0210",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      },
+      {
+        "name": "QuickTime 7.7",
+        "date": "2011-08-03",
+        "advisory": "https://support.apple.com/en-us/104180"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0209",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      },
+      {
+        "name": "QuickTime 7.7",
+        "date": "2011-08-03",
+        "advisory": "https://support.apple.com/en-us/104180"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0208",
+    "components": [
+      "OfficeImport",
+      "QuickLook"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0207",
+    "components": [
+      "MobileMe"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0206",
+    "components": [
+      "International Components for Unicode"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      },
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0205",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0204",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      },
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0203",
+    "components": [
+      "FTP Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0202",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      },
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0201",
+    "components": [
+      "CoreFoundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      },
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0200",
+    "components": [
+      "ColorSync"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      },
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0199",
+    "components": [
+      "Certificate Trust Policy"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0198",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0197",
+    "components": [
+      "App Store"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0196",
+    "components": [
+      "AirPort"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0195",
+    "components": [
+      "libxslt"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 4.3.2 Software Update",
+        "date": "2011-04-14",
+        "advisory": "https://support.apple.com/en-us/103590"
+      },
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      },
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0194",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0193",
+    "components": [
+      "Image RAW"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0192",
+    "components": [
+      "Apple TV",
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "Apple TV 4.2",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103312"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      },
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      },
+      {
+        "name": "Apple TV 4.4",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/104183"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0191",
+    "components": [
+      "Apple TV",
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "Apple TV 4.2",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103312"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      },
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0190",
+    "components": [
+      "Installer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0189",
+    "components": [
+      "Terminal"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0188",
+    "components": [
+      "Ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0187",
+    "components": [
+      "CoreMedia",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      },
+      {
+        "name": "QuickTime 7.7",
+        "date": "2011-08-03",
+        "advisory": "https://support.apple.com/en-us/104180"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      },
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0186",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      },
+      {
+        "name": "QuickTime 7.7",
+        "date": "2011-08-03",
+        "advisory": "https://support.apple.com/en-us/104180"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0185",
+    "components": [
+      "Application Firewall"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0184",
+    "components": [
+      "OfficeImport",
+      "QuickLook"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      },
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0183",
+    "components": [
+      "Libinfo"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0182",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0181",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0180",
+    "components": [
+      "HFS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0179",
+    "components": [
+      "CoreText"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0178",
+    "components": [
+      "CarbonCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0177",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0176",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0175",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0174",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0173",
+    "components": [
+      "AppleScript"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0172",
+    "components": [
+      "AirPort"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0170",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0168",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0166",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 5 Software Update",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103815"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0165",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0164",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0163",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0162",
+    "components": [
+      "Apple TV",
+      "Wi-Fi"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 4.2",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103312"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0161",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0160",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0159",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0158",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0157",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0156",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0155",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0154",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0153",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0152",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0151",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0150",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0149",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0148",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0147",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0146",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0145",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0144",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0143",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0142",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0141",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0140",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0139",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0138",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0137",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0136",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0135",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0134",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0133",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0132",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0131",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0130",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0129",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0128",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0127",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0126",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0125",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0124",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0123",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0122",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0121",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0120",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0119",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0118",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0117",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0116",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0115",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0114",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0113",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0112",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0111",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0014",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2011-0013",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4651",
+    "components": [
+      "patch"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4645",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4494",
+    "components": [
+      "libxml"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      },
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4479",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4476",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 9",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/104177"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 4",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/100925"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4473",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 9",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/104177"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 4",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/100925"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4472",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 9",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/104177"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 4",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/100925"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4471",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 9",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/104177"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 4",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/100925"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4470",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 9",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/104177"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 4",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/100925"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4469",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 9",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/104177"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 4",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/100925"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4468",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 9",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/104177"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 4",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/100925"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4467",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 9",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/104177"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 4",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/100925"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4465",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 9",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/104177"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 4",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/100925"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4463",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 9",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/104177"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 4",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/100925"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4462",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 9",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/104177"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 4",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/100925"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4454",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 9",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/104177"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 4",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/100925"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4450",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 9",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/104177"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 4",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/100925"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4448",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 9",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/104177"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 4",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/100925"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4447",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 9",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/104177"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 4",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/100925"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4422",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 9",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/104177"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 4",
+        "date": "2011-03-08",
+        "advisory": "https://support.apple.com/en-us/100925"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4409",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4261",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4260",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4180",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4172",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4150",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4021",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4020",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4013",
+    "components": [
+      "PackageKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.6",
+        "date": "2011-01-06",
+        "advisory": "https://support.apple.com/en-us/103339"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4009",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4008",
+    "components": [
+      "libxml"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3870",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3864",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3855",
+    "components": [
+      "Apple TV",
+      "CoreGraphics",
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple TV 4.2",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103312"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      },
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      },
+      {
+        "name": "iOS 4.2.9 Software Update for iPhone",
+        "date": "2011-07-15",
+        "advisory": "https://support.apple.com/en-us/103592"
+      },
+      {
+        "name": "iOS 4.3.4 Software Update",
+        "date": "2011-07-15",
+        "advisory": "https://support.apple.com/en-us/103591"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3838",
+    "components": [
+      "MySQL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3837",
+    "components": [
+      "MySQL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3836",
+    "components": [
+      "MySQL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3835",
+    "components": [
+      "MySQL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3834",
+    "components": [
+      "MySQL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3833",
+    "components": [
+      "MySQL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3829",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3814",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3802",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3801",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3790",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3786",
+    "components": [
+      "Numbers"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iWork 9.1 Update",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/100923"
+      },
+      {
+        "name": "Numbers for iOS v1.5",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/104185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3785",
+    "components": [
+      "Numbers"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iWork 9.1 Update",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/100923"
+      },
+      {
+        "name": "Numbers for iOS v1.5",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/104185"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3718",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3710",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3709",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3682",
+    "components": [
+      "MySQL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3677",
+    "components": [
+      "MySQL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3614",
+    "components": [
+      "BIND"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3613",
+    "components": [
+      "BIND"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3436",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      },
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3434",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3315",
+    "components": [
+      "Subversion"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3089",
+    "components": [
+      "Mailman"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3069",
+    "components": [
+      "Samba"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      },
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2950",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2632",
+    "components": [
+      "LibSystem"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2249",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2227",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2089",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2068",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1824",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      },
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1823",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "iTunes 10.5",
+        "date": "2011-10-11",
+        "advisory": "https://support.apple.com/en-us/104182"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1792",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 4.3",
+        "date": "2011-03-09",
+        "advisory": "https://support.apple.com/en-us/103764"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1634",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1452",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1420",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1383",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 5.0.6",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      },
+      {
+        "name": "Safari 5.1",
+        "date": "2011-07-20",
+        "advisory": "https://support.apple.com/en-us/104179"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1324",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1323",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1205",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.2",
+        "date": "2011-03-02",
+        "advisory": "https://support.apple.com/en-us/104176"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1157",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0740",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0405",
+    "components": [
+      "bzip2",
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0097",
+    "components": [
+      "BIND"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-4022",
+    "components": [
+      "BIND"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "OS X Lion v10.7.2 and Security Update 2011-006",
+        "date": "2011-10-12",
+        "advisory": "https://support.apple.com/en-us/103345"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3245",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.8 / Security Update 2011-004",
+        "date": "2011-06-23",
+        "advisory": "https://support.apple.com/en-us/103511"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3434",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 10.5.1",
+        "date": "2011-11-14",
+        "advisory": "https://support.apple.com/en-us/104187"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-7243",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.7 / Security Update 2011-001",
+        "date": "2011-03-21",
+        "advisory": "https://support.apple.com/en-us/103340"
+      }
+    ]
+  }
+]

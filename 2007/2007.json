@@ -1,0 +1,4481 @@
+[
+  {
+    "id": "CVE-2007-6166",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.3.1",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/en-us/102485"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6165",
+    "components": [
+      "Launch Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6077",
+    "components": [
+      "ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5863",
+    "components": [
+      "Software Update"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5862",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Release 6 for Mac OS X 10.4",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/kb/TA25122",
+        "archive": "https://web.archive.org/web/20090426071805id_/http://support.apple.com:80/kb/TA25122?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5861",
+    "components": [
+      "Spotlight"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5860",
+    "components": [
+      "Spin Tracer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5859",
+    "components": [
+      "Safari RSS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5858",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3 Beta Update 3.0.4 Security Update",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102696"
+      },
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5857",
+    "components": [
+      "Quick Look"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5856",
+    "components": [
+      "Quick Look"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5855",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5854",
+    "components": [
+      "Launch Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5853",
+    "components": [
+      "IO Storage Family"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5851",
+    "components": [
+      "iChat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5850",
+    "components": [
+      "Desktop Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5849",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5848",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5847",
+    "components": [
+      "Core Foundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5770",
+    "components": [
+      "ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5476",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5398",
+    "components": [
+      "Samba"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5380",
+    "components": [
+      "ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5379",
+    "components": [
+      "ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5232",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Release 6 for Mac OS X 10.4",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/kb/TA25122",
+        "archive": "https://web.archive.org/web/20090426071805id_/http://support.apple.com:80/kb/TA25122?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5116",
+    "components": [
+      "perl"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4965",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4812",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3 Beta Update 3.0.4",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/kb/TA25078",
+        "archive": "https://web.archive.org/web/20110521212149id_/http://support.apple.com/kb/TA25078"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4768",
+    "components": [
+      "XQuery"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4767",
+    "components": [
+      "XQuery"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4766",
+    "components": [
+      "XQuery"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4743",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4710",
+    "components": [
+      "ColorSync"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4709",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4708",
+    "components": [
+      "Address Book"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4707",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.3.1",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/en-us/102485"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4706",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.3.1",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/en-us/102485"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4704",
+    "components": [
+      "Application Firewall"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.5.1",
+        "date": "2007-11-15",
+        "advisory": "https://support.apple.com/en-us/102685"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4703",
+    "components": [
+      "Application Firewall"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.5.1",
+        "date": "2007-11-15",
+        "advisory": "https://support.apple.com/en-us/102685"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4702",
+    "components": [
+      "Application Firewall"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.5.1",
+        "date": "2007-11-15",
+        "advisory": "https://support.apple.com/en-us/102685"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4701",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4700",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4699",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4698",
+    "components": [
+      "WebCore",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      },
+      {
+        "name": "Safari 3 Beta Update 3.0.4",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/kb/TA25078",
+        "archive": "https://web.archive.org/web/20110521212149id_/http://support.apple.com/kb/TA25078"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4697",
+    "components": [
+      "WebCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4696",
+    "components": [
+      "WebCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4695",
+    "components": [
+      "WebCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4694",
+    "components": [
+      "WebCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4693",
+    "components": [
+      "SecurityAgent"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4692",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      },
+      {
+        "name": "Safari 3 Beta Update 3.0.4",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/kb/TA25078",
+        "archive": "https://web.archive.org/web/20110521212149id_/http://support.apple.com/kb/TA25078"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4691",
+    "components": [
+      "NSURL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4690",
+    "components": [
+      "NFS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4689",
+    "components": [
+      "Networking"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4688",
+    "components": [
+      "Networking"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4687",
+    "components": [
+      "remote_cmds"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4686",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4685",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4684",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4683",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4682",
+    "components": [
+      "CoreText"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4681",
+    "components": [
+      "CoreFoundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4680",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4679",
+    "components": [
+      "CFFTP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4678",
+    "components": [
+      "AppleRAID"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4677",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.3",
+        "date": "2007-11-05",
+        "advisory": "https://support.apple.com/en-us/102580"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4676",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.3",
+        "date": "2007-11-05",
+        "advisory": "https://support.apple.com/en-us/102580"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4675",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.3",
+        "date": "2007-11-05",
+        "advisory": "https://support.apple.com/en-us/102580"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4674",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.3",
+        "date": "2007-11-05",
+        "advisory": "https://support.apple.com/en-us/102580"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4673",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update for QuickTime 7.2 for Windows",
+        "date": "2007-10-03",
+        "advisory": "https://support.apple.com/en-us/102584"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4672",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.3",
+        "date": "2007-11-05",
+        "advisory": "https://support.apple.com/en-us/102580"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4671",
+    "components": [
+      "Safari",
+      "WebCore",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 1.1.1 Update",
+        "date": "2007-09-27",
+        "advisory": "https://support.apple.com/en-us/101680"
+      },
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      },
+      {
+        "name": "Safari 3 Beta Update 3.0.4",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/kb/TA25078",
+        "archive": "https://web.archive.org/web/20110521212149id_/http://support.apple.com/kb/TA25078"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4572",
+    "components": [
+      "Samba"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4381",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Release 6 for Mac OS X 10.4",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/kb/TA25122",
+        "archive": "https://web.archive.org/web/20090426071805id_/http://support.apple.com:80/kb/TA25122?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4351",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4269",
+    "components": [
+      "Networking"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4268",
+    "components": [
+      "Networking"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4267",
+    "components": [
+      "Networking"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4131",
+    "components": [
+      "GNU Tar"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3999",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3944",
+    "components": [
+      "Safari",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone v1.0.1 Update",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102579"
+      },
+      {
+        "name": "Safari 3 Beta Update 3.0.3",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/kb/TA24875",
+        "archive": "https://web.archive.org/web/20081227033147id_/http://support.apple.com:80/kb/TA24875?"
+      },
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3922",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Release 6 for Mac OS X 10.4",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/kb/TA25122",
+        "archive": "https://web.archive.org/web/20090426071805id_/http://support.apple.com:80/kb/TA25122?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3876",
+    "components": [
+      "SMB"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3798",
+    "components": [
+      "tcpdump"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3761",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 1.1.1 Update",
+        "date": "2007-09-27",
+        "advisory": "https://support.apple.com/en-us/101680"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3760",
+    "components": [
+      "Safari",
+      "WebCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 1.1.1 Update",
+        "date": "2007-09-27",
+        "advisory": "https://support.apple.com/en-us/101680"
+      },
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      },
+      {
+        "name": "Safari 3 Beta Update 3.0.4",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/kb/TA25078",
+        "archive": "https://web.archive.org/web/20110521212149id_/http://support.apple.com/kb/TA25078"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3759",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 1.1.1 Update",
+        "date": "2007-09-27",
+        "advisory": "https://support.apple.com/en-us/101680"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3758",
+    "components": [
+      "Safari",
+      "WebCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 1.1.1 Update",
+        "date": "2007-09-27",
+        "advisory": "https://support.apple.com/en-us/101680"
+      },
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      },
+      {
+        "name": "Safari 3 Beta Update 3.0.4",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/kb/TA25078",
+        "archive": "https://web.archive.org/web/20110521212149id_/http://support.apple.com/kb/TA25078"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3757",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 1.1.1 Update",
+        "date": "2007-09-27",
+        "advisory": "https://support.apple.com/en-us/101680"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3756",
+    "components": [
+      "Safari",
+      "WebCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 1.1.1 Update",
+        "date": "2007-09-27",
+        "advisory": "https://support.apple.com/en-us/101680"
+      },
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      },
+      {
+        "name": "Safari 3 Beta Update 3.0.4",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/kb/TA25078",
+        "archive": "https://web.archive.org/web/20110521212149id_/http://support.apple.com/kb/TA25078"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3755",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 1.1.1 Update",
+        "date": "2007-09-27",
+        "advisory": "https://support.apple.com/en-us/101680"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3754",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 1.1.1 Update",
+        "date": "2007-09-27",
+        "advisory": "https://support.apple.com/en-us/101680"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3753",
+    "components": [
+      "Bluetooth"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 1.1.1 Update",
+        "date": "2007-09-27",
+        "advisory": "https://support.apple.com/en-us/101680"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3752",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 7.4",
+        "date": "2007-09-05",
+        "advisory": "https://support.apple.com/en-us/102695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3751",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.3",
+        "date": "2007-11-05",
+        "advisory": "https://support.apple.com/en-us/102580"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3750",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.3",
+        "date": "2007-11-05",
+        "advisory": "https://support.apple.com/en-us/102580"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3749",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3748",
+    "components": [
+      "iChat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3747",
+    "components": [
+      "CoreAudio"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3746",
+    "components": [
+      "CoreAudio"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3745",
+    "components": [
+      "CoreAudio"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3744",
+    "components": [
+      "mDNSResponder"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3743",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3 Beta Update 3.0.3",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/kb/TA24875",
+        "archive": "https://web.archive.org/web/20081227033147id_/http://support.apple.com:80/kb/TA24875?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3742",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone v1.0.1 Update",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102579"
+      },
+      {
+        "name": "Safari 3 Beta Update 3.0.3",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/kb/TA24875",
+        "archive": "https://web.archive.org/web/20081227033147id_/http://support.apple.com:80/kb/TA24875?"
+      },
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3698",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Release 6 for Mac OS X 10.4",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/kb/TA25122",
+        "archive": "https://web.archive.org/web/20090426071805id_/http://support.apple.com:80/kb/TA25122?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3655",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Release 6 for Mac OS X 10.4",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/kb/TA25122",
+        "archive": "https://web.archive.org/web/20090426071805id_/http://support.apple.com:80/kb/TA25122?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3504",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Release 6 for Mac OS X 10.4",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/kb/TA25122",
+        "archive": "https://web.archive.org/web/20090426071805id_/http://support.apple.com:80/kb/TA25122?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3503",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Release 6 for Mac OS X 10.4",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/kb/TA25122",
+        "archive": "https://web.archive.org/web/20090426071805id_/http://support.apple.com:80/kb/TA25122?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3456",
+    "components": [
+      "Flash Player Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3005",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Release 6 for Mac OS X 10.4",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/kb/TA25122",
+        "archive": "https://web.archive.org/web/20090426071805id_/http://support.apple.com:80/kb/TA25122?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-3004",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Release 6 for Mac OS X 10.4",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/kb/TA25122",
+        "archive": "https://web.archive.org/web/20090426071805id_/http://support.apple.com:80/kb/TA25122?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2926",
+    "components": [
+      "BIND"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2798",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2789",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Release 6 for Mac OS X 10.4",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/kb/TA25122",
+        "archive": "https://web.archive.org/web/20090426071805id_/http://support.apple.com:80/kb/TA25122?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2788",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Release 6 for Mac OS X 10.4",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/kb/TA25122",
+        "archive": "https://web.archive.org/web/20090426071805id_/http://support.apple.com:80/kb/TA25122?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2754",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3 Beta Update 3.0.4",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/kb/TA25078",
+        "archive": "https://web.archive.org/web/20110521212149id_/http://support.apple.com/kb/TA25078"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2589",
+    "components": [
+      "SquirrelMail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2447",
+    "components": [
+      "Samba"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2446",
+    "components": [
+      "Samba"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2443",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2442",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2435",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Release 6 for Mac OS X 10.4",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/kb/TA25122",
+        "archive": "https://web.archive.org/web/20090426071805id_/http://support.apple.com:80/kb/TA25122?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2410",
+    "components": [
+      "WebCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2409",
+    "components": [
+      "WebCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2408",
+    "components": [
+      "WebCore",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3 Beta Update 3.0.3",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/kb/TA24875",
+        "archive": "https://web.archive.org/web/20081227033147id_/http://support.apple.com:80/kb/TA24875?"
+      },
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2407",
+    "components": [
+      "Samba"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2406",
+    "components": [
+      "Quartz Composer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2405",
+    "components": [
+      "PDFKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2404",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2403",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2402",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.2",
+        "date": "2007-07-11",
+        "advisory": "https://support.apple.com/kb/TA24829",
+        "archive": "https://web.archive.org/web/20081026171514id_/http://support.apple.com:80/kb/TA24829?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2401",
+    "components": [
+      "WebCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-006",
+        "date": "2007-06-22",
+        "advisory": "https://support.apple.com/kb/TA24792",
+        "archive": "https://web.archive.org/web/20090315071450id_/http://support.apple.com:80/kb/TA24792?"
+      },
+      {
+        "name": "iPhone v1.0.1 Update",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102579"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2400",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone v1.0.1 Update",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102579"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2399",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-006",
+        "date": "2007-06-22",
+        "advisory": "https://support.apple.com/kb/TA24792",
+        "archive": "https://web.archive.org/web/20090315071450id_/http://support.apple.com:80/kb/TA24792?"
+      },
+      {
+        "name": "iPhone v1.0.1 Update",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102579"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2397",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.2",
+        "date": "2007-07-11",
+        "advisory": "https://support.apple.com/kb/TA24829",
+        "archive": "https://web.archive.org/web/20081026171514id_/http://support.apple.com:80/kb/TA24829?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2396",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.2",
+        "date": "2007-07-11",
+        "advisory": "https://support.apple.com/kb/TA24829",
+        "archive": "https://web.archive.org/web/20081026171514id_/http://support.apple.com:80/kb/TA24829?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2395",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.3",
+        "date": "2007-11-05",
+        "advisory": "https://support.apple.com/en-us/102580"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2394",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.2",
+        "date": "2007-07-11",
+        "advisory": "https://support.apple.com/kb/TA24829",
+        "archive": "https://web.archive.org/web/20081026171514id_/http://support.apple.com:80/kb/TA24829?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2393",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.2",
+        "date": "2007-07-11",
+        "advisory": "https://support.apple.com/kb/TA24829",
+        "archive": "https://web.archive.org/web/20081026171514id_/http://support.apple.com:80/kb/TA24829?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2392",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.2",
+        "date": "2007-07-11",
+        "advisory": "https://support.apple.com/kb/TA24829",
+        "archive": "https://web.archive.org/web/20081026171514id_/http://support.apple.com:80/kb/TA24829?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2390",
+    "components": [
+      "iChat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-005",
+        "date": "2007-05-24",
+        "advisory": "https://support.apple.com/kb/TA24732",
+        "archive": "https://web.archive.org/web/20110521210403id_/http://support.apple.com/kb/TA24732"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2389",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update (QuickTime 7.1.6)",
+        "date": "2007-05-29",
+        "advisory": "https://support.apple.com/kb/TA24733",
+        "archive": "https://web.archive.org/web/20090331165921id_/http://support.apple.com:80/kb/TA24733?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2388",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update (QuickTime 7.1.6)",
+        "date": "2007-05-29",
+        "advisory": "https://support.apple.com/kb/TA24733",
+        "archive": "https://web.archive.org/web/20090331165921id_/http://support.apple.com:80/kb/TA24733?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2387",
+    "components": [
+      "Xserve Lights-Out Management Firmware"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Xserve Lights-Out Management Firmware Update 1.0",
+        "date": "2007-05-31",
+        "advisory": "https://support.apple.com/kb/TA24750",
+        "archive": "https://web.archive.org/web/20090406202706id_/http://support.apple.com:80/kb/TA24750?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2386",
+    "components": [
+      "Apple TV",
+      "mDNSResponder"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-005",
+        "date": "2007-05-24",
+        "advisory": "https://support.apple.com/kb/TA24732",
+        "archive": "https://web.archive.org/web/20110521210403id_/http://support.apple.com/kb/TA24732"
+      },
+      {
+        "name": "Apple TV 1.1",
+        "date": "2007-06-20",
+        "advisory": "https://support.apple.com/kb/TA24773",
+        "archive": "https://web.archive.org/web/20101119050518id_/http://support.apple.com:80/kb/TA24773?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2296",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.2",
+        "date": "2007-07-11",
+        "advisory": "https://support.apple.com/kb/TA24829",
+        "archive": "https://web.archive.org/web/20081026171514id_/http://support.apple.com:80/kb/TA24829?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2295",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.2",
+        "date": "2007-07-11",
+        "advisory": "https://support.apple.com/kb/TA24829",
+        "archive": "https://web.archive.org/web/20081026171514id_/http://support.apple.com:80/kb/TA24829?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2242",
+    "components": [
+      "AirPort Extreme Base Station with 802.11n*",
+      "Networking"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.10",
+        "date": "2007-06-20",
+        "advisory": "https://support.apple.com/kb/TA24785",
+        "archive": "https://web.archive.org/web/20091016041837id_/http://support.apple.com:80/kb/TA24785?"
+      },
+      {
+        "name": "Firmware Update 7.2.1 for AirPort Extreme Base Station with 802.11n",
+        "date": "2007-08-29",
+        "advisory": "https://support.apple.com/kb/TA24920",
+        "archive": "https://web.archive.org/web/20091216012354id_/http://support.apple.com:80/kb/TA24920?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2175",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1.6",
+        "date": "2007-05-01",
+        "advisory": "https://support.apple.com/en-us/102694"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1860",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1717",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1711",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1662",
+    "components": [
+      "XQuery"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1661",
+    "components": [
+      "XQuery"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1660",
+    "components": [
+      "XQuery"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1659",
+    "components": [
+      "XQuery"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1583",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1558",
+    "components": [
+      "fetchmail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-005",
+        "date": "2007-05-24",
+        "advisory": "https://support.apple.com/kb/TA24732",
+        "archive": "https://web.archive.org/web/20110521210403id_/http://support.apple.com/kb/TA24732"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1536",
+    "components": [
+      "file"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-005",
+        "date": "2007-05-24",
+        "advisory": "https://support.apple.com/kb/TA24732",
+        "archive": "https://web.archive.org/web/20110521210403id_/http://support.apple.com/kb/TA24732"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1521",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1484",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1461",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1460",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1358",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1352",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3 Beta Update 3.0.4",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/kb/TA25078",
+        "archive": "https://web.archive.org/web/20110521212149id_/http://support.apple.com/kb/TA25078"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1351",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3 Beta Update 3.0.4",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/kb/TA25078",
+        "archive": "https://web.archive.org/web/20110521212149id_/http://support.apple.com/kb/TA25078"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1338",
+    "components": [
+      "AirPort Extreme Base Station with 802.11n* Firmware"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Firmware Update 7.1 for AirPort Extreme Base Station with 802.11n",
+        "date": "2007-04-09",
+        "advisory": "https://support.apple.com/en-us/103996"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1287",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1262",
+    "components": [
+      "SquirrelMail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1218",
+    "components": [
+      "tcpdump"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1216",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1071",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1001",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0957",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0753",
+    "components": [
+      "VPN"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-005",
+        "date": "2007-05-24",
+        "advisory": "https://support.apple.com/kb/TA24732",
+        "archive": "https://web.archive.org/web/20110521210403id_/http://support.apple.com/kb/TA24732"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0752",
+    "components": [
+      "PPP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-005",
+        "date": "2007-05-24",
+        "advisory": "https://support.apple.com/kb/TA24732",
+        "archive": "https://web.archive.org/web/20110521210403id_/http://support.apple.com/kb/TA24732"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0751",
+    "components": [
+      "crontabs"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-005",
+        "date": "2007-05-24",
+        "advisory": "https://support.apple.com/kb/TA24732",
+        "archive": "https://web.archive.org/web/20110521210403id_/http://support.apple.com/kb/TA24732"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0750",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-005",
+        "date": "2007-05-24",
+        "advisory": "https://support.apple.com/kb/TA24732",
+        "archive": "https://web.archive.org/web/20110521210403id_/http://support.apple.com/kb/TA24732"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0749",
+    "components": [
+      "Darwin Streaming Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Darwin Streaming Server 5.5.5",
+        "date": "2007-05-10",
+        "advisory": "https://support.apple.com/kb/TA24715",
+        "archive": "https://web.archive.org/web/20091103091118id_/http://support.apple.com:80/kb/TA24715?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0748",
+    "components": [
+      "Darwin Streaming Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Darwin Streaming Server 5.5.5",
+        "date": "2007-05-10",
+        "advisory": "https://support.apple.com/kb/TA24715",
+        "archive": "https://web.archive.org/web/20091103091118id_/http://support.apple.com:80/kb/TA24715?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0747",
+    "components": [
+      "WebDAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0746",
+    "components": [
+      "VideoConference"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0745",
+    "components": [
+      "FTPServer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004 v1.1",
+        "date": "2007-05-01",
+        "advisory": "https://support.apple.com/kb/TA24704",
+        "archive": "https://web.archive.org/web/20110521205044id_/http://support.apple.com/kb/TA24704"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0744",
+    "components": [
+      "SMB"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0743",
+    "components": [
+      "URLMount"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0742",
+    "components": [
+      "WebFoundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0741",
+    "components": [
+      "network_cmds"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0740",
+    "components": [
+      "Alias Manager"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-005",
+        "date": "2007-05-24",
+        "advisory": "https://support.apple.com/kb/TA24732",
+        "archive": "https://web.archive.org/web/20110521210403id_/http://support.apple.com/kb/TA24732"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0739",
+    "components": [
+      "Login Window"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0738",
+    "components": [
+      "Login Window"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0737",
+    "components": [
+      "Login Window"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0736",
+    "components": [
+      "Libinfo"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0735",
+    "components": [
+      "Libinfo"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0734",
+    "components": [
+      "AirPort Extreme Base Station with 802.11n* Firmware",
+      "diskdev_cmds"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Firmware Update 7.1 for AirPort Extreme Base Station with 802.11n",
+        "date": "2007-04-09",
+        "advisory": "https://support.apple.com/en-us/103996"
+      },
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0733",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0732",
+    "components": [
+      "CarbonCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0731",
+    "components": [
+      "SMB File Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0730",
+    "components": [
+      "servermgrd"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0729",
+    "components": [
+      "AFP Client"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0728",
+    "components": [
+      "Printing"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0726",
+    "components": [
+      "OpenSSH"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0725",
+    "components": [
+      "AirPort"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0724",
+    "components": [
+      "HID Family"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      },
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0723",
+    "components": [
+      "DS Plug-Ins"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0722",
+    "components": [
+      "Disk Images"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0721",
+    "components": [
+      "Disk Images"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0720",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0719",
+    "components": [
+      "ColorSync"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0718",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1.5",
+        "date": "2007-03-05",
+        "advisory": "https://support.apple.com/en-us/102693"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0717",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1.5",
+        "date": "2007-03-05",
+        "advisory": "https://support.apple.com/en-us/102693"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0716",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1.5",
+        "date": "2007-03-05",
+        "advisory": "https://support.apple.com/en-us/102693"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0715",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1.5",
+        "date": "2007-03-05",
+        "advisory": "https://support.apple.com/en-us/102693"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0714",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1.5",
+        "date": "2007-03-05",
+        "advisory": "https://support.apple.com/en-us/102693"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0713",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1.5",
+        "date": "2007-03-05",
+        "advisory": "https://support.apple.com/en-us/102693"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0712",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1.5",
+        "date": "2007-03-05",
+        "advisory": "https://support.apple.com/en-us/102693"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0711",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1.5",
+        "date": "2007-03-05",
+        "advisory": "https://support.apple.com/en-us/102693"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0710",
+    "components": [
+      "iChat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-002",
+        "date": "2007-02-13",
+        "advisory": "https://support.apple.com/kb/TA24579",
+        "archive": "https://web.archive.org/web/20110521204609id_/http://support.apple.com/kb/TA24579"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0646",
+    "components": [
+      "Help Viewer",
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      },
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0614",
+    "components": [
+      "iChat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-002",
+        "date": "2007-02-13",
+        "advisory": "https://support.apple.com/kb/TA24579",
+        "archive": "https://web.archive.org/web/20110521204609id_/http://support.apple.com/kb/TA24579"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0588",
+    "components": [
+      "QuickDraw Manager"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0494",
+    "components": [
+      "BIND"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-005",
+        "date": "2007-05-24",
+        "advisory": "https://support.apple.com/kb/TA24732",
+        "archive": "https://web.archive.org/web/20110521210403id_/http://support.apple.com/kb/TA24732"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0493",
+    "components": [
+      "BIND"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-005",
+        "date": "2007-05-24",
+        "advisory": "https://support.apple.com/kb/TA24732",
+        "archive": "https://web.archive.org/web/20110521210403id_/http://support.apple.com/kb/TA24732"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0478",
+    "components": [
+      "WebCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0467",
+    "components": [
+      "Crash Reporter"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0465",
+    "components": [
+      "Installer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0464",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0463",
+    "components": [
+      "Software Update"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0450",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0430",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0318",
+    "components": [
+      "HFS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0299",
+    "components": [
+      "Disk Images"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0267",
+    "components": [
+      "Disk Images"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0243",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Release 6 for Mac OS X 10.4",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/kb/TA25122",
+        "archive": "https://web.archive.org/web/20090426071805id_/http://support.apple.com:80/kb/TA25122?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0236",
+    "components": [
+      "Networking"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0229",
+    "components": [
+      "Disk Images"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0197",
+    "components": [
+      "Finder"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-002",
+        "date": "2007-02-13",
+        "advisory": "https://support.apple.com/kb/TA24579",
+        "archive": "https://web.archive.org/web/20110521204609id_/http://support.apple.com/kb/TA24579"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0059",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1.5",
+        "date": "2007-03-05",
+        "advisory": "https://support.apple.com/en-us/102693"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0051",
+    "components": [
+      "iPhoto"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhoto 6.0.6",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24627",
+        "archive": "https://web.archive.org/web/20110521212641id_/http://support.apple.com/kb/TA24627"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0023",
+    "components": [
+      "UserNotification"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-002",
+        "date": "2007-02-13",
+        "advisory": "https://support.apple.com/kb/TA24579",
+        "archive": "https://web.archive.org/web/20110521204609id_/http://support.apple.com/kb/TA24579"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0022",
+    "components": [
+      "System Configuration"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0021",
+    "components": [
+      "iChat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-002",
+        "date": "2007-02-13",
+        "advisory": "https://support.apple.com/kb/TA24579",
+        "archive": "https://web.archive.org/web/20110521204609id_/http://support.apple.com/kb/TA24579"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-0015",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-001",
+        "date": "2007-01-23",
+        "advisory": "https://support.apple.com/en-us/102692"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-6745",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Release 6 for Mac OS X 10.4",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/kb/TA25122",
+        "archive": "https://web.archive.org/web/20090426071805id_/http://support.apple.com:80/kb/TA25122?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-6736",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Release 6 for Mac OS X 10.4",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/kb/TA25122",
+        "archive": "https://web.archive.org/web/20090426071805id_/http://support.apple.com:80/kb/TA25122?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-6731",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Release 6 for Mac OS X 10.4",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/kb/TA25122",
+        "archive": "https://web.archive.org/web/20090426071805id_/http://support.apple.com:80/kb/TA25122?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-6652",
+    "components": [
+      "ftpd"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-6303",
+    "components": [
+      "ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-005",
+        "date": "2007-05-24",
+        "advisory": "https://support.apple.com/kb/TA24732",
+        "archive": "https://web.archive.org/web/20110521210403id_/http://support.apple.com/kb/TA24732"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-6292",
+    "components": [
+      "AirPort"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "AirPort Extreme Update 2007-001",
+        "date": "2007-01-25",
+        "advisory": "https://support.apple.com/en-us/102691"
+      },
+      {
+        "name": "AirPort Extreme Update 2007-002",
+        "date": "2007-03-08",
+        "advisory": "https://support.apple.com/en-us/102691"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-6173",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-6143",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-6142",
+    "components": [
+      "SquirrelMail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-6130",
+    "components": [
+      "Networking"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-6129",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-6127",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-6126",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-6097",
+    "components": [
+      "GNU Tar"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-6062",
+    "components": [
+      "Disk Images"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-6061",
+    "components": [
+      "Disk Images"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-5867",
+    "components": [
+      "fetchmail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-5836",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-5679",
+    "components": [
+      "Disk Images"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-5467",
+    "components": [
+      "ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-005",
+        "date": "2007-05-24",
+        "advisory": "https://support.apple.com/kb/TA24732",
+        "archive": "https://web.archive.org/web/20110521210403id_/http://support.apple.com/kb/TA24732"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-5330",
+    "components": [
+      "Flash Player"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-5328",
+    "components": [
+      "WebObjects"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Xcode Tools 2.5",
+        "date": "2007-10-30",
+        "advisory": "https://support.apple.com/kb/TA25030",
+        "archive": "https://web.archive.org/web/20090329112951id_/http://support.apple.com:80/kb/TA25030?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-5327",
+    "components": [
+      "WebObjects"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Xcode Tools 2.5",
+        "date": "2007-10-30",
+        "advisory": "https://support.apple.com/kb/TA25030",
+        "archive": "https://web.archive.org/web/20090329112951id_/http://support.apple.com:80/kb/TA25030?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-5052",
+    "components": [
+      "OpenSSH"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-5051",
+    "components": [
+      "OpenSSH"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4965",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1.5",
+        "date": "2007-03-05",
+        "advisory": "https://support.apple.com/en-us/102693"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4924",
+    "components": [
+      "OpenSSH"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4829",
+    "components": [
+      "WebLog"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4573",
+    "components": [
+      "screen"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-005",
+        "date": "2007-05-24",
+        "advisory": "https://support.apple.com/kb/TA24732",
+        "archive": "https://web.archive.org/web/20110521210403id_/http://support.apple.com/kb/TA24732"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4339",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java Release 6 for Mac OS X 10.4",
+        "date": "2007-12-13",
+        "advisory": "https://support.apple.com/kb/TA25122",
+        "archive": "https://web.archive.org/web/20090426071805id_/http://support.apple.com:80/kb/TA25122?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4226",
+    "components": [
+      "MySQL Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4096",
+    "components": [
+      "BIND"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-005",
+        "date": "2007-05-24",
+        "advisory": "https://support.apple.com/kb/TA24732",
+        "archive": "https://web.archive.org/web/20110521210403id_/http://support.apple.com/kb/TA24732"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4095",
+    "components": [
+      "BIND"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-005",
+        "date": "2007-05-24",
+        "advisory": "https://support.apple.com/kb/TA24732",
+        "archive": "https://web.archive.org/web/20110521210403id_/http://support.apple.com/kb/TA24732"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4031",
+    "components": [
+      "MySQL Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4019",
+    "components": [
+      "SquirrelMail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3469",
+    "components": [
+      "MySQL Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3465",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 1.1.2 and iPod touch 1.1.2",
+        "date": "2007-11-12",
+        "advisory": "https://support.apple.com/en-us/102687"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3462",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 1.1.2 and iPod touch 1.1.2",
+        "date": "2007-11-12",
+        "advisory": "https://support.apple.com/en-us/102687"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3461",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 1.1.2 and iPod touch 1.1.2",
+        "date": "2007-11-12",
+        "advisory": "https://support.apple.com/en-us/102687"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3459",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iPhone 1.1.2 and iPod touch 1.1.2",
+        "date": "2007-11-12",
+        "advisory": "https://support.apple.com/en-us/102687"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3174",
+    "components": [
+      "SquirrelMail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3081",
+    "components": [
+      "MySQL Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-2842",
+    "components": [
+      "SquirrelMail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-2753",
+    "components": [
+      "MySQL Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-2362",
+    "components": [
+      "gdb"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Xcode Tools 2.5",
+        "date": "2007-10-30",
+        "advisory": "https://support.apple.com/kb/TA25030",
+        "archive": "https://web.archive.org/web/20090329112951id_/http://support.apple.com:80/kb/TA25030?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1517",
+    "components": [
+      "MySQL Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1516",
+    "components": [
+      "MySQL Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0300",
+    "components": [
+      "GNU Tar"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-004",
+        "date": "2007-04-19",
+        "advisory": "https://support.apple.com/kb/TA24690",
+        "archive": "https://web.archive.org/web/20090524015226id_/http://support.apple.com:80/kb/TA24690?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0225",
+    "components": [
+      "OpenSSH"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0024",
+    "components": [
+      "Shockwave Plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-009",
+        "date": "2007-12-17",
+        "advisory": "https://support.apple.com/en-us/102497"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3128",
+    "components": [
+      "SquirrelMail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3011",
+    "components": [
+      "texinfo"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-005",
+        "date": "2007-05-24",
+        "advisory": "https://support.apple.com/kb/TA24732",
+        "archive": "https://web.archive.org/web/20110521210403id_/http://support.apple.com/kb/TA24732"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2959",
+    "components": [
+      "sudo"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.9 and Security Update 2007-003",
+        "date": "2007-03-13",
+        "advisory": "https://support.apple.com/kb/TA24626",
+        "archive": "https://web.archive.org/web/20081201130225id_/http://support.apple.com:80/kb/TA24626?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2090",
+    "components": [
+      "Tomcat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1260",
+    "components": [
+      "bzip2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0953",
+    "components": [
+      "bzip2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.11 and Security Update 2007-008",
+        "date": "2007-11-14",
+        "advisory": "https://support.apple.com/en-us/102496"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0758",
+    "components": [
+      "bzip2",
+      "gnuzip"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-2541",
+    "components": [
+      "cscope"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-0996",
+    "components": [
+      "cscope"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2007-007",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102688"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2665 @@
+[
+  {
+    "id": "CVE-2007-0754",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1.3",
+        "date": "2006-09-12",
+        "advisory": "https://support.apple.com/kb/TA24355",
+        "archive": "https://web.archive.org/web/20090125081719id_/http://support.apple.com:80/kb/TA24355?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-5710",
+    "components": [
+      "AirPort"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-5681",
+    "components": [
+      "QuickTime for Java, Quartz Composer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-008",
+        "date": "2006-12-19",
+        "advisory": "https://support.apple.com/kb/TA24521",
+        "archive": "https://web.archive.org/web/20110521210005id_/http://support.apple.com/kb/TA24521"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-5465",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4640",
+    "components": [
+      "Flash Player"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.8 and Security Update 2006-006",
+        "date": "2006-09-29",
+        "advisory": "https://support.apple.com/en-us/104065"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4413",
+    "components": [
+      "Apple Remote Desktop"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Apple Remote Desktop 3.1",
+        "date": "2006-11-16",
+        "advisory": "https://support.apple.com/kb/TA24492",
+        "archive": "https://web.archive.org/web/20100604104008id_/http://support.apple.com:80/kb/TA24492?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4412",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4411",
+    "components": [
+      "VPN"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4410",
+    "components": [
+      "Security Framework"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4409",
+    "components": [
+      "Security Framework"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4408",
+    "components": [
+      "Security Framework"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4407",
+    "components": [
+      "Security Framework"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4406",
+    "components": [
+      "PPP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4404",
+    "components": [
+      "Installer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4403",
+    "components": [
+      "ftpd"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4402",
+    "components": [
+      "Finder"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4401",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4400",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4399",
+    "components": [
+      "Workgroup Manager"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.8 and Security Update 2006-006",
+        "date": "2006-09-29",
+        "advisory": "https://support.apple.com/en-us/104065"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4398",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4397",
+    "components": [
+      "LoginWindow"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.8 and Security Update 2006-006",
+        "date": "2006-09-29",
+        "advisory": "https://support.apple.com/en-us/104065"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4396",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4395",
+    "components": [
+      "QuickDraw Manager"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.8 and Security Update 2006-006",
+        "date": "2006-09-29",
+        "advisory": "https://support.apple.com/en-us/104065"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4394",
+    "components": [
+      "LoginWindow"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.8 and Security Update 2006-006",
+        "date": "2006-09-29",
+        "advisory": "https://support.apple.com/en-us/104065"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4393",
+    "components": [
+      "LoginWindow"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.8 and Security Update 2006-006",
+        "date": "2006-09-29",
+        "advisory": "https://support.apple.com/en-us/104065"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4392",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.8 and Security Update 2006-006",
+        "date": "2006-09-29",
+        "advisory": "https://support.apple.com/en-us/104065"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4391",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.8 and Security Update 2006-006",
+        "date": "2006-09-29",
+        "advisory": "https://support.apple.com/en-us/104065"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4390",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.8 and Security Update 2006-006",
+        "date": "2006-09-29",
+        "advisory": "https://support.apple.com/en-us/104065"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4389",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1.3",
+        "date": "2006-09-12",
+        "advisory": "https://support.apple.com/kb/TA24355",
+        "archive": "https://web.archive.org/web/20090125081719id_/http://support.apple.com:80/kb/TA24355?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4388",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1.3",
+        "date": "2006-09-12",
+        "advisory": "https://support.apple.com/kb/TA24355",
+        "archive": "https://web.archive.org/web/20090125081719id_/http://support.apple.com:80/kb/TA24355?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4387",
+    "components": [
+      "Preferences"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.8 and Security Update 2006-006",
+        "date": "2006-09-29",
+        "advisory": "https://support.apple.com/en-us/104065"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4386",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1.3",
+        "date": "2006-09-12",
+        "advisory": "https://support.apple.com/kb/TA24355",
+        "archive": "https://web.archive.org/web/20090125081719id_/http://support.apple.com:80/kb/TA24355?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4385",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1.3",
+        "date": "2006-09-12",
+        "advisory": "https://support.apple.com/kb/TA24355",
+        "archive": "https://web.archive.org/web/20090125081719id_/http://support.apple.com:80/kb/TA24355?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4384",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1.3",
+        "date": "2006-09-12",
+        "advisory": "https://support.apple.com/kb/TA24355",
+        "archive": "https://web.archive.org/web/20090125081719id_/http://support.apple.com:80/kb/TA24355?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4382",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1.3",
+        "date": "2006-09-12",
+        "advisory": "https://support.apple.com/kb/TA24355",
+        "archive": "https://web.archive.org/web/20090125081719id_/http://support.apple.com:80/kb/TA24355?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4381",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1.3",
+        "date": "2006-09-12",
+        "advisory": "https://support.apple.com/kb/TA24355",
+        "archive": "https://web.archive.org/web/20090125081719id_/http://support.apple.com:80/kb/TA24355?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4343",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4339",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4338",
+    "components": [
+      "gnuzip"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4337",
+    "components": [
+      "gnuzip"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4336",
+    "components": [
+      "gnuzip"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4335",
+    "components": [
+      "gnuzip"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4334",
+    "components": [
+      "gnuzip"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4182",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-4146",
+    "components": [
+      "GDB"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Xcode Tools 2.4.1",
+        "date": "2006-10-31",
+        "advisory": "https://support.apple.com/kb/TA24462",
+        "archive": "https://web.archive.org/web/20110424030814id_/http://support.apple.com:80/kb/TA24462"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3946",
+    "components": [
+      "WebCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.8 and Security Update 2006-006",
+        "date": "2006-09-29",
+        "advisory": "https://support.apple.com/en-us/104065"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3738",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3588",
+    "components": [
+      "Flash Player"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.8 and Security Update 2006-006",
+        "date": "2006-09-29",
+        "advisory": "https://support.apple.com/en-us/104065"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3587",
+    "components": [
+      "Flash Player"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.8 and Security Update 2006-006",
+        "date": "2006-09-29",
+        "advisory": "https://support.apple.com/en-us/104065"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3509",
+    "components": [
+      "AirPort"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "AirPort Update 2006-001 and Security Update 2006-005",
+        "date": "2006-09-21",
+        "advisory": "https://support.apple.com/en-us/104066"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3508",
+    "components": [
+      "AirPort"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "AirPort Update 2006-001 and Security Update 2006-005",
+        "date": "2006-09-21",
+        "advisory": "https://support.apple.com/en-us/104066"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3507",
+    "components": [
+      "AirPort"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "AirPort Update 2006-001 and Security Update 2006-005",
+        "date": "2006-09-21",
+        "advisory": "https://support.apple.com/en-us/104066"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3506",
+    "components": [
+      "Xsan"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Xsan Filesystem 1.4",
+        "date": "2006-08-17",
+        "advisory": "https://support.apple.com/kb/TA24300",
+        "archive": "https://web.archive.org/web/20110521204832id_/http://support.apple.com/kb/TA24300"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3505",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3504",
+    "components": [
+      "LaunchServices"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3503",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3502",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3501",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3500",
+    "components": [
+      "dyld"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3499",
+    "components": [
+      "dyld"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3498",
+    "components": [
+      "DHCP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3497",
+    "components": [
+      "Bom"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3496",
+    "components": [
+      "AFP Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3495",
+    "components": [
+      "AFP Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3465",
+    "components": [
+      "AppKit, ImageIO",
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      },
+      {
+        "name": "Security Update 2006-004 for Mac Pro",
+        "date": "2006-08-09",
+        "advisory": "https://support.apple.com/kb/TA24292",
+        "archive": "https://web.archive.org/web/20100123221146id_/http://support.apple.com:80/kb/TA24292"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3462",
+    "components": [
+      "AppKit, ImageIO",
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      },
+      {
+        "name": "Security Update 2006-004 for Mac Pro",
+        "date": "2006-08-09",
+        "advisory": "https://support.apple.com/kb/TA24292",
+        "archive": "https://web.archive.org/web/20100123221146id_/http://support.apple.com:80/kb/TA24292"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3461",
+    "components": [
+      "AppKit, ImageIO",
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      },
+      {
+        "name": "Security Update 2006-004 for Mac Pro",
+        "date": "2006-08-09",
+        "advisory": "https://support.apple.com/kb/TA24292",
+        "archive": "https://web.archive.org/web/20100123221146id_/http://support.apple.com:80/kb/TA24292"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3460",
+    "components": [
+      "AppKit, ImageIO",
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      },
+      {
+        "name": "Security Update 2006-004 for Mac Pro",
+        "date": "2006-08-09",
+        "advisory": "https://support.apple.com/kb/TA24292",
+        "archive": "https://web.archive.org/web/20100123221146id_/http://support.apple.com:80/kb/TA24292"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3459",
+    "components": [
+      "AppKit, ImageIO",
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      },
+      {
+        "name": "Security Update 2006-004 for Mac Pro",
+        "date": "2006-08-09",
+        "advisory": "https://support.apple.com/kb/TA24292",
+        "archive": "https://web.archive.org/web/20100123221146id_/http://support.apple.com:80/kb/TA24292"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3403",
+    "components": [
+      "Samba"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3311",
+    "components": [
+      "Flash Player"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.8 and Security Update 2006-006",
+        "date": "2006-09-29",
+        "advisory": "https://support.apple.com/en-us/104065"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-2940",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-2937",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-2238",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/kb/TA24130",
+        "archive": "https://web.archive.org/web/20081106105035id_/http://support.apple.com:80/kb/TA24130?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1990",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1989",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.7 Update",
+        "date": "2006-06-27",
+        "advisory": "https://support.apple.com/en-us/104054"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1985",
+    "components": [
+      "BOM"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1984",
+    "components": [
+      "AppKit, ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1983",
+    "components": [
+      "AppKit, ImageIO",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/kb/TA24130",
+        "archive": "https://web.archive.org/web/20081106105035id_/http://support.apple.com:80/kb/TA24130?"
+      },
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1982",
+    "components": [
+      "AppKit, ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1721",
+    "components": [
+      "SASL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.8 and Security Update 2006-006",
+        "date": "2006-09-29",
+        "advisory": "https://support.apple.com/en-us/104065"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1630",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1615",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1614",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1552",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1490",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1473",
+    "components": [
+      "AFP Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1472",
+    "components": [
+      "AFP Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1471",
+    "components": [
+      "launchd"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.7 Update",
+        "date": "2006-06-27",
+        "advisory": "https://support.apple.com/en-us/104054"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1470",
+    "components": [
+      "OpenLDAP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.7 Update",
+        "date": "2006-06-27",
+        "advisory": "https://support.apple.com/en-us/104054"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1469",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.7 Update",
+        "date": "2006-06-27",
+        "advisory": "https://support.apple.com/en-us/104054"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1468",
+    "components": [
+      "AFP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.7 Update",
+        "date": "2006-06-27",
+        "advisory": "https://support.apple.com/en-us/104054"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1467",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 6.0.5",
+        "date": "2006-06-29",
+        "advisory": "https://support.apple.com/kb/TA24223",
+        "archive": "https://web.archive.org/web/20110521212542id_/http://support.apple.com/kb/TA24223"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1466",
+    "components": [
+      "WebObjects"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Xcode Tools 2.3",
+        "date": "2006-05-23",
+        "advisory": "https://support.apple.com/kb/TA24156",
+        "archive": "https://web.archive.org/web/20110521210223id_/http://support.apple.com/kb/TA24156"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1465",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/kb/TA24130",
+        "archive": "https://web.archive.org/web/20081106105035id_/http://support.apple.com:80/kb/TA24130?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1464",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/kb/TA24130",
+        "archive": "https://web.archive.org/web/20081106105035id_/http://support.apple.com:80/kb/TA24130?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1463",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/kb/TA24130",
+        "archive": "https://web.archive.org/web/20081106105035id_/http://support.apple.com:80/kb/TA24130?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1462",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/kb/TA24130",
+        "archive": "https://web.archive.org/web/20081106105035id_/http://support.apple.com:80/kb/TA24130?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1461",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/kb/TA24130",
+        "archive": "https://web.archive.org/web/20081106105035id_/http://support.apple.com:80/kb/TA24130?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1460",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/kb/TA24130",
+        "archive": "https://web.archive.org/web/20081106105035id_/http://support.apple.com:80/kb/TA24130?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1459",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/kb/TA24130",
+        "archive": "https://web.archive.org/web/20081106105035id_/http://support.apple.com:80/kb/TA24130?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1458",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/kb/TA24130",
+        "archive": "https://web.archive.org/web/20081106105035id_/http://support.apple.com:80/kb/TA24130?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1457",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1456",
+    "components": [
+      "QuickTime Streaming Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1455",
+    "components": [
+      "QuickTime Streaming Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1454",
+    "components": [
+      "QuickDraw",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/kb/TA24130",
+        "archive": "https://web.archive.org/web/20081106105035id_/http://support.apple.com:80/kb/TA24130?"
+      },
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1453",
+    "components": [
+      "QuickDraw",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/kb/TA24130",
+        "archive": "https://web.archive.org/web/20081106105035id_/http://support.apple.com:80/kb/TA24130?"
+      },
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1452",
+    "components": [
+      "Preview"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1451",
+    "components": [
+      "MySQL Manager"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1450",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1449",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1448",
+    "components": [
+      "Finder"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1447",
+    "components": [
+      "LaunchServices"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1446",
+    "components": [
+      "Keychain"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1445",
+    "components": [
+      "FTPServer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1444",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1443",
+    "components": [
+      "CoreFoundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1442",
+    "components": [
+      "CoreFoundation"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1441",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1440",
+    "components": [
+      "BOM"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1439",
+    "components": [
+      "AppKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1249",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.1",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/kb/TA24130",
+        "archive": "https://web.archive.org/web/20081106105035id_/http://support.apple.com:80/kb/TA24130?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0848",
+    "components": [
+      "Safari, LaunchServices"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0617",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "J2SE 5.0 Release 4",
+        "date": "2006-04-17",
+        "advisory": "https://support.apple.com/kb/TA24083",
+        "archive": "https://web.archive.org/web/20100308033832id_/http://support.apple.com:80/kb/TA24083?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0616",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "J2SE 5.0 Release 4",
+        "date": "2006-04-17",
+        "advisory": "https://support.apple.com/kb/TA24083",
+        "archive": "https://web.archive.org/web/20100308033832id_/http://support.apple.com:80/kb/TA24083?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0615",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "J2SE 5.0 Release 4",
+        "date": "2006-04-17",
+        "advisory": "https://support.apple.com/kb/TA24083",
+        "archive": "https://web.archive.org/web/20100308033832id_/http://support.apple.com:80/kb/TA24083?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0614",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "J2SE 5.0 Release 4",
+        "date": "2006-04-17",
+        "advisory": "https://support.apple.com/kb/TA24083",
+        "archive": "https://web.archive.org/web/20100308033832id_/http://support.apple.com:80/kb/TA24083?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0613",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "J2SE 5.0 Release 4",
+        "date": "2006-04-17",
+        "advisory": "https://support.apple.com/kb/TA24083",
+        "archive": "https://web.archive.org/web/20100308033832id_/http://support.apple.com:80/kb/TA24083?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0401",
+    "components": [
+      "Firmware"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.6 Update",
+        "date": "2006-04-03",
+        "advisory": "https://support.apple.com/kb/TA24050",
+        "archive": "https://web.archive.org/web/20110521212648id_/http://support.apple.com/kb/TA24050"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0400",
+    "components": [
+      "CoreTypes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-002",
+        "date": "2006-03-13",
+        "advisory": "https://support.apple.com/kb/TA23996",
+        "archive": "https://web.archive.org/web/20110521212605id_/http://support.apple.com/kb/TA23996"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0399",
+    "components": [
+      "Safari, LaunchServices, CoreTypes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-002",
+        "date": "2006-03-13",
+        "advisory": "https://support.apple.com/kb/TA23996",
+        "archive": "https://web.archive.org/web/20110521212605id_/http://support.apple.com/kb/TA23996"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0398",
+    "components": [
+      "Safari, LaunchServices, CoreTypes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-002",
+        "date": "2006-03-13",
+        "advisory": "https://support.apple.com/kb/TA23996",
+        "archive": "https://web.archive.org/web/20110521212605id_/http://support.apple.com/kb/TA23996"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0397",
+    "components": [
+      "Safari, LaunchServices, CoreTypes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-002",
+        "date": "2006-03-13",
+        "advisory": "https://support.apple.com/kb/TA23996",
+        "archive": "https://web.archive.org/web/20110521212605id_/http://support.apple.com/kb/TA23996"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0396",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-002",
+        "date": "2006-03-13",
+        "advisory": "https://support.apple.com/kb/TA23996",
+        "archive": "https://web.archive.org/web/20110521212605id_/http://support.apple.com/kb/TA23996"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0395",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0393",
+    "components": [
+      "OpenSSH"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      },
+      {
+        "name": "Security Update 2006-004 for Mac Pro",
+        "date": "2006-08-09",
+        "advisory": "https://support.apple.com/kb/TA24292",
+        "archive": "https://web.archive.org/web/20100123221146id_/http://support.apple.com:80/kb/TA24292"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0392",
+    "components": [
+      "Image RAW"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0391",
+    "components": [
+      "BOM"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0390",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0389",
+    "components": [
+      "Syndication"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0388",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0387",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0386",
+    "components": [
+      "FileVault"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0384",
+    "components": [
+      "automount"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0383",
+    "components": [
+      "IPSec"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0382",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X 10.4.5 Update",
+        "date": "2006-02-14",
+        "advisory": "https://support.apple.com/kb/TA23928",
+        "archive": "https://web.archive.org/web/20110521205119id_/http://support.apple.com/kb/TA23928"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0321",
+    "components": [
+      "fetchmail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0024",
+    "components": [
+      "Flash Player"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-4504",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-4348",
+    "components": [
+      "fetchmail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-4217",
+    "components": [
+      "perl"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-4092",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.0.4",
+        "date": "2006-01-10",
+        "advisory": "https://support.apple.com/kb/TA23845",
+        "archive": "https://web.archive.org/web/20110226133647id_/http://support.apple.com:80/kb/TA23845?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-4077",
+    "components": [
+      "libcurl"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3962",
+    "components": [
+      "perl"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-007",
+        "date": "2006-11-28",
+        "advisory": "https://support.apple.com/kb/TA24494",
+        "archive": "https://web.archive.org/web/20090321182248id_/http://support.apple.com:80/kb/TA24494?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3714",
+    "components": [
+      "AirPort Firmware Update 6.3"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "AirPort Firmware Update 5.7 AirPort Firmware Update 6.3",
+        "date": "2006-01-03",
+        "advisory": "https://support.apple.com/kb/TA23839",
+        "archive": "https://web.archive.org/web/20110129175146id_/http://support.apple.com:80/kb/TA23839"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3713",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.0.4",
+        "date": "2006-01-10",
+        "advisory": "https://support.apple.com/kb/TA23845",
+        "archive": "https://web.archive.org/web/20110226133647id_/http://support.apple.com:80/kb/TA23845?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3712",
+    "components": [
+      "rsync"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3711",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.0.4",
+        "date": "2006-01-10",
+        "advisory": "https://support.apple.com/kb/TA23845",
+        "archive": "https://web.archive.org/web/20110226133647id_/http://support.apple.com:80/kb/TA23845?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3710",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.0.4",
+        "date": "2006-01-10",
+        "advisory": "https://support.apple.com/kb/TA23845",
+        "archive": "https://web.archive.org/web/20110226133647id_/http://support.apple.com:80/kb/TA23845?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3709",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.0.4",
+        "date": "2006-01-10",
+        "advisory": "https://support.apple.com/kb/TA23845",
+        "archive": "https://web.archive.org/web/20110226133647id_/http://support.apple.com:80/kb/TA23845?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3708",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.0.4",
+        "date": "2006-01-10",
+        "advisory": "https://support.apple.com/kb/TA23845",
+        "archive": "https://web.archive.org/web/20110226133647id_/http://support.apple.com:80/kb/TA23845?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3707",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.0.4",
+        "date": "2006-01-10",
+        "advisory": "https://support.apple.com/kb/TA23845",
+        "archive": "https://web.archive.org/web/20110226133647id_/http://support.apple.com:80/kb/TA23845?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3706",
+    "components": [
+      "LibSystem"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3392",
+    "components": [
+      "apache_mod_php"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3391",
+    "components": [
+      "apache_mod_php"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3353",
+    "components": [
+      "apache_mod_php"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3319",
+    "components": [
+      "apache_mod_php"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-3088",
+    "components": [
+      "fetchmail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2714",
+    "components": [
+      "Directory Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2713",
+    "components": [
+      "Directory Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-001",
+        "date": "2006-03-01",
+        "advisory": "https://support.apple.com/kb/TA23971",
+        "archive": "https://web.archive.org/web/20100902101845id_/http://support.apple.com:80/kb/TA23971?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2628",
+    "components": [
+      "Flash Player"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2340",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.0.4",
+        "date": "2006-01-10",
+        "advisory": "https://support.apple.com/kb/TA23845",
+        "archive": "https://web.archive.org/web/20110226133647id_/http://support.apple.com:80/kb/TA23845?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2337",
+    "components": [
+      "Ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-003",
+        "date": "2006-05-11",
+        "advisory": "https://support.apple.com/en-us/104028"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-2335",
+    "components": [
+      "fetchmail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-1228",
+    "components": [
+      "gunzip"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0988",
+    "components": [
+      "gunzip"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2005-0488",
+    "components": [
+      "telnet"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2006-004",
+        "date": "2006-08-01",
+        "advisory": "https://support.apple.com/kb/TA24252",
+        "archive": "https://web.archive.org/web/20081102094656id_/http://support.apple.com:80/kb/TA24252?"
+      }
+    ]
+  }
+]

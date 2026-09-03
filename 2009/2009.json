@@ -1,0 +1,5783 @@
+[
+  {
+    "id": "CVE-2009-3884",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 6",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104152"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 1",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104156"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3877",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 6",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104152"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 1",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104156"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3875",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 6",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104152"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 1",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104156"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3874",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 6",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104152"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 1",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104156"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3873",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 6",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104152"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 1",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104156"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3872",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 6",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104152"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 1",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104156"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3871",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 6",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104152"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 1",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104156"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3869",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 6",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104152"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 1",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104156"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3868",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 6",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104152"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 1",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104156"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3867",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 6",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104152"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 1",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104156"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3866",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 6",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104152"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 1",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104156"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3865",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 6",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104152"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 1",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104156"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3728",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 6",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104152"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 1",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104156"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3384",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0.4",
+        "date": "2009-11-11",
+        "advisory": "https://support.apple.com/en-us/104154"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3293",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3292",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3291",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3235",
+    "components": [
+      "Dovecot"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3111",
+    "components": [
+      "FreeRADIUS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2843",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 6",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104152"
+      },
+      {
+        "name": "Java for Mac OS X 10.6 Update 1",
+        "date": "2009-12-03",
+        "advisory": "https://support.apple.com/en-us/104156"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2842",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0.4",
+        "date": "2009-11-11",
+        "advisory": "https://support.apple.com/en-us/104154"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2841",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0.4",
+        "date": "2009-11-11",
+        "advisory": "https://support.apple.com/en-us/104154"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2840",
+    "components": [
+      "Spotlight"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2839",
+    "components": [
+      "Screen Sharing"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2838",
+    "components": [
+      "QuickLook"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2837",
+    "components": [
+      "QuickDraw Manager"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2836",
+    "components": [
+      "Login Window"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2835",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2834",
+    "components": [
+      "IOKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2833",
+    "components": [
+      "International Components for Unicode"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2832",
+    "components": [
+      "FTP Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2831",
+    "components": [
+      "Dictionary"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2830",
+    "components": [
+      "file"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2829",
+    "components": [
+      "Event Monitor"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2828",
+    "components": [
+      "DirectoryService"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2827",
+    "components": [
+      "Disk Images"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2826",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2825",
+    "components": [
+      "Certificate Assistant"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2824",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2823",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2820",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2819",
+    "components": [
+      "AFP Client"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2818",
+    "components": [
+      "Adaptive Firewall"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2817",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "i",
+        "date": "2009-09-22",
+        "advisory": "https://support.apple.com/en-us/104150"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2816",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0.4",
+        "date": "2009-11-11",
+        "advisory": "https://support.apple.com/en-us/104154"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2815",
+    "components": [
+      "Telephony"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 3.1 and iOS 3.1.1 for iPod touch",
+        "date": "2009-09-09",
+        "advisory": "https://support.apple.com/en-us/104146"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2814",
+    "components": [
+      "Wiki Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2813",
+    "components": [
+      "SMB"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2812",
+    "components": [
+      "Launch Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2811",
+    "components": [
+      "Launch Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2810",
+    "components": [
+      "Launch Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2809",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2808",
+    "components": [
+      "Help Viewer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2807",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2805",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2804",
+    "components": [
+      "ColorSync"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      },
+      {
+        "name": "Safari 4.0.4",
+        "date": "2009-11-11",
+        "advisory": "https://support.apple.com/en-us/104154"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2803",
+    "components": [
+      "CarbonCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2800",
+    "components": [
+      "Alias Manager"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2799",
+    "components": [
+      "CoreMedia",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6.4",
+        "date": "2009-09-09",
+        "advisory": "https://support.apple.com/en-us/104145"
+      },
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2798",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6.4",
+        "date": "2009-09-09",
+        "advisory": "https://support.apple.com/en-us/104145"
+      },
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2797",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 3.1 and iOS 3.1.1 for iPod touch",
+        "date": "2009-09-09",
+        "advisory": "https://support.apple.com/en-us/104146"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2796",
+    "components": [
+      "UIKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 3.1 and iOS 3.1.1 for iPod touch",
+        "date": "2009-09-09",
+        "advisory": "https://support.apple.com/en-us/104146"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2795",
+    "components": [
+      "Recovery Mode"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 3.1 and iOS 3.1.1 for iPod touch",
+        "date": "2009-09-09",
+        "advisory": "https://support.apple.com/en-us/104146"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2794",
+    "components": [
+      "Exchange Support"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 3.1 and iOS 3.1.1 for iPod touch",
+        "date": "2009-09-09",
+        "advisory": "https://support.apple.com/en-us/104146"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2666",
+    "components": [
+      "fetchmail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2468",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0.3",
+        "date": "2009-08-11",
+        "advisory": "https://support.apple.com/en-us/104139"
+      },
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2416",
+    "components": [
+      "libxml"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      },
+      {
+        "name": "Safari 4.0.4",
+        "date": "2009-11-11",
+        "advisory": "https://support.apple.com/en-us/104154"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2414",
+    "components": [
+      "libxml"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      },
+      {
+        "name": "Safari 4.0.4",
+        "date": "2009-11-11",
+        "advisory": "https://support.apple.com/en-us/104154"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2412",
+    "components": [
+      "Apache Portable Runtime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2411",
+    "components": [
+      "Subversion"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2409",
+    "components": [
+      "libsecurity"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2408",
+    "components": [
+      "OpenLDAP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2285",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2207",
+    "components": [
+      "MobileMail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 3.1 and iOS 3.1.1 for iPod touch",
+        "date": "2009-09-09",
+        "advisory": "https://support.apple.com/en-us/104146"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2206",
+    "components": [
+      "CoreAudio"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 3.1 and iOS 3.1.1 for iPod touch",
+        "date": "2009-09-09",
+        "advisory": "https://support.apple.com/en-us/104146"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2205",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 5",
+        "date": "2009-09-03",
+        "advisory": "https://support.apple.com/en-us/104144"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2204",
+    "components": [
+      "CoreTelephony"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 3.0.1",
+        "date": "2009-07-31",
+        "advisory": "https://support.apple.com/en-us/104140"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2203",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6.4",
+        "date": "2009-09-09",
+        "advisory": "https://support.apple.com/en-us/104145"
+      },
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2202",
+    "components": [
+      "CoreMedia",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6.4",
+        "date": "2009-09-09",
+        "advisory": "https://support.apple.com/en-us/104145"
+      },
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2201",
+    "components": [
+      "Xsan"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Xsan 2.2",
+        "date": "2009-09-14",
+        "advisory": "https://support.apple.com/en-us/104143"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2200",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0.3",
+        "date": "2009-08-11",
+        "advisory": "https://support.apple.com/en-us/104139"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2199",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0.3",
+        "date": "2009-08-11",
+        "advisory": "https://support.apple.com/en-us/104139"
+      },
+      {
+        "name": "iOS 3.1 and iOS 3.1.1 for iPod touch",
+        "date": "2009-09-09",
+        "advisory": "https://support.apple.com/en-us/104146"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2198",
+    "components": [
+      "GarageBand"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "GarageBand 5.1",
+        "date": "2009-08-03",
+        "advisory": "https://support.apple.com/kb/HT3732",
+        "archive": "https://web.archive.org/web/20090805103507id_/http://support.apple.com:80/kb/HT3732"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2196",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0.3",
+        "date": "2009-08-11",
+        "advisory": "https://support.apple.com/en-us/104139"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2195",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0.3",
+        "date": "2009-08-11",
+        "advisory": "https://support.apple.com/en-us/104139"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2194",
+    "components": [
+      "Networking"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.8 / Security Update 2009-003",
+        "date": "2009-08-05",
+        "advisory": "https://support.apple.com/en-us/104141"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2193",
+    "components": [
+      "Networking"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.8 / Security Update 2009-003",
+        "date": "2009-08-05",
+        "advisory": "https://support.apple.com/en-us/104141"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2192",
+    "components": [
+      "MobileMe"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.8 / Security Update 2009-003",
+        "date": "2009-08-05",
+        "advisory": "https://support.apple.com/en-us/104141"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2191",
+    "components": [
+      "Login Window"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.8 / Security Update 2009-003",
+        "date": "2009-08-05",
+        "advisory": "https://support.apple.com/en-us/104141"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2190",
+    "components": [
+      "launchd"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.8 / Security Update 2009-003",
+        "date": "2009-08-05",
+        "advisory": "https://support.apple.com/en-us/104141"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2188",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.8 / Security Update 2009-003",
+        "date": "2009-08-05",
+        "advisory": "https://support.apple.com/en-us/104141"
+      },
+      {
+        "name": "Safari 4.0.3",
+        "date": "2009-08-11",
+        "advisory": "https://support.apple.com/en-us/104139"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1956",
+    "components": [
+      "Apache",
+      "Apache Portable Runtime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1955",
+    "components": [
+      "Apache",
+      "Apache Portable Runtime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1891",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1890",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1870",
+    "components": [
+      "Flash Player plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.1",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104147"
+      },
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1869",
+    "components": [
+      "Flash Player plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.1",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104147"
+      },
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1868",
+    "components": [
+      "Flash Player plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.1",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104147"
+      },
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1867",
+    "components": [
+      "Flash Player plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.1",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104147"
+      },
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1866",
+    "components": [
+      "Flash Player plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.1",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104147"
+      },
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1865",
+    "components": [
+      "Flash Player plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.1",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104147"
+      },
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1864",
+    "components": [
+      "Flash Player plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.1",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104147"
+      },
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1863",
+    "components": [
+      "Flash Player plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.1",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104147"
+      },
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1862",
+    "components": [
+      "Flash Player plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.1",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104147"
+      },
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1728",
+    "components": [
+      "Image RAW"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.8 / Security Update 2009-003",
+        "date": "2009-08-05",
+        "advisory": "https://support.apple.com/en-us/104141"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1727",
+    "components": [
+      "CoreTypes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.8 / Security Update 2009-003",
+        "date": "2009-08-05",
+        "advisory": "https://support.apple.com/en-us/104141"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1726",
+    "components": [
+      "ColorSync"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.8 / Security Update 2009-003",
+        "date": "2009-08-05",
+        "advisory": "https://support.apple.com/en-us/104141"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1725",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0.2",
+        "date": "2009-07-08",
+        "advisory": "https://support.apple.com/en-us/103521"
+      },
+      {
+        "name": "iOS 3.1 and iOS 3.1.1 for iPod touch",
+        "date": "2009-09-09",
+        "advisory": "https://support.apple.com/en-us/104146"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1724",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0.2",
+        "date": "2009-07-08",
+        "advisory": "https://support.apple.com/en-us/103521"
+      },
+      {
+        "name": "iOS 3.1 and iOS 3.1.1 for iPod touch",
+        "date": "2009-09-09",
+        "advisory": "https://support.apple.com/en-us/104146"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1723",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.8 / Security Update 2009-003",
+        "date": "2009-08-05",
+        "advisory": "https://support.apple.com/en-us/104141"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1722",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.8 / Security Update 2009-003",
+        "date": "2009-08-05",
+        "advisory": "https://support.apple.com/en-us/104141"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1721",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.8 / Security Update 2009-003",
+        "date": "2009-08-05",
+        "advisory": "https://support.apple.com/en-us/104141"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1720",
+    "components": [
+      "ImageIO"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.8 / Security Update 2009-003",
+        "date": "2009-08-05",
+        "advisory": "https://support.apple.com/en-us/104141"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1719",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1718",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1717",
+    "components": [
+      "Terminal"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1716",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1715",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1714",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1713",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1712",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1711",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1710",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1709",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1708",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1707",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1706",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1705",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1704",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1703",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1702",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1701",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1700",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1699",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1698",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1697",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1696",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1695",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1694",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1693",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1692",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1691",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1690",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1689",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1688",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1687",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1686",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1685",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1684",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1683",
+    "components": [
+      "Telephony"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1682",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1681",
+    "components": [
+      "Safari",
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1680",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1679",
+    "components": [
+      "Profiles"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1632",
+    "components": [
+      "IPSec"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1574",
+    "components": [
+      "IPSec"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1372",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1371",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1272",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1271",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1270",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1241",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1235",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.8 / Security Update 2009-003",
+        "date": "2009-08-05",
+        "advisory": "https://support.apple.com/en-us/104141"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1195",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1191",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1179",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1107",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1106",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1104",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1103",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1101",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1100",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1099",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1098",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1097",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1096",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1095",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1094",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1093",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0961",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0960",
+    "components": [
+      "Mail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0959",
+    "components": [
+      "MPEG-4 Video Codec"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0958",
+    "components": [
+      "Exchange"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0957",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6.2",
+        "date": "2009-06-01",
+        "advisory": "https://support.apple.com/en-us/104133"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0956",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6.2",
+        "date": "2009-06-01",
+        "advisory": "https://support.apple.com/en-us/104133"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0955",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6.2",
+        "date": "2009-06-01",
+        "advisory": "https://support.apple.com/en-us/104133"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0954",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6.2",
+        "date": "2009-06-01",
+        "advisory": "https://support.apple.com/en-us/104133"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0953",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6.2",
+        "date": "2009-06-01",
+        "advisory": "https://support.apple.com/en-us/104133"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0952",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6.2",
+        "date": "2009-06-01",
+        "advisory": "https://support.apple.com/en-us/104133"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0951",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6.2",
+        "date": "2009-06-01",
+        "advisory": "https://support.apple.com/en-us/104133"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0950",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 8.2",
+        "date": "2009-06-01",
+        "advisory": "https://support.apple.com/en-us/104134"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0949",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0946",
+    "components": [
+      "CoreGraphics",
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      },
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0945",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      },
+      {
+        "name": "Safari 3.2.3",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104131"
+      },
+      {
+        "name": "Safari 4 Public Beta Security Update",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104132"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0944",
+    "components": [
+      "Spotlight"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0943",
+    "components": [
+      "Help Viewer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0942",
+    "components": [
+      "Help Viewer"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0847",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0846",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0845",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0844",
+    "components": [
+      "Kerberos"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0696",
+    "components": [
+      "BIND"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-004",
+        "date": "2009-08-12",
+        "advisory": "https://support.apple.com/en-us/104142"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0520",
+    "components": [
+      "Flash Player plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0519",
+    "components": [
+      "Flash Player plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0188",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6.2",
+        "date": "2009-06-01",
+        "advisory": "https://support.apple.com/en-us/104133"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0185",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6.2",
+        "date": "2009-06-01",
+        "advisory": "https://support.apple.com/en-us/104133"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0165",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0164",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0162",
+    "components": [
+      "Safari"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      },
+      {
+        "name": "Safari 3.2.3",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104131"
+      },
+      {
+        "name": "Safari 4 Public Beta Security Update",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104132"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0161",
+    "components": [
+      "ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0160",
+    "components": [
+      "QuickDraw Manager"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0159",
+    "components": [
+      "Network Time"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0158",
+    "components": [
+      "telnet"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0157",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0156",
+    "components": [
+      "Launch Services"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0155",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0154",
+    "components": [
+      "ATS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0153",
+    "components": [
+      "International Components for Unicode"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      },
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0152",
+    "components": [
+      "iChat"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0151",
+    "components": [
+      "Dock"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.8 / Security Update 2009-003",
+        "date": "2009-08-05",
+        "advisory": "https://support.apple.com/en-us/104141"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0150",
+    "components": [
+      "Disk Images"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0149",
+    "components": [
+      "Disk Images"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0148",
+    "components": [
+      "Cscope"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0147",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0146",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0145",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      },
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0144",
+    "components": [
+      "CFNetwork"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0143",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 8.1",
+        "date": "2009-03-11",
+        "advisory": "https://support.apple.com/en-us/104130"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0142",
+    "components": [
+      "AFP Server"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0141",
+    "components": [
+      "XTerm"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0140",
+    "components": [
+      "SMB"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0139",
+    "components": [
+      "SMB"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0138",
+    "components": [
+      "servermgrd"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0137",
+    "components": [
+      "Safari",
+      "Safari RSS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 3.2.2 for Windows",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104127"
+      },
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0114",
+    "components": [
+      "Flash Player plug-in"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0040",
+    "components": [
+      "ImageIO",
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      },
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      },
+      {
+        "name": "Mac OS X v10.5.8 / Security Update 2009-003",
+        "date": "2009-08-05",
+        "advisory": "https://support.apple.com/en-us/104141"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0025",
+    "components": [
+      "BIND"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0023",
+    "components": [
+      "Apache",
+      "Apache Portable Runtime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0021",
+    "components": [
+      "Network Time"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0020",
+    "components": [
+      "CarbonCore"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0019",
+    "components": [
+      "Remote Apple Events"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0018",
+    "components": [
+      "Remote Apple Events"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0017",
+    "components": [
+      "Printing"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0016",
+    "components": [
+      "iTunes"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iTunes 8.1",
+        "date": "2009-03-11",
+        "advisory": "https://support.apple.com/en-us/104130"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0015",
+    "components": [
+      "FSEvents"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0014",
+    "components": [
+      "Folder Manager"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0013",
+    "components": [
+      "DS Tools"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0012",
+    "components": [
+      "CoreText"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0011",
+    "components": [
+      "Certificate Assistant"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0010",
+    "components": [
+      "QuickDraw Manager",
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      },
+      {
+        "name": "QuickTime 7.6.2",
+        "date": "2009-06-01",
+        "advisory": "https://support.apple.com/en-us/104133"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0009",
+    "components": [
+      "Apple Pixlet Video"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0008",
+    "components": [
+      "QuickTime MPEG-2 Playback Component for Windows"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime MPEG-2 Playback Component",
+        "date": "2009-01-21",
+        "advisory": "https://support.apple.com/en-us/104124"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0007",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6",
+        "date": "2009-01-21",
+        "advisory": "https://support.apple.com/en-us/104123"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0006",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6",
+        "date": "2009-01-21",
+        "advisory": "https://support.apple.com/en-us/104123"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0005",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6",
+        "date": "2009-01-21",
+        "advisory": "https://support.apple.com/en-us/104123"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0004",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6",
+        "date": "2009-01-21",
+        "advisory": "https://support.apple.com/en-us/104123"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0003",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6",
+        "date": "2009-01-21",
+        "advisory": "https://support.apple.com/en-us/104123"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0002",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6",
+        "date": "2009-01-21",
+        "advisory": "https://support.apple.com/en-us/104123"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0001",
+    "components": [
+      "QuickTime"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "QuickTime 7.6",
+        "date": "2009-01-21",
+        "advisory": "https://support.apple.com/en-us/104123"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-7260",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-6680",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5557",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5498",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5360",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5359",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5357",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5356",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5354",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5353",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5352",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5351",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5350",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5349",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5348",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5347",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5346",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5345",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5344",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5343",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 8",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/kb/HT3436",
+        "archive": "https://web.archive.org/web/20090225205331id_/http://support.apple.com:80/kb/HT3436"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 3",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104125"
+      },
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5342",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 8",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/kb/HT3436",
+        "archive": "https://web.archive.org/web/20090225205331id_/http://support.apple.com:80/kb/HT3436"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 3",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104125"
+      },
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5341",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5340",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 8",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/kb/HT3436",
+        "archive": "https://web.archive.org/web/20090225205331id_/http://support.apple.com:80/kb/HT3436"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 3",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104125"
+      },
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5339",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5314",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5183",
+    "components": [
+      "CUPS"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5161",
+    "components": [
+      "OpenSSH"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5077",
+    "components": [
+      "OpenSSL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5050",
+    "components": [
+      "ClamAV"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-5031",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4864",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4409",
+    "components": [
+      "libxml"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4309",
+    "components": [
+      "Net-SNMP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4231",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4226",
+    "components": [
+      "libxml"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-4225",
+    "components": [
+      "libxml"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3863",
+    "components": [
+      "enscript"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3790",
+    "components": [
+      "ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3663",
+    "components": [
+      "SquirrelMail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3660",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3659",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3658",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3657",
+    "components": [
+      "ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3656",
+    "components": [
+      "ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3655",
+    "components": [
+      "ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3652",
+    "components": [
+      "IPSec"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3651",
+    "components": [
+      "IPSec"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3632",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3623",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3584",
+    "components": [
+      "Time Capsule and AirPort Base Station (802.11n*) Firmware 7.4.1"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Time Capsule and AirPort Base Station (802.11n*) Firmware 7.4.1",
+        "date": "2009-03-05",
+        "advisory": "https://support.apple.com/en-us/104128"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3530",
+    "components": [
+      "Networking",
+      "Time Capsule and AirPort Base Station (802.11n*) Firmware 7.4.1"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Time Capsule and AirPort Base Station (802.11n*) Firmware 7.4.1",
+        "date": "2009-03-05",
+        "advisory": "https://support.apple.com/en-us/104128"
+      },
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3529",
+    "components": [
+      "libxml"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      },
+      {
+        "name": "Safari 3.2.3",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104131"
+      },
+      {
+        "name": "Safari 4 Public Beta Security Update",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104132"
+      },
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3443",
+    "components": [
+      "ruby"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3281",
+    "components": [
+      "libxml"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      },
+      {
+        "name": "iOS 3.0 Software Update",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3144",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-3142",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2939",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2829",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2711",
+    "components": [
+      "fetchmail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2666",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2665",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2476",
+    "components": [
+      "Time Capsule and AirPort Base Station (802.11n*) Firmware 7.4.1"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Time Capsule and AirPort Base Station (802.11n*) Firmware 7.4.1",
+        "date": "2009-03-05",
+        "advisory": "https://support.apple.com/en-us/104128"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2383",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2379",
+    "components": [
+      "SquirrelMail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2371",
+    "components": [
+      "PHP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2362",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2361",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2360",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2321",
+    "components": [
+      "CoreGraphics"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2316",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2315",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2086",
+    "components": [
+      "Java"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Java for Mac OS X 10.4, Release 8",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/kb/HT3436",
+        "archive": "https://web.archive.org/web/20090225205331id_/http://support.apple.com:80/kb/HT3436"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 3",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104125"
+      },
+      {
+        "name": "Java for Mac OS X 10.4 Release 9",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104137"
+      },
+      {
+        "name": "Java for Mac OS X 10.5 Update 4",
+        "date": "2009-06-15",
+        "advisory": "https://support.apple.com/en-us/104136"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-2079",
+    "components": [
+      "MySQL"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-005",
+        "date": "2009-09-10",
+        "advisory": "https://support.apple.com/en-us/104149"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1927",
+    "components": [
+      "perl"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1887",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1808",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1807",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1806",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1721",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1679",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1588",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1517",
+    "components": [
+      "Kernel"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1382",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1379",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1377",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1372",
+    "components": [
+      "bzip2"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.8 / Security Update 2009-003",
+        "date": "2009-08-05",
+        "advisory": "https://support.apple.com/en-us/104141"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0674",
+    "components": [
+      "XQuery"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.8 / Security Update 2009-003",
+        "date": "2009-08-05",
+        "advisory": "https://support.apple.com/en-us/104141"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0658",
+    "components": [
+      "OpenLDAP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-0456",
+    "components": [
+      "Apache"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-6698",
+    "components": [
+      "OpenLDAP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-5707",
+    "components": [
+      "OpenLDAP"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.6.2 / Security Update 2009-006",
+        "date": "2009-11-02",
+        "advisory": "https://support.apple.com/kb/HT3937",
+        "archive": "https://web.archive.org/web/20091110132826id_/http://support.apple.com/kb/HT3937"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4965",
+    "components": [
+      "python"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-4565",
+    "components": [
+      "fetchmail"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2754",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1667",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1352",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-1351",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-3467",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-2783",
+    "components": [
+      "WebKit"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Safari 4.0",
+        "date": "2009-06-08",
+        "advisory": "https://support.apple.com/en-us/104135"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-1861",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Security Update 2009-001",
+        "date": "2009-02-12",
+        "advisory": "https://support.apple.com/en-us/104126"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2006-0747",
+    "components": [
+      "X11"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1186",
+    "components": [
+      "enscript"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1185",
+    "components": [
+      "enscript"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2004-1184",
+    "components": [
+      "enscript"
+    ],
+    "itw": false,
+    "releases": [
+      {
+        "name": "Mac OS X v10.5.7 / Security Update 2009-002",
+        "date": "2009-05-12",
+        "advisory": "https://support.apple.com/en-us/104129"
+      }
+    ]
+  }
+]
